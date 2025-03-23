@@ -15,6 +15,15 @@ def generate_accounts(customers):
 
     sim_start = datetime.strptime(SIMULATION_START_DATE, "%Y-%m-%d")
 
+    ex_account = {
+        "Account_Number": 100000,
+        "Type": "External",
+        "Open_Date": sim_start.strftime("%Y-%m-%d"),
+        "Balance": 100000000,
+        "CustomerID": "EXTERNAL"
+    }
+    accounts.append(ex_account)
+
     for customer in customers:
         # Konto PERSONAL
         open_date = fake.date_between(start_date=sim_start, end_date="today").strftime("%Y-%m-%d")
