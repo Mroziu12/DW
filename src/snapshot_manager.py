@@ -190,7 +190,7 @@ def export_sql_bulk(
     export_entities(employees, "Employee", "EmployeeID", diff_against.get("employees") if diff_against else None)
     export_entities(customers, "Customer", "Pesel", diff_against.get("customers") if diff_against else None)
     export_entities(accounts, "Account", "Account_Number", diff_against.get("accounts") if diff_against else None)
-    export_entities(transactions, "Transaction", "TransactionID", diff_against.get("transactions") if diff_against else None)
+    export_entities(transactions, "Transactions", "TransactionID", diff_against.get("transactions") if diff_against else None)
     export_entities(account_links, "Account_Transaction", "TransactionID", diff_against.get("account_links") if diff_against else None)
     export_entities(loans, "Loan", "LoanID", diff_against.get("loans") if diff_against else None)
     export_entities(payments, "Loan_Payment", "PaymentID", diff_against.get("payments") if diff_against else None)
