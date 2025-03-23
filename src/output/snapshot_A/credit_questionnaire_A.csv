@@ -1,0 +1,1365 @@
+Q_ID,CL_ID,CL_GENDER,CL_CHILDREN,CL_M_INCOME,DES_CRED_VAL,CL_EDU,CL_HOUSE_SIT,CL_OCCUPATION,Q_DATE,CR_RET_DATE,E_ASSIST,RISK_CALC,CR_DECISION
+1,78090708723,M,3,9249.64,28869.32,Incomplete higher education,Owned house,Manager,2021-06-02,2023-05-23,0,5.41,Accepted
+2,73111389322,F,2,4093.45,21905.55,Incomplete higher education,Rented apartment,Self-employed,2021-06-02,2021-11-29,0,4.97,Accepted
+3,60011812323,M,1,5589.24,29302.57,Secondary,Owned house,Self-employed,2021-06-02,2022-01-28,10,3.17,Accepted
+4,81100659720,F,3,14879.58,10931.18,Higher education,Owned house,Manager,2021-06-02,2023-04-23,3,5.0,Accepted
+5,80042329922,M,2,10766.11,17306.69,Higher education,Owned house,Manager,2021-06-02,2022-05-28,0,1.9,Accepted
+6,98091525464,M,4,11612.78,11988.95,Higher education,Owned house,Manager,2021-06-02,2022-10-25,0,4.42,Accepted
+7,98012316588,M,4,6309.9,3106.25,Incomplete higher education,Rented apartment,Manager,2021-06-02,2022-11-24,6,5.17,Accepted
+8,59110337123,M,2,11727.9,25770.23,Higher education,Living with parents,Self-employed,2021-06-02,2023-03-24,1,1.89,Accepted
+9,59042330493,M,0,6107.66,7774.08,Higher education,Living with parents,Manager,2021-06-02,2022-04-28,9,2.33,Accepted
+10,73030275371,F,2,13571.34,1636.32,Higher education,Rented apartment,Laborer,2021-06-02,2022-01-28,0,3.42,Accepted
+11,78113028039,F,3,10522.61,26244.45,Incomplete higher education,Living with parents,Laborer,2021-06-09,2022-09-02,0,6.65,Rejected
+12,51102439744,F,2,6866.96,12259.86,Higher education,Living with parents,Laborer,2021-06-09,2022-12-31,8,5.21,Accepted
+13,71011487039,M,0,13189.27,21971.39,Secondary,Owned house,Laborer,2021-06-09,2023-03-01,10,2.79,Accepted
+14,69122995937,F,4,14808.72,6654.96,Higher education,Living with parents,Self-employed,2021-06-09,2022-12-01,6,3.61,Accepted
+15,61092776394,F,0,13252.86,19133.7,Higher education,Living with parents,Manager,2021-06-09,2021-12-06,5,3.25,Accepted
+16,98060912965,F,0,3713.37,4729.63,Secondary,Owned house,Self-employed,2021-06-09,2022-02-04,0,5.49,Accepted
+17,83071334906,F,3,4856.21,2828.12,Incomplete higher education,Owned house,Manager,2021-06-09,2022-02-04,9,5.32,Accepted
+18,61070492443,F,3,13357.65,20324.69,Higher education,Living with parents,Manager,2021-06-09,2023-04-30,5,4.31,Accepted
+19,90091640511,M,3,3586.43,19937.01,Higher education,Living with parents,Laborer,2021-06-09,2022-01-05,6,4.04,Accepted
+20,92101022481,M,3,9240.24,29421.98,Secondary,Owned house,Self-employed,2021-06-09,2022-07-04,1,5.04,Accepted
+21,51102439744,F,3,6150.17,6461.31,Incomplete higher education,Living with parents,Manager,2021-06-16,2022-03-13,2,6.33,Rejected
+22,92050696497,M,0,13621.87,8871.81,Secondary,Rented apartment,Self-employed,2021-06-16,2022-08-10,4,3.89,Accepted
+23,80091916620,F,4,4364.45,20820.0,Higher education,Rented apartment,Laborer,2021-06-16,2022-01-12,7,4.76,Accepted
+24,97100859123,F,3,2978.88,28880.82,Secondary,Living with parents,Manager,2021-06-16,2021-12-13,0,7.28,Rejected
+25,91110616850,M,0,9089.69,24394.89,Higher education,Owned house,Manager,2021-06-16,2022-02-11,0,2.21,Accepted
+26,80042329922,M,4,2108.59,3919.29,Higher education,Owned house,Laborer,2021-06-16,2023-01-07,5,4.25,Accepted
+27,78071765288,M,0,4471.61,21455.5,Secondary,Rented apartment,Laborer,2021-06-16,2022-12-08,0,4.67,Accepted
+28,67072585800,F,3,5394.81,18731.13,Secondary,Owned house,Self-employed,2021-06-16,2022-07-11,6,6.26,Rejected
+29,64032500339,F,2,7005.48,18987.5,Higher education,Owned house,Self-employed,2021-06-16,2022-12-08,0,5.23,Accepted
+30,61070492443,M,4,12652.81,5254.59,Secondary,Owned house,Self-employed,2021-06-16,2023-05-07,5,3.16,Accepted
+31,62100569231,M,1,13260.12,14132.12,Higher education,Living with parents,Manager,2021-06-16,2023-01-07,2,2.2,Accepted
+32,73111389322,M,3,14584.4,23876.1,Higher education,Rented apartment,Self-employed,2021-06-23,2022-04-19,8,3.1,Accepted
+33,61082195541,F,2,6139.24,16523.1,Higher education,Owned house,Self-employed,2021-06-23,2022-11-15,7,4.32,Accepted
+34,97100859123,M,1,13930.17,15256.73,Incomplete higher education,Rented apartment,Self-employed,2021-06-23,2022-12-15,0,5.4,Accepted
+35,69122995937,F,2,2098.48,24007.89,Incomplete higher education,Owned house,Laborer,2021-06-23,2023-01-14,3,6.45,Rejected
+36,77012405868,F,1,6611.89,8239.4,Secondary,Living with parents,Manager,2021-06-23,2022-09-16,4,4.63,Accepted
+37,60082414274,M,3,10431.46,25194.18,Incomplete higher education,Rented apartment,Manager,2021-06-23,2022-11-15,5,5.06,Accepted
+38,53122027190,M,0,3137.63,25537.28,Secondary,Living with parents,Self-employed,2021-06-23,2022-11-15,4,4.54,Accepted
+39,58061406897,F,1,9013.69,16720.88,Incomplete higher education,Living with parents,Manager,2021-06-30,2022-02-25,9,5.36,Accepted
+40,60011812323,F,3,4253.59,10607.93,Secondary,Owned house,Laborer,2021-06-30,2022-01-26,1,6.46,Rejected
+41,56042027973,F,4,2730.72,1369.38,Higher education,Living with parents,Laborer,2021-06-30,2022-11-22,5,5.86,Accepted
+42,65120194881,M,1,2355.58,19500.59,Incomplete higher education,Rented apartment,Self-employed,2021-06-30,2022-01-26,8,5.15,Accepted
+43,55040348380,M,2,3762.35,25116.81,Incomplete higher education,Owned house,Manager,2021-06-30,2022-11-22,10,4.43,Accepted
+44,60082414274,M,1,13040.86,12219.66,Secondary,Rented apartment,Manager,2021-06-30,2022-07-25,7,3.19,Accepted
+45,92101022481,M,1,5540.11,18886.19,Higher education,Living with parents,Manager,2021-06-30,2022-02-25,2,2.55,Accepted
+46,73010632230,M,3,3393.76,22668.24,Incomplete higher education,Owned house,Self-employed,2021-07-07,2022-09-30,10,4.73,Accepted
+47,69122995937,M,2,3814.52,17512.94,Secondary,Rented apartment,Laborer,2021-07-07,2022-06-02,0,4.91,Accepted
+48,91110616850,F,3,4712.13,19711.51,Secondary,Rented apartment,Laborer,2021-07-07,2023-05-28,9,6.47,Rejected
+49,01290185598,M,4,11010.72,2082.63,Higher education,Rented apartment,Laborer,2021-07-07,2022-11-29,0,4.62,Accepted
+50,83071334906,F,2,2656.3,21391.58,Higher education,Rented apartment,Manager,2021-07-07,2022-01-03,5,4.47,Accepted
+51,65120194881,F,4,6546.79,28471.47,Higher education,Living with parents,Laborer,2021-07-07,2022-01-03,4,3.71,Accepted
+52,93121790183,F,3,7763.49,4235.94,Incomplete higher education,Living with parents,Self-employed,2021-07-07,2022-04-03,2,6.66,Rejected
+53,79110545634,F,3,6454.56,13102.73,Secondary,Owned house,Self-employed,2021-07-07,2022-05-03,6,5.62,Accepted
+54,64032500339,F,1,13798.41,13009.49,Secondary,Living with parents,Manager,2021-07-07,2022-06-02,0,3.93,Accepted
+55,51102439744,M,4,12890.56,13448.03,Secondary,Living with parents,Laborer,2021-07-14,2022-12-06,10,4.08,Accepted
+56,90101865790,F,2,12566.8,6811.78,Secondary,Living with parents,Laborer,2021-07-14,2022-09-07,10,6.17,Rejected
+57,82092108233,M,2,6363.14,27578.7,Higher education,Rented apartment,Self-employed,2021-07-14,2022-11-06,1,2.59,Accepted
+58,56042027973,F,1,9754.79,19960.8,Secondary,Living with parents,Manager,2021-07-14,2022-01-10,9,5.06,Accepted
+59,82102831012,M,1,11906.97,22299.52,Secondary,Rented apartment,Laborer,2021-07-14,2022-02-09,8,2.91,Accepted
+60,97112988623,M,3,11713.84,10120.41,Incomplete higher education,Owned house,Laborer,2021-07-14,2022-08-08,0,4.45,Accepted
+61,77012405868,M,1,13922.54,15629.01,Incomplete higher education,Rented apartment,Manager,2021-07-14,2023-05-05,2,3.32,Accepted
+62,62100569231,M,0,13064.84,4346.16,Incomplete higher education,Living with parents,Laborer,2021-07-14,2023-06-04,1,2.65,Accepted
+63,73010632230,F,4,10240.07,14157.29,Secondary,Rented apartment,Laborer,2021-07-21,2022-07-16,2,6.29,Rejected
+64,60080488775,M,0,13722.43,20122.19,Incomplete higher education,Owned house,Laborer,2021-07-21,2022-10-14,6,4.11,Accepted
+65,70090803442,F,3,8684.63,22668.96,Higher education,Living with parents,Manager,2021-07-21,2022-07-16,0,4.71,Accepted
+66,87052731503,F,4,11062.87,17090.21,Higher education,Owned house,Self-employed,2021-07-21,2022-09-14,0,3.98,Accepted
+67,65120194881,F,2,10071.74,13867.41,Higher education,Living with parents,Laborer,2021-07-21,2022-08-15,3,3.6,Accepted
+68,65121041394,M,3,9177.7,18330.03,Incomplete higher education,Rented apartment,Self-employed,2021-07-21,2022-09-14,0,4.37,Accepted
+69,93121790183,M,2,13579.99,26418.65,Incomplete higher education,Living with parents,Laborer,2021-07-21,2023-03-13,10,5.01,Accepted
+70,04240247825,F,3,4060.24,20861.53,Higher education,Owned house,Manager,2021-07-21,2022-04-17,0,5.54,Accepted
+71,67031423866,F,1,5480.1,17670.66,Higher education,Rented apartment,Self-employed,2021-07-21,2023-04-12,7,4.09,Accepted
+72,66011392612,F,3,10573.21,14054.71,Incomplete higher education,Owned house,Manager,2021-07-21,2022-10-14,0,4.8,Accepted
+73,97112988623,M,1,2914.82,2450.88,Incomplete higher education,Owned house,Self-employed,2021-07-21,2023-07-11,0,5.15,Accepted
+74,64032500339,M,4,13360.65,16742.88,Incomplete higher education,Owned house,Manager,2021-07-21,2023-05-12,0,3.74,Accepted
+75,62100569231,F,3,8972.2,17543.2,Secondary,Rented apartment,Manager,2021-07-21,2022-06-16,3,4.88,Accepted
+76,81122791906,F,3,8422.08,6600.25,Higher education,Owned house,Self-employed,2021-07-21,2023-02-11,4,4.78,Accepted
+77,78090708723,M,0,14329.76,8530.53,Higher education,Rented apartment,Manager,2021-07-28,2022-05-24,1,2.88,Accepted
+78,67123192424,F,4,14102.78,25975.25,Incomplete higher education,Owned house,Laborer,2021-07-28,2022-01-24,1,5.72,Accepted
+79,95051962794,M,2,9349.61,10605.02,Higher education,Living with parents,Manager,2021-07-28,2022-06-23,0,4.32,Accepted
+80,71101162351,F,1,9584.68,27370.23,Incomplete higher education,Rented apartment,Laborer,2021-07-28,2022-12-20,1,4.85,Accepted
+81,97100859123,F,0,11292.4,23808.18,Higher education,Living with parents,Self-employed,2021-07-28,2022-12-20,0,5.23,Accepted
+82,82071716715,F,0,3123.03,11872.22,Incomplete higher education,Rented apartment,Self-employed,2021-07-28,2022-12-20,6,5.55,Accepted
+83,91110616850,F,4,14623.87,2058.69,Higher education,Living with parents,Manager,2021-07-28,2023-06-18,1,5.08,Accepted
+84,73052011954,M,2,5393.22,9996.1,Higher education,Rented apartment,Laborer,2021-07-28,2022-02-23,0,2.28,Accepted
+85,77012405868,F,1,10720.03,6600.42,Incomplete higher education,Living with parents,Self-employed,2021-07-28,2023-07-18,7,5.42,Accepted
+86,54020265766,M,1,4972.19,4475.99,Secondary,Rented apartment,Self-employed,2021-08-04,2022-05-01,2,3.91,Accepted
+87,67123192424,M,1,6186.15,18461.11,Higher education,Living with parents,Laborer,2021-08-04,2022-01-31,7,2.82,Accepted
+88,73111389322,F,3,7249.52,11191.49,Higher education,Owned house,Self-employed,2021-08-04,2022-05-01,7,3.88,Accepted
+89,95051962794,M,3,2527.84,13659.96,Higher education,Owned house,Manager,2021-08-04,2022-05-01,0,4.91,Accepted
+90,76122217499,M,2,14182.67,20126.19,Secondary,Living with parents,Self-employed,2021-08-04,2023-06-25,7,4.48,Accepted
+91,91110616850,M,4,3728.41,9290.82,Higher education,Living with parents,Manager,2021-08-04,2023-03-27,6,4.86,Accepted
+92,71090953451,M,3,7880.48,4024.4,Incomplete higher education,Owned house,Manager,2021-08-04,2022-01-31,4,4.19,Accepted
+93,81100659720,M,4,7212.34,8127.49,Higher education,Owned house,Self-employed,2021-08-04,2022-05-01,4,2.96,Accepted
+94,98060912965,F,3,12963.01,9140.09,Incomplete higher education,Rented apartment,Laborer,2021-08-04,2023-03-27,0,6.32,Rejected
+95,55040348380,M,2,3467.1,25801.6,Incomplete higher education,Owned house,Manager,2021-08-04,2022-01-31,9,4.13,Accepted
+96,66011392612,F,1,7644.94,3509.99,Secondary,Owned house,Laborer,2021-08-04,2022-10-28,7,5.1,Accepted
+97,52021841135,F,3,13682.08,9953.16,Secondary,Owned house,Manager,2021-08-04,2023-02-25,9,6.05,Rejected
+98,90091640511,F,4,2514.4,21528.32,Secondary,Rented apartment,Manager,2021-08-04,2023-05-26,3,7.07,Rejected
+99,71040767438,M,4,4593.49,8095.92,Secondary,Living with parents,Self-employed,2021-08-04,2022-04-01,5,3.51,Accepted
+100,92101022481,F,3,10505.9,2646.76,Secondary,Living with parents,Laborer,2021-08-04,2023-05-26,10,6.81,Rejected
+101,51102439744,M,4,4594.81,17520.88,Secondary,Rented apartment,Laborer,2021-08-11,2023-04-03,7,4.63,Accepted
+102,92122968923,F,1,12124.58,18350.92,Higher education,Rented apartment,Laborer,2021-08-11,2023-04-03,7,4.78,Accepted
+103,58061406897,M,2,12270.64,6729.34,Higher education,Living with parents,Laborer,2021-08-11,2022-05-08,2,3.04,Accepted
+104,81100659720,M,0,2780.51,15473.38,Higher education,Living with parents,Manager,2021-08-11,2022-08-06,0,3.35,Accepted
+105,61092776394,M,0,8226.85,4325.57,Incomplete higher education,Living with parents,Manager,2021-08-11,2022-03-09,2,3.06,Accepted
+106,65112364277,F,2,2073.19,13604.36,Higher education,Owned house,Manager,2021-08-11,2023-03-04,9,4.83,Accepted
+107,88030124922,M,2,4752.43,26070.19,Higher education,Rented apartment,Manager,2021-08-11,2023-01-03,0,2.31,Accepted
+108,82102831012,F,4,10183.71,3614.84,Incomplete higher education,Living with parents,Self-employed,2021-08-11,2022-08-06,3,6.46,Rejected
+109,67072585800,M,3,5347.03,20270.43,Incomplete higher education,Owned house,Laborer,2021-08-11,2022-06-07,10,4.05,Accepted
+110,77012405868,F,3,10788.05,2922.3,Higher education,Rented apartment,Laborer,2021-08-11,2023-08-01,3,3.64,Accepted
+111,62100569231,F,1,3168.86,28756.32,Secondary,Living with parents,Laborer,2021-08-11,2023-06-02,9,6.17,Rejected
+112,71040767438,M,4,10039.56,28628.67,Secondary,Living with parents,Laborer,2021-08-11,2022-09-05,4,4.39,Accepted
+113,51051428382,F,0,2172.53,1891.79,Higher education,Rented apartment,Self-employed,2021-08-18,2023-07-09,1,4.54,Accepted
+114,73111389322,F,1,6859.06,5302.68,Incomplete higher education,Rented apartment,Manager,2021-08-18,2022-05-15,0,5.8,Accepted
+115,95051962794,M,4,6084.38,19414.25,Incomplete higher education,Rented apartment,Laborer,2021-08-18,2023-03-11,0,5.49,Accepted
+116,78071765288,M,3,9941.99,5676.97,Higher education,Living with parents,Manager,2021-08-18,2022-09-12,4,2.97,Accepted
+117,66011392612,M,1,8366.35,25345.42,Secondary,Owned house,Manager,2021-08-18,2022-03-16,1,3.21,Accepted
+118,88083168562,F,4,3741.74,1719.4,Secondary,Rented apartment,Laborer,2021-08-18,2022-03-16,0,6.99,Rejected
+119,81081972696,F,0,8764.71,28897.6,Incomplete higher education,Owned house,Manager,2021-08-18,2022-03-16,7,5.95,Accepted
+120,77012405868,M,2,13839.41,9172.9,Secondary,Living with parents,Laborer,2021-08-18,2022-11-11,10,3.47,Accepted
+121,99092126544,M,0,11324.84,2836.26,Incomplete higher education,Living with parents,Self-employed,2021-08-18,2022-04-15,0,3.86,Accepted
+122,61070492443,M,1,12766.31,14765.14,Secondary,Living with parents,Laborer,2021-08-18,2023-08-08,2,3.75,Accepted
+123,99071284190,F,2,13699.88,12224.06,Secondary,Rented apartment,Self-employed,2021-08-18,2023-01-10,0,7.22,Rejected
+124,98092648347,M,2,3969.62,27131.85,Secondary,Rented apartment,Manager,2021-08-25,2022-12-18,0,4.5,Accepted
+125,06262844540,M,4,9055.35,25901.58,Higher education,Owned house,Manager,2021-08-25,2023-02-16,0,3.93,Accepted
+126,70090803442,M,3,14851.37,24214.7,Secondary,Living with parents,Manager,2021-08-25,2023-08-15,4,3.1,Accepted
+127,61082195541,F,3,8817.58,16379.19,Incomplete higher education,Rented apartment,Manager,2021-08-25,2022-06-21,6,6.15,Rejected
+128,69122995937,F,3,6590.75,15535.68,Higher education,Living with parents,Laborer,2021-08-25,2022-09-19,4,4.59,Accepted
+129,80012535458,M,0,13318.95,17530.21,Secondary,Owned house,Self-employed,2021-08-25,2023-07-16,1,2.55,Accepted
+130,83071334906,F,1,14786.25,10571.28,Higher education,Rented apartment,Self-employed,2021-08-25,2023-07-16,8,3.9,Accepted
+131,98091525464,F,1,9557.41,8961.42,Secondary,Owned house,Laborer,2021-08-25,2022-11-18,0,6.79,Rejected
+132,53122027190,F,2,2394.77,16018.98,Incomplete higher education,Rented apartment,Laborer,2021-08-25,2022-05-22,1,5.85,Accepted
+133,73030275371,M,2,10597.36,15649.69,Higher education,Owned house,Laborer,2021-08-25,2023-01-17,0,2.03,Accepted
+134,81030824026,M,4,8383.87,2458.46,Higher education,Rented apartment,Manager,2021-09-01,2022-10-26,0,3.78,Accepted
+135,58061406897,M,3,11028.98,12985.94,Secondary,Owned house,Self-employed,2021-09-01,2023-06-23,2,4.99,Accepted
+136,61082195541,F,3,3294.83,24913.39,Higher education,Rented apartment,Self-employed,2021-09-01,2022-12-25,6,5.31,Accepted
+137,76122217499,M,4,4559.46,2206.01,Higher education,Owned house,Laborer,2021-09-01,2022-04-29,10,2.85,Accepted
+138,69122995937,M,4,3717.68,7333.41,Higher education,Rented apartment,Manager,2021-09-01,2022-12-25,4,3.81,Accepted
+139,80042329922,F,3,10409.13,22961.17,Higher education,Rented apartment,Self-employed,2021-09-01,2023-05-24,10,4.7,Accepted
+140,65112364277,M,4,3950.32,13118.48,Incomplete higher education,Rented apartment,Self-employed,2021-09-01,2022-07-28,9,5.07,Accepted
+141,88030124922,F,1,2500.32,1559.75,Higher education,Rented apartment,Laborer,2021-09-01,2023-08-22,0,4.7,Accepted
+142,83021144005,F,1,13776.88,22331.85,Secondary,Rented apartment,Self-employed,2021-09-01,2023-03-25,0,5.0,Accepted
+143,66011392612,F,0,7293.0,18196.6,Secondary,Living with parents,Self-employed,2021-09-01,2023-08-22,0,4.78,Accepted
+144,59110337123,M,2,8526.66,16721.61,Incomplete higher education,Rented apartment,Self-employed,2021-09-01,2022-06-28,4,3.24,Accepted
+145,90091640511,F,3,14173.66,1179.91,Secondary,Owned house,Manager,2021-09-01,2023-07-23,9,6.21,Rejected
+146,78090708723,M,2,5666.26,10680.2,Higher education,Owned house,Manager,2021-09-08,2022-09-03,0,3.34,Accepted
+147,93092174395,F,3,4238.53,5203.72,Incomplete higher education,Rented apartment,Manager,2021-09-08,2022-09-03,3,6.48,Rejected
+148,71011487039,F,4,3342.03,2918.55,Secondary,Owned house,Manager,2021-09-08,2022-12-02,2,5.84,Accepted
+149,98092648347,F,1,5953.96,22376.81,Secondary,Rented apartment,Manager,2021-09-08,2023-04-01,0,5.85,Accepted
+150,73111389322,M,1,13358.34,10725.1,Secondary,Living with parents,Manager,2021-09-08,2022-07-05,7,4.33,Accepted
+151,91062758698,F,4,10313.56,29528.59,Incomplete higher education,Rented apartment,Self-employed,2021-09-08,2023-08-29,5,6.31,Rejected
+152,51112859465,F,2,13630.61,27049.35,Secondary,Living with parents,Manager,2021-09-08,2022-07-05,2,6.47,Rejected
+153,98082262187,F,0,13067.04,23578.07,Incomplete higher education,Owned house,Laborer,2021-09-08,2023-04-01,0,5.98,Accepted
+154,51053048215,F,4,2473.91,3768.68,Higher education,Living with parents,Manager,2021-09-08,2022-03-07,1,4.41,Accepted
+155,59110337123,F,4,7662.58,28059.8,Higher education,Living with parents,Self-employed,2021-09-08,2022-06-05,8,4.79,Accepted
+156,99092126544,M,4,8831.65,10204.49,Incomplete higher education,Rented apartment,Self-employed,2021-09-08,2022-06-05,0,6.7,Rejected
+157,92101022481,M,1,5470.05,23022.86,Secondary,Living with parents,Self-employed,2021-09-08,2023-03-02,7,5.26,Accepted
+158,70090803442,F,3,6265.67,9789.7,Incomplete higher education,Owned house,Manager,2021-09-15,2022-09-10,10,6.51,Rejected
+159,95051962794,F,1,3827.12,28320.43,Higher education,Rented apartment,Self-employed,2021-09-15,2022-03-14,0,5.06,Accepted
+160,60011812323,M,0,12660.9,18653.32,Incomplete higher education,Living with parents,Laborer,2021-09-15,2023-03-09,4,3.01,Accepted
+161,01290185598,M,4,12234.66,12032.81,Higher education,Living with parents,Laborer,2021-09-15,2023-09-05,0,4.08,Accepted
+162,56042027973,M,3,11124.37,7914.78,Secondary,Rented apartment,Self-employed,2021-09-15,2023-09-05,4,3.97,Accepted
+163,50101832748,M,2,7877.6,3180.55,Incomplete higher education,Living with parents,Manager,2021-09-22,2023-06-14,2,5.49,Accepted
+164,60072870633,M,4,9102.48,29659.18,Secondary,Rented apartment,Manager,2021-09-22,2022-06-19,10,3.66,Accepted
+165,73111389322,M,0,8883.14,11009.86,Higher education,Living with parents,Manager,2021-09-22,2023-05-15,8,1.54,Accepted
+166,00231928642,M,1,11794.89,6689.6,Secondary,Rented apartment,Self-employed,2021-09-22,2022-04-20,0,5.46,Accepted
+167,70090803442,F,0,10156.04,26512.63,Secondary,Living with parents,Laborer,2021-09-22,2022-09-17,2,4.73,Accepted
+168,91110616850,F,4,14952.39,16653.01,Incomplete higher education,Rented apartment,Manager,2021-09-22,2023-04-15,4,7.11,Rejected
+169,83071334906,F,3,9997.38,8981.14,Incomplete higher education,Rented apartment,Manager,2021-09-22,2022-06-19,0,6.98,Rejected
+170,55040348380,F,3,8116.03,2703.34,Secondary,Living with parents,Manager,2021-09-22,2022-12-16,9,5.31,Accepted
+171,73052011954,F,4,4758.03,22266.05,Incomplete higher education,Owned house,Laborer,2021-09-22,2022-04-20,0,5.44,Accepted
+172,97112988623,F,2,10502.84,10304.37,Incomplete higher education,Living with parents,Laborer,2021-09-22,2023-03-16,0,6.53,Rejected
+173,98082262187,F,3,6084.81,10915.41,Incomplete higher education,Rented apartment,Self-employed,2021-09-22,2022-04-20,0,6.33,Rejected
+174,98012316588,M,0,11444.45,10863.44,Higher education,Rented apartment,Self-employed,2021-09-22,2023-04-15,0,2.21,Accepted
+175,64032500339,M,2,8020.16,7465.3,Incomplete higher education,Rented apartment,Manager,2021-09-22,2023-09-12,2,3.76,Accepted
+176,59110337123,F,4,3895.13,9290.28,Secondary,Owned house,Self-employed,2021-09-22,2022-09-17,7,5.63,Accepted
+177,73010632230,F,2,8577.39,11946.69,Higher education,Owned house,Manager,2021-09-29,2022-05-27,2,3.18,Accepted
+178,92050696497,F,0,6762.78,14626.32,Higher education,Living with parents,Laborer,2021-09-29,2022-12-23,10,3.89,Accepted
+179,51051428382,F,4,4361.66,12825.01,Incomplete higher education,Rented apartment,Self-employed,2021-09-29,2022-10-24,3,6.77,Rejected
+180,82071716715,F,3,8693.32,20565.97,Higher education,Rented apartment,Self-employed,2021-09-29,2022-07-26,8,4.55,Accepted
+181,80012535458,M,2,2378.74,8090.54,Secondary,Living with parents,Laborer,2021-09-29,2022-04-27,7,5.28,Accepted
+182,92021392955,M,1,13720.69,28558.06,Higher education,Owned house,Self-employed,2021-09-29,2022-11-23,0,3.38,Accepted
+183,83021144005,M,0,2634.2,15007.36,Secondary,Rented apartment,Laborer,2021-09-29,2022-08-25,0,4.25,Accepted
+184,97112988623,M,1,11522.36,5923.57,Secondary,Rented apartment,Manager,2021-09-29,2022-06-26,0,4.13,Accepted
+185,67072585800,M,1,10114.68,5244.22,Higher education,Living with parents,Self-employed,2021-09-29,2022-08-25,0,2.32,Accepted
+186,81081972696,M,4,4158.26,10687.23,Secondary,Rented apartment,Self-employed,2021-09-29,2022-10-24,3,5.36,Accepted
+187,90091640511,M,3,5017.85,9563.29,Higher education,Rented apartment,Manager,2021-09-29,2022-04-27,8,3.47,Accepted
+188,71040767438,F,4,13415.86,29229.35,Secondary,Owned house,Self-employed,2021-09-29,2022-04-27,0,4.88,Accepted
+189,92050696497,F,4,14632.22,14044.83,Incomplete higher education,Living with parents,Self-employed,2021-10-06,2023-09-26,5,6.01,Rejected
+190,71011487039,M,2,10952.47,26951.63,Higher education,Living with parents,Self-employed,2021-10-06,2023-01-29,6,2.0,Accepted
+191,91110616850,F,1,5495.43,3431.05,Higher education,Rented apartment,Manager,2021-10-06,2022-12-30,6,5.76,Accepted
+192,80042329922,M,2,6570.63,13997.92,Incomplete higher education,Owned house,Laborer,2021-10-06,2023-05-29,2,4.4,Accepted
+193,98060912965,M,0,13339.78,28442.61,Higher education,Living with parents,Self-employed,2021-10-06,2022-11-30,0,2.35,Accepted
+194,82092108233,F,3,14263.43,25367.25,Secondary,Owned house,Laborer,2021-10-06,2023-07-28,2,4.88,Accepted
+195,56042027973,F,1,6654.36,25165.92,Incomplete higher education,Owned house,Laborer,2021-10-06,2023-04-29,9,5.61,Accepted
+196,62021231186,M,0,5811.65,28536.48,Incomplete higher education,Rented apartment,Laborer,2021-10-06,2023-01-29,5,3.67,Accepted
+197,66011392612,F,1,4426.52,21632.1,Incomplete higher education,Living with parents,Manager,2021-10-06,2023-02-28,0,6.41,Rejected
+198,98012316588,M,3,10885.91,3624.09,Higher education,Owned house,Self-employed,2021-10-06,2022-09-01,0,3.08,Accepted
+199,75061757793,M,2,4730.99,3396.38,Incomplete higher education,Rented apartment,Laborer,2021-10-06,2022-12-30,10,3.75,Accepted
+200,60082414274,F,1,7610.42,18351.62,Incomplete higher education,Owned house,Laborer,2021-10-06,2023-04-29,2,5.46,Accepted
+201,73030275371,M,2,5830.08,17618.96,Incomplete higher education,Rented apartment,Laborer,2021-10-06,2022-06-03,4,3.43,Accepted
+202,51102439744,F,3,13802.14,13423.72,Higher education,Owned house,Manager,2021-10-13,2022-06-10,6,4.88,Accepted
+203,92122968923,F,3,4283.39,23815.26,Higher education,Owned house,Self-employed,2021-10-13,2022-11-07,0,4.55,Accepted
+204,60072870633,M,3,5537.39,27220.31,Incomplete higher education,Owned house,Laborer,2021-10-13,2022-08-09,4,3.48,Accepted
+205,70090803442,F,3,13207.23,14120.82,Higher education,Rented apartment,Laborer,2021-10-13,2022-06-10,0,4.29,Accepted
+206,91062758698,F,0,9113.08,1135.74,Secondary,Rented apartment,Manager,2021-10-13,2022-05-11,0,6.37,Rejected
+207,71101162351,F,4,8623.96,24324.14,Secondary,Living with parents,Manager,2021-10-13,2022-09-08,3,5.93,Accepted
+208,75122412096,F,2,2529.79,13678.56,Secondary,Living with parents,Self-employed,2021-10-13,2023-02-05,1,5.51,Accepted
+209,98060912965,M,2,14256.47,22162.53,Incomplete higher education,Owned house,Self-employed,2021-10-13,2023-06-05,0,5.5,Accepted
+210,62021231186,M,0,12738.89,10930.58,Incomplete higher education,Owned house,Self-employed,2021-10-13,2023-08-04,1,3.97,Accepted
+211,59042330493,M,2,4814.19,3093.12,Secondary,Living with parents,Manager,2021-10-13,2023-04-06,4,5.05,Accepted
+212,60082414274,F,1,5376.35,3834.15,Higher education,Rented apartment,Self-employed,2021-10-13,2022-07-10,6,3.88,Accepted
+213,90091640511,M,0,3631.11,20609.74,Secondary,Rented apartment,Manager,2021-10-13,2023-09-03,2,4.16,Accepted
+214,73030275371,F,0,6322.12,3980.53,Secondary,Living with parents,Self-employed,2021-10-13,2022-10-08,8,3.94,Accepted
+215,53051302064,F,0,9988.98,13696.64,Secondary,Living with parents,Manager,2021-10-20,2023-03-14,9,4.19,Accepted
+216,92122968923,F,0,11800.8,8744.57,Secondary,Living with parents,Manager,2021-10-20,2022-12-14,8,5.75,Accepted
+217,71011487039,F,4,5392.4,24489.89,Higher education,Living with parents,Self-employed,2021-10-20,2023-03-14,10,4.81,Accepted
+218,67123192424,M,4,9336.61,3276.86,Incomplete higher education,Owned house,Laborer,2021-10-20,2022-12-14,0,4.62,Accepted
+219,74101998368,M,2,3063.99,12912.0,Higher education,Owned house,Laborer,2021-10-20,2022-10-15,0,2.34,Accepted
+220,55040348380,F,0,9758.58,19642.69,Higher education,Rented apartment,Manager,2021-10-20,2023-06-12,8,4.17,Accepted
+221,88030124922,M,4,2519.55,4117.86,Secondary,Living with parents,Self-employed,2021-10-20,2023-02-12,1,5.39,Accepted
+222,61070492443,F,0,5159.57,24633.39,Incomplete higher education,Owned house,Self-employed,2021-10-20,2022-11-14,9,5.27,Accepted
+223,78090708723,M,1,8507.69,9846.19,Secondary,Owned house,Self-employed,2021-10-27,2023-09-17,7,4.6,Accepted
+224,92122968923,M,2,9784.96,14676.55,Secondary,Living with parents,Laborer,2021-10-27,2023-05-20,7,3.86,Accepted
+225,50101832748,F,1,7508.49,10322.22,Incomplete higher education,Owned house,Manager,2021-10-27,2022-10-22,5,5.05,Accepted
+226,60072870633,F,1,2656.89,2318.37,Secondary,Living with parents,Laborer,2021-10-27,2023-03-21,8,5.93,Accepted
+227,00231928642,M,4,10867.11,10748.14,Incomplete higher education,Living with parents,Self-employed,2021-10-27,2022-04-25,0,5.65,Accepted
+228,80091916620,F,3,13332.27,10671.96,Incomplete higher education,Owned house,Laborer,2021-10-27,2022-09-22,3,6.18,Rejected
+229,83071334906,F,4,9321.09,22394.3,Higher education,Rented apartment,Self-employed,2021-10-27,2023-09-17,9,5.1,Accepted
+230,78071765288,M,0,8335.75,6095.71,Incomplete higher education,Owned house,Laborer,2021-10-27,2023-01-20,0,3.5,Accepted
+231,75061757793,M,0,8201.55,23074.26,Incomplete higher education,Rented apartment,Self-employed,2021-10-27,2023-08-18,8,4.15,Accepted
+232,73010632230,M,0,7696.51,21889.27,Incomplete higher education,Owned house,Self-employed,2021-11-03,2022-10-29,5,3.46,Accepted
+233,50101832748,F,2,6863.86,6567.89,Incomplete higher education,Owned house,Self-employed,2021-11-03,2023-07-26,1,5.55,Accepted
+234,00231928642,F,3,7332.94,27980.77,Incomplete higher education,Rented apartment,Self-employed,2021-11-03,2022-08-30,0,6.94,Rejected
+235,71101162351,F,3,12873.44,3698.5,Incomplete higher education,Rented apartment,Self-employed,2021-11-03,2023-08-25,1,6.4,Rejected
+236,91110616850,F,1,7682.43,25831.56,Higher education,Rented apartment,Self-employed,2021-11-03,2023-02-26,6,4.72,Accepted
+237,83071334906,M,0,5470.93,22593.14,Secondary,Rented apartment,Laborer,2021-11-03,2023-02-26,1,3.89,Accepted
+238,98091525464,M,4,9420.48,15999.52,Incomplete higher education,Owned house,Self-employed,2021-11-03,2022-10-29,0,6.14,Rejected
+239,67072585800,M,1,5886.62,27814.51,Higher education,Living with parents,Manager,2021-11-03,2023-06-26,10,3.12,Accepted
+240,51053048215,M,1,14693.66,13853.87,Secondary,Living with parents,Self-employed,2021-11-03,2022-11-28,3,4.21,Accepted
+241,59110337123,F,1,8144.54,14675.91,Incomplete higher education,Living with parents,Manager,2021-11-03,2023-04-27,5,4.85,Accepted
+242,62100569231,F,1,10036.32,29857.14,Incomplete higher education,Owned house,Laborer,2021-11-03,2023-05-27,6,5.78,Accepted
+243,80091916620,M,0,8904.6,7279.38,Secondary,Rented apartment,Self-employed,2021-11-10,2023-04-04,0,3.54,Accepted
+244,51112859465,M,4,13517.78,24971.21,Higher education,Owned house,Manager,2021-11-10,2022-06-08,1,2.68,Accepted
+245,71101162351,F,1,6749.89,14426.24,Secondary,Owned house,Self-employed,2021-11-10,2022-05-09,0,4.42,Accepted
+246,69122995937,F,4,14122.8,16680.81,Secondary,Living with parents,Self-employed,2021-11-10,2023-07-03,0,5.13,Accepted
+247,55041728385,F,2,8695.54,23336.55,Higher education,Rented apartment,Laborer,2021-11-10,2023-10-01,6,3.78,Accepted
+248,92021392955,F,2,9826.2,7976.98,Higher education,Owned house,Manager,2021-11-10,2023-06-03,0,5.83,Accepted
+249,97112988623,F,1,4786.18,5819.48,Incomplete higher education,Owned house,Self-employed,2021-11-10,2023-06-03,0,5.47,Accepted
+250,61070492443,F,2,4635.81,5885.77,Incomplete higher education,Owned house,Manager,2021-11-10,2022-07-08,5,6.07,Rejected
+251,81030824026,M,1,10382.45,27966.99,Incomplete higher education,Living with parents,Manager,2021-11-17,2023-03-12,0,4.03,Accepted
+252,98092648347,M,4,7986.1,26579.39,Secondary,Owned house,Manager,2021-11-17,2023-07-10,0,4.29,Accepted
+253,50121361133,F,2,5567.66,19995.91,Higher education,Owned house,Self-employed,2021-11-17,2022-11-12,9,4.38,Accepted
+254,55041728385,M,2,2900.3,3438.4,Secondary,Rented apartment,Self-employed,2021-11-17,2022-05-16,6,4.84,Accepted
+255,67031423866,F,1,4720.05,21211.63,Secondary,Living with parents,Laborer,2021-11-17,2023-02-10,5,5.85,Accepted
+256,88083168562,M,3,8330.85,14017.22,Higher education,Rented apartment,Laborer,2021-11-17,2022-11-12,2,2.29,Accepted
+257,52021841135,M,0,7454.13,9914.99,Incomplete higher education,Rented apartment,Laborer,2021-11-17,2022-11-12,8,3.24,Accepted
+258,62100569231,F,0,8582.05,3138.67,Incomplete higher education,Rented apartment,Manager,2021-11-17,2023-08-09,4,4.67,Accepted
+259,81122791906,F,4,12727.22,20398.67,Secondary,Owned house,Manager,2021-11-17,2023-06-10,10,5.82,Accepted
+260,71011487039,M,0,8705.13,2524.52,Secondary,Rented apartment,Manager,2021-11-24,2023-07-17,5,2.35,Accepted
+261,97100859123,F,0,2774.84,27968.38,Incomplete higher education,Rented apartment,Manager,2021-11-24,2023-03-19,0,6.33,Rejected
+262,88030124922,M,4,14057.96,2571.58,Secondary,Living with parents,Laborer,2021-11-24,2023-02-17,0,3.33,Accepted
+263,59042330493,M,1,7809.41,15232.37,Higher education,Rented apartment,Self-employed,2021-11-24,2023-02-17,3,1.52,Accepted
+264,60082414274,M,2,11466.55,10542.51,Secondary,Living with parents,Laborer,2021-11-24,2023-10-15,2,3.64,Accepted
+265,90091640511,M,1,5545.71,23371.1,Secondary,Owned house,Manager,2021-11-24,2023-01-18,7,4.95,Accepted
+266,61082195541,F,1,6572.2,14163.87,Incomplete higher education,Rented apartment,Laborer,2021-12-01,2023-01-25,10,5.77,Accepted
+267,95051962794,F,3,12044.29,6659.97,Secondary,Living with parents,Self-employed,2021-12-01,2023-06-24,0,5.97,Accepted
+268,51112859465,M,2,8642.34,24969.53,Incomplete higher education,Owned house,Manager,2021-12-01,2023-06-24,9,3.56,Accepted
+269,65112364277,M,2,4553.37,14138.81,Secondary,Rented apartment,Laborer,2021-12-01,2023-02-24,9,3.38,Accepted
+270,82102831012,M,0,4027.12,28254.42,Higher education,Living with parents,Manager,2021-12-01,2022-11-26,1,1.82,Accepted
+271,01231891871,F,4,6170.19,29732.1,Incomplete higher education,Rented apartment,Manager,2021-12-01,2023-11-21,0,8.13,Rejected
+272,61070492443,F,0,13687.45,7940.0,Incomplete higher education,Living with parents,Laborer,2021-12-01,2022-11-26,5,5.55,Accepted
+273,75061757793,M,3,9292.33,5289.71,Incomplete higher education,Living with parents,Self-employed,2021-12-01,2023-09-22,0,4.65,Accepted
+274,81030824026,M,2,10003.75,18718.17,Higher education,Owned house,Laborer,2021-12-08,2022-08-05,10,2.66,Accepted
+275,71011487039,F,1,12206.49,9976.34,Incomplete higher education,Owned house,Manager,2021-12-08,2023-04-02,10,5.8,Accepted
+276,60080488775,F,3,14931.95,16496.01,Secondary,Living with parents,Manager,2021-12-08,2023-01-02,3,5.5,Accepted
+277,98092648347,F,4,7666.8,9819.67,Higher education,Rented apartment,Self-employed,2021-12-08,2023-09-29,0,5.58,Accepted
+278,00231928642,M,0,3204.88,18230.39,Higher education,Owned house,Manager,2021-12-08,2023-08-30,0,2.84,Accepted
+279,60011812323,F,3,14498.22,23499.51,Secondary,Owned house,Laborer,2021-12-08,2022-07-06,3,4.94,Accepted
+280,80042329922,F,1,14229.82,16340.29,Secondary,Rented apartment,Self-employed,2021-12-08,2023-02-01,4,4.55,Accepted
+281,01231891871,F,4,11094.89,29885.53,Higher education,Living with parents,Self-employed,2021-12-08,2023-11-28,0,5.98,Accepted
+282,78090708723,M,1,2232.01,15900.88,Incomplete higher education,Owned house,Self-employed,2021-12-15,2023-05-09,9,4.63,Accepted
+283,50101832748,F,2,5248.57,21841.8,Secondary,Rented apartment,Self-employed,2021-12-15,2022-12-10,1,5.46,Accepted
+284,80091916620,M,1,8381.36,7142.2,Higher education,Living with parents,Manager,2021-12-15,2022-11-10,2,2.57,Accepted
+285,51112859465,F,2,14234.12,26842.95,Incomplete higher education,Owned house,Self-employed,2021-12-15,2023-06-08,7,5.88,Accepted
+286,91110616850,M,4,6111.44,29703.13,Incomplete higher education,Owned house,Self-employed,2021-12-15,2023-05-09,2,5.47,Accepted
+287,01231891871,M,2,4223.9,28853.62,Secondary,Living with parents,Laborer,2021-12-15,2022-06-13,0,5.16,Accepted
+288,99092126544,M,0,2647.71,21870.95,Secondary,Rented apartment,Manager,2021-12-15,2022-07-13,0,4.93,Accepted
+289,60082414274,F,4,7353.13,7590.7,Higher education,Living with parents,Self-employed,2021-12-15,2022-07-13,1,3.86,Accepted
+290,90091640511,F,2,8592.17,5547.74,Incomplete higher education,Owned house,Laborer,2021-12-15,2023-03-10,8,6.89,Rejected
+291,94011272336,F,2,3442.12,9459.24,Incomplete higher education,Living with parents,Self-employed,2021-12-22,2023-12-12,9,7.58,Rejected
+292,53051302064,F,0,10208.45,16735.14,Secondary,Rented apartment,Laborer,2021-12-22,2022-10-18,2,5.21,Accepted
+293,98092648347,M,4,7613.62,25153.69,Higher education,Rented apartment,Laborer,2021-12-22,2023-12-12,0,4.57,Accepted
+294,72031461720,F,1,12316.42,6349.14,Higher education,Rented apartment,Manager,2021-12-22,2022-06-20,0,3.65,Accepted
+295,76122217499,M,1,2552.94,2830.94,Secondary,Rented apartment,Self-employed,2021-12-22,2022-06-20,0,3.82,Accepted
+296,56042027973,M,0,13814.46,22058.76,Higher education,Rented apartment,Laborer,2021-12-22,2022-08-19,8,1.55,Accepted
+297,79110545634,F,1,7386.18,5265.41,Incomplete higher education,Living with parents,Manager,2021-12-22,2023-06-15,5,5.53,Accepted
+298,89073111382,M,0,2592.9,24894.57,Higher education,Owned house,Self-employed,2021-12-22,2022-12-17,0,3.08,Accepted
+299,64032500339,M,4,7053.32,23428.88,Incomplete higher education,Owned house,Manager,2021-12-22,2022-08-19,10,4.96,Accepted
+300,77012405868,F,4,6957.9,12019.06,Secondary,Owned house,Manager,2021-12-22,2023-05-16,5,6.96,Rejected
+301,60082414274,F,1,3987.02,7630.89,Higher education,Living with parents,Manager,2021-12-22,2022-06-20,8,3.7,Accepted
+302,78113028039,M,0,12344.78,10300.05,Higher education,Rented apartment,Self-employed,2021-12-29,2022-08-26,0,2.77,Accepted
+303,73010632230,F,2,6465.38,10544.61,Incomplete higher education,Living with parents,Manager,2021-12-29,2022-08-26,4,5.61,Accepted
+304,67123192424,F,4,5085.48,13994.72,Secondary,Rented apartment,Self-employed,2021-12-29,2023-11-19,9,5.55,Accepted
+305,70090803442,F,3,14239.68,12304.8,Incomplete higher education,Living with parents,Laborer,2021-12-29,2023-02-22,10,5.3,Accepted
+306,55041728385,F,0,5292.09,7438.42,Higher education,Living with parents,Manager,2021-12-29,2023-10-20,5,4.44,Accepted
+307,83021144005,M,2,14876.26,10042.57,Incomplete higher education,Rented apartment,Self-employed,2021-12-29,2023-12-19,6,4.7,Accepted
+308,67031423866,F,0,12284.81,25382.26,Incomplete higher education,Living with parents,Self-employed,2021-12-29,2023-10-20,0,5.54,Accepted
+309,61070492443,M,1,3942.5,16292.63,Incomplete higher education,Living with parents,Manager,2021-12-29,2022-11-24,3,3.33,Accepted
+310,75061757793,F,3,2817.26,4443.22,Incomplete higher education,Owned house,Manager,2021-12-29,2023-04-23,5,5.94,Accepted
+311,92050696497,F,2,8046.21,22612.3,Incomplete higher education,Rented apartment,Manager,2022-01-05,2023-05-30,2,7.47,Rejected
+312,74101998368,M,0,11818.41,3485.04,Secondary,Living with parents,Manager,2022-01-05,2022-12-01,3,3.97,Accepted
+313,51112859465,F,2,7880.98,12010.7,Secondary,Owned house,Self-employed,2022-01-05,2023-10-27,9,6.34,Rejected
+314,97100859123,M,0,4875.67,21904.74,Incomplete higher education,Owned house,Manager,2022-01-05,2022-12-31,0,3.85,Accepted
+315,81100659720,F,2,8621.73,28555.2,Higher education,Rented apartment,Manager,2022-01-05,2022-07-04,10,5.07,Accepted
+316,98091525464,F,2,5726.61,12035.83,Incomplete higher education,Living with parents,Laborer,2022-01-05,2023-05-30,0,5.82,Accepted
+317,82102831012,F,4,6014.56,7121.35,Incomplete higher education,Owned house,Manager,2022-01-05,2022-09-02,4,6.64,Rejected
+318,67072585800,F,4,8638.95,7912.77,Higher education,Rented apartment,Self-employed,2022-01-05,2022-07-04,5,5.52,Accepted
+319,51053048215,F,1,7259.36,8180.51,Incomplete higher education,Living with parents,Laborer,2022-01-05,2023-11-26,3,5.41,Accepted
+320,99071284190,M,2,4663.79,1280.8,Higher education,Living with parents,Laborer,2022-01-05,2023-04-30,0,4.71,Accepted
+321,78090708723,F,0,3730.22,10710.94,Incomplete higher education,Owned house,Manager,2022-01-12,2023-03-08,9,6.19,Rejected
+322,94011272336,F,4,4763.12,7128.04,Incomplete higher education,Living with parents,Self-employed,2022-01-12,2023-12-03,0,7.95,Rejected
+323,81030824026,M,1,2294.05,7217.9,Incomplete higher education,Rented apartment,Self-employed,2022-01-12,2023-09-04,5,4.2,Accepted
+324,50101832748,F,4,10028.92,27642.04,Incomplete higher education,Rented apartment,Manager,2022-01-12,2023-07-06,1,5.79,Accepted
+325,74101998368,M,0,12967.68,12830.35,Secondary,Rented apartment,Laborer,2022-01-12,2023-02-06,3,4.25,Accepted
+326,72031461720,M,4,3976.91,8775.87,Incomplete higher education,Owned house,Laborer,2022-01-12,2023-03-08,0,5.22,Accepted
+327,60011812323,M,2,4933.04,25354.27,Higher education,Owned house,Manager,2022-01-12,2023-06-06,7,2.08,Accepted
+328,05310373619,M,0,12170.42,26285.13,Secondary,Living with parents,Self-employed,2022-01-12,2023-09-04,2,4.65,Accepted
+329,82092108233,F,1,4163.98,29827.22,Incomplete higher education,Rented apartment,Laborer,2022-01-12,2023-08-05,9,4.95,Accepted
+330,98082262187,M,2,5867.63,23442.03,Higher education,Living with parents,Self-employed,2022-01-12,2023-12-03,0,3.96,Accepted
+331,89073111382,M,2,5888.07,27107.54,Higher education,Owned house,Self-employed,2022-01-12,2022-08-10,9,4.37,Accepted
+332,59110337123,F,2,7289.74,19791.88,Secondary,Living with parents,Laborer,2022-01-12,2022-11-08,7,6.21,Rejected
+333,60082414274,F,3,14128.77,22945.43,Incomplete higher education,Rented apartment,Self-employed,2022-01-12,2022-11-08,2,5.82,Accepted
+334,78113028039,M,3,14842.1,14881.68,Incomplete higher education,Living with parents,Self-employed,2022-01-19,2022-12-15,2,4.52,Accepted
+335,78090708723,F,3,10763.09,29618.71,Incomplete higher education,Living with parents,Manager,2022-01-19,2023-06-13,7,6.68,Rejected
+336,93092174395,M,4,13208.96,5319.12,Incomplete higher education,Owned house,Laborer,2022-01-19,2022-12-15,0,4.51,Accepted
+337,71011487039,M,2,14464.8,21688.9,Secondary,Rented apartment,Manager,2022-01-19,2022-07-18,4,3.08,Accepted
+338,73111389322,F,1,2446.44,27900.17,Higher education,Owned house,Laborer,2022-01-19,2024-01-09,3,3.73,Accepted
+339,75122412096,M,3,14621.09,26102.47,Higher education,Living with parents,Self-employed,2022-01-19,2023-04-14,10,3.58,Accepted
+340,82071716715,M,4,11529.12,8243.42,Secondary,Rented apartment,Laborer,2022-01-19,2022-07-18,2,4.57,Accepted
+341,91110616850,M,3,5477.25,23696.22,Higher education,Living with parents,Self-employed,2022-01-19,2023-12-10,3,2.99,Accepted
+342,05310373619,M,2,10643.61,4946.11,Higher education,Rented apartment,Laborer,2022-01-19,2023-03-15,0,3.0,Accepted
+343,01290185598,F,1,7602.62,9629.63,Higher education,Owned house,Manager,2022-01-19,2023-07-13,0,4.71,Accepted
+344,98091525464,F,0,8959.87,4114.12,Higher education,Rented apartment,Manager,2022-01-19,2022-11-15,0,4.59,Accepted
+345,67031423866,M,2,10596.8,9509.68,Secondary,Owned house,Manager,2022-01-19,2023-10-11,0,3.77,Accepted
+346,77012405868,F,3,4847.25,12537.0,Incomplete higher education,Living with parents,Laborer,2022-01-19,2023-05-14,0,5.27,Accepted
+347,60080488775,F,0,2363.34,18264.8,Higher education,Living with parents,Self-employed,2022-01-26,2023-04-21,4,4.29,Accepted
+348,58061406897,M,1,10786.56,19819.35,Incomplete higher education,Owned house,Manager,2022-01-26,2023-04-21,3,4.0,Accepted
+349,91062758698,F,3,13157.63,5227.8,Secondary,Owned house,Self-employed,2022-01-26,2024-01-16,5,5.28,Accepted
+350,71090953451,F,0,7792.49,25639.49,Secondary,Rented apartment,Self-employed,2022-01-26,2023-06-20,8,3.97,Accepted
+351,93121790183,M,2,10232.88,27286.55,Incomplete higher education,Living with parents,Self-employed,2022-01-26,2023-07-20,4,4.87,Accepted
+352,04240247825,M,4,12791.01,20025.93,Incomplete higher education,Rented apartment,Self-employed,2022-01-26,2023-05-21,0,5.02,Accepted
+353,98012316588,M,3,11157.03,29822.76,Secondary,Living with parents,Self-employed,2022-01-26,2022-09-23,0,5.82,Accepted
+354,53122027190,F,0,7681.99,25985.93,Secondary,Owned house,Self-employed,2022-01-26,2022-09-23,8,4.67,Accepted
+355,71011487039,M,1,13304.24,6360.19,Secondary,Living with parents,Laborer,2022-02-02,2023-06-27,0,3.36,Accepted
+356,71101162351,M,2,8309.65,22473.16,Incomplete higher education,Living with parents,Self-employed,2022-02-02,2023-07-27,8,3.1,Accepted
+357,91110616850,F,4,12691.14,7875.41,Secondary,Living with parents,Laborer,2022-02-02,2023-11-24,0,5.93,Accepted
+358,66011392612,F,1,14116.73,11407.7,Incomplete higher education,Living with parents,Manager,2022-02-02,2023-05-28,0,5.27,Accepted
+359,89073111382,F,3,7965.63,12513.94,Incomplete higher education,Owned house,Self-employed,2022-02-02,2022-09-30,4,6.59,Rejected
+360,59042330493,M,2,2742.98,11614.18,Secondary,Owned house,Self-employed,2022-02-02,2023-01-28,2,4.07,Accepted
+361,62100569231,M,4,8042.4,18419.71,Incomplete higher education,Owned house,Manager,2022-02-02,2024-01-23,3,3.61,Accepted
+362,92101022481,F,2,12946.14,24721.34,Incomplete higher education,Owned house,Manager,2022-02-02,2022-11-29,10,5.27,Accepted
+363,78090708723,M,1,10496.05,6602.57,Incomplete higher education,Rented apartment,Manager,2022-02-09,2022-10-07,0,4.25,Accepted
+364,50101832748,M,3,14962.87,3826.34,Incomplete higher education,Living with parents,Manager,2022-02-09,2023-11-01,3,4.82,Accepted
+365,73111389322,F,3,10586.99,20283.7,Incomplete higher education,Living with parents,Self-employed,2022-02-09,2023-09-02,7,5.5,Accepted
+366,69122995937,M,1,12712.58,24397.18,Higher education,Rented apartment,Laborer,2022-02-09,2023-07-04,9,1.41,Accepted
+367,79110545634,M,1,5089.46,10831.14,Secondary,Rented apartment,Laborer,2022-02-09,2022-12-06,0,4.15,Accepted
+368,59110337123,F,1,6631.71,15070.4,Higher education,Rented apartment,Laborer,2022-02-09,2023-12-01,4,3.5,Accepted
+369,90091640511,M,0,6145.36,20406.22,Incomplete higher education,Rented apartment,Self-employed,2022-02-09,2022-10-07,1,3.77,Accepted
+370,71040767438,M,0,8331.52,12524.24,Higher education,Living with parents,Laborer,2022-02-09,2023-02-04,0,2.57,Accepted
+371,92050696497,M,4,2625.23,10611.87,Incomplete higher education,Living with parents,Manager,2022-02-16,2022-11-13,0,6.61,Rejected
+372,81030824026,M,4,6358.9,18545.71,Higher education,Living with parents,Self-employed,2022-02-16,2023-08-10,10,4.27,Accepted
+373,82071716715,M,1,14688.59,13230.78,Secondary,Rented apartment,Laborer,2022-02-16,2024-02-06,3,3.25,Accepted
+374,83021144005,M,1,3804.59,8853.84,Secondary,Owned house,Self-employed,2022-02-16,2022-11-13,0,4.85,Accepted
+375,88083168562,M,4,10030.25,5391.51,Incomplete higher education,Rented apartment,Manager,2022-02-16,2023-07-11,0,4.76,Accepted
+376,60082414274,F,0,10202.54,2738.5,Incomplete higher education,Living with parents,Manager,2022-02-16,2023-12-08,3,4.07,Accepted
+377,71040767438,M,1,9753.16,23102.85,Secondary,Owned house,Laborer,2022-02-16,2022-09-14,0,3.35,Accepted
+378,92101022481,F,3,7550.48,1462.76,Secondary,Owned house,Self-employed,2022-02-16,2022-12-13,9,5.79,Accepted
+379,51051428382,F,1,7317.93,19135.66,Secondary,Living with parents,Laborer,2022-02-23,2022-11-20,6,5.6,Accepted
+380,91062758698,M,0,13551.34,20247.02,Higher education,Owned house,Laborer,2022-02-23,2024-02-13,6,3.19,Accepted
+381,87052731503,M,1,4336.53,18251.27,Higher education,Living with parents,Laborer,2022-02-23,2023-06-18,6,2.25,Accepted
+382,91110616850,M,3,3534.68,28027.57,Incomplete higher education,Rented apartment,Manager,2022-02-23,2023-12-15,0,6.09,Rejected
+383,05310373619,M,1,9590.57,10397.81,Higher education,Owned house,Self-employed,2022-02-23,2022-11-20,0,3.53,Accepted
+384,82092108233,F,1,11244.01,12966.92,Incomplete higher education,Rented apartment,Self-employed,2022-02-23,2022-09-21,0,5.33,Accepted
+385,92021392955,M,2,14376.12,6642.28,Secondary,Living with parents,Laborer,2022-02-23,2023-04-19,10,4.93,Accepted
+386,93121790183,M,2,4879.59,27821.9,Secondary,Owned house,Laborer,2022-02-23,2022-09-21,0,4.73,Accepted
+387,73052011954,M,0,14552.72,26803.55,Higher education,Living with parents,Manager,2022-02-23,2023-11-15,7,1.92,Accepted
+388,88083168562,F,0,6381.89,14197.26,Higher education,Owned house,Self-employed,2022-02-23,2023-03-20,6,3.23,Accepted
+389,64032500339,F,3,5677.98,4131.96,Secondary,Living with parents,Self-employed,2022-02-23,2023-09-16,2,4.95,Accepted
+390,99092126544,F,1,7462.65,6219.56,Higher education,Living with parents,Self-employed,2022-02-23,2024-02-13,0,6.36,Rejected
+391,62100569231,M,1,7316.77,26590.45,Secondary,Owned house,Manager,2022-02-23,2023-12-15,8,4.29,Accepted
+392,54020265766,M,2,9745.55,5430.64,Higher education,Owned house,Self-employed,2022-03-02,2022-08-29,3,3.88,Accepted
+393,74101998368,M,1,10198.93,8905.91,Incomplete higher education,Rented apartment,Laborer,2022-03-02,2023-10-23,6,4.42,Accepted
+394,90101865790,M,2,7013.82,1642.7,Secondary,Owned house,Laborer,2022-03-02,2023-11-22,10,5.23,Accepted
+395,65121041394,F,0,2192.03,12382.68,Secondary,Rented apartment,Laborer,2022-03-02,2022-12-27,0,4.3,Accepted
+396,55040348380,F,4,11806.2,7675.43,Incomplete higher education,Rented apartment,Laborer,2022-03-02,2023-01-26,5,6.81,Rejected
+397,97112988623,M,3,9525.32,23707.15,Incomplete higher education,Living with parents,Manager,2022-03-02,2023-12-22,0,4.42,Accepted
+398,67072585800,M,4,14906.55,24544.06,Incomplete higher education,Rented apartment,Manager,2022-03-02,2023-03-27,1,4.66,Accepted
+399,88083168562,M,2,3230.68,20037.4,Secondary,Owned house,Self-employed,2022-03-02,2023-03-27,0,5.4,Accepted
+400,81030824026,F,2,4970.48,13330.97,Incomplete higher education,Owned house,Self-employed,2022-03-09,2022-10-05,2,5.12,Accepted
+401,74101998368,F,2,3594.42,18411.81,Secondary,Living with parents,Self-employed,2022-03-09,2023-07-02,2,6.51,Rejected
+402,60080488775,M,1,9764.62,7835.96,Incomplete higher education,Living with parents,Laborer,2022-03-09,2023-06-02,3,4.44,Accepted
+403,97100859123,F,1,2912.77,10058.08,Secondary,Rented apartment,Laborer,2022-03-09,2023-11-29,0,7.28,Rejected
+404,83071334906,F,0,7932.42,28415.63,Higher education,Living with parents,Self-employed,2022-03-09,2024-01-28,2,4.42,Accepted
+405,55040348380,F,0,13495.15,15834.61,Incomplete higher education,Rented apartment,Laborer,2022-03-09,2023-11-29,5,5.22,Accepted
+406,88083168562,M,4,11539.72,10683.23,Incomplete higher education,Rented apartment,Manager,2022-03-09,2023-11-29,9,4.67,Accepted
+407,78113028039,M,2,7597.77,20657.54,Secondary,Living with parents,Self-employed,2022-03-16,2023-03-11,6,3.3,Accepted
+408,74101998368,M,0,7905.1,3448.07,Higher education,Rented apartment,Self-employed,2022-03-16,2023-11-06,10,2.24,Accepted
+409,82071716715,M,0,10788.0,9099.29,Incomplete higher education,Rented apartment,Self-employed,2022-03-16,2023-07-09,3,4.18,Accepted
+410,56042027973,F,1,4013.17,3778.72,Incomplete higher education,Owned house,Self-employed,2022-03-16,2024-03-05,9,6.31,Rejected
+411,79081992884,F,0,11166.54,24607.65,Secondary,Living with parents,Laborer,2022-03-16,2022-12-11,7,4.79,Accepted
+412,60082414274,F,0,13922.1,26524.0,Secondary,Owned house,Manager,2022-03-16,2023-12-06,8,4.32,Accepted
+413,50101832748,M,0,8634.06,9054.54,Secondary,Owned house,Manager,2022-03-23,2022-10-19,7,3.66,Accepted
+414,75122412096,M,4,12494.64,9216.08,Secondary,Owned house,Laborer,2022-03-23,2023-05-17,8,4.17,Accepted
+415,65112364277,F,3,9786.48,18202.45,Incomplete higher education,Owned house,Self-employed,2022-03-23,2023-08-15,0,6.55,Rejected
+416,04240247825,F,2,11328.44,26187.73,Higher education,Owned house,Manager,2022-03-23,2022-10-19,0,4.64,Accepted
+417,82102831012,F,3,14988.24,28711.79,Incomplete higher education,Owned house,Self-employed,2022-03-23,2023-05-17,2,4.85,Accepted
+418,88083168562,F,1,12806.24,4798.07,Incomplete higher education,Living with parents,Laborer,2022-03-23,2022-09-19,9,5.62,Accepted
+419,53122027190,M,0,7362.49,21946.79,Higher education,Living with parents,Laborer,2022-03-23,2023-08-15,1,1.46,Accepted
+420,78090708723,M,0,3578.65,9358.72,Higher education,Rented apartment,Manager,2022-03-30,2023-08-22,6,2.36,Accepted
+421,60072870633,M,2,3441.93,10567.79,Secondary,Owned house,Laborer,2022-03-30,2023-01-24,7,4.21,Accepted
+422,60080488775,M,2,8762.67,11221.02,Secondary,Owned house,Laborer,2022-03-30,2022-11-25,7,4.03,Accepted
+423,98092648347,F,1,11532.76,27076.23,Secondary,Living with parents,Laborer,2022-03-30,2023-05-24,0,6.54,Rejected
+424,72031461720,M,0,3652.99,28125.23,Higher education,Living with parents,Laborer,2022-03-30,2022-09-26,5,2.4,Accepted
+425,95051962794,M,0,7440.71,21839.52,Incomplete higher education,Rented apartment,Manager,2022-03-30,2023-11-20,0,4.61,Accepted
+426,76122217499,F,2,14779.05,8834.73,Higher education,Living with parents,Laborer,2022-03-30,2023-06-23,4,3.33,Accepted
+427,97100859123,M,2,7001.2,22776.13,Secondary,Owned house,Laborer,2022-03-30,2023-08-22,0,4.48,Accepted
+428,60011812323,M,0,3557.53,11416.49,Higher education,Owned house,Self-employed,2022-03-30,2024-02-18,9,1.27,Accepted
+429,80042329922,M,1,2208.36,23996.13,Incomplete higher education,Living with parents,Laborer,2022-03-30,2023-05-24,10,3.57,Accepted
+430,83071334906,M,0,8796.68,7587.87,Incomplete higher education,Rented apartment,Laborer,2022-03-30,2023-07-23,5,3.77,Accepted
+431,65121041394,M,2,11771.93,28688.92,Incomplete higher education,Owned house,Manager,2022-03-30,2023-01-24,0,3.59,Accepted
+432,73052011954,F,1,5529.28,9087.58,Incomplete higher education,Owned house,Laborer,2022-03-30,2022-10-26,2,4.97,Accepted
+433,64032500339,F,0,8428.59,7543.36,Incomplete higher education,Living with parents,Manager,2022-03-30,2022-10-26,10,3.97,Accepted
+434,62100569231,F,2,10236.91,3804.69,Incomplete higher education,Owned house,Manager,2022-03-30,2024-01-19,4,5.99,Accepted
+435,60082414274,F,0,4789.14,16586.43,Higher education,Owned house,Manager,2022-03-30,2022-09-26,6,3.86,Accepted
+436,92050696497,F,4,12709.18,15230.71,Incomplete higher education,Owned house,Self-employed,2022-04-06,2023-05-31,9,7.43,Rejected
+437,71011487039,F,4,3624.17,4281.23,Secondary,Rented apartment,Self-employed,2022-04-06,2023-04-01,0,6.52,Rejected
+438,98092648347,F,3,3216.21,24157.15,Higher education,Rented apartment,Manager,2022-04-06,2023-04-01,0,6.23,Rejected
+439,06262844540,M,4,9746.01,14011.35,Incomplete higher education,Rented apartment,Laborer,2022-04-06,2024-02-25,0,5.99,Accepted
+440,61082195541,F,3,12621.23,20933.79,Incomplete higher education,Owned house,Manager,2022-04-06,2022-10-03,7,5.94,Accepted
+441,76122217499,F,2,10046.1,8471.67,Incomplete higher education,Living with parents,Self-employed,2022-04-06,2024-02-25,0,6.52,Rejected
+442,50121361133,M,3,6941.32,10581.84,Secondary,Rented apartment,Self-employed,2022-04-06,2023-06-30,8,5.25,Accepted
+443,97100859123,M,3,10875.09,13955.93,Incomplete higher education,Living with parents,Laborer,2022-04-06,2022-11-02,4,5.21,Accepted
+444,69122995937,M,1,8679.99,9884.61,Secondary,Owned house,Self-employed,2022-04-06,2022-11-02,3,2.81,Accepted
+445,80012535458,M,1,12129.93,14201.92,Secondary,Rented apartment,Laborer,2022-04-06,2024-01-26,0,4.46,Accepted
+446,55041728385,F,1,3561.85,24321.86,Higher education,Living with parents,Manager,2022-04-06,2023-03-02,1,5.41,Accepted
+447,89073111382,F,3,2759.1,29670.88,Higher education,Owned house,Self-employed,2022-04-06,2023-04-01,1,5.69,Accepted
+448,59042330493,M,3,12250.56,21165.07,Secondary,Rented apartment,Self-employed,2022-04-06,2024-02-25,7,3.15,Accepted
+449,97122259736,F,1,4826.4,6577.51,Secondary,Owned house,Manager,2022-04-06,2023-05-01,0,7.05,Rejected
+450,78113028039,F,3,11694.74,4007.51,Incomplete higher education,Living with parents,Laborer,2022-04-13,2024-03-03,1,5.65,Accepted
+451,53051302064,F,0,5382.1,25048.6,Secondary,Owned house,Manager,2022-04-13,2022-11-09,3,5.08,Accepted
+452,73111389322,F,4,11805.8,27960.22,Incomplete higher education,Owned house,Manager,2022-04-13,2023-05-08,0,6.04,Rejected
+453,58061406897,F,1,6078.26,22274.57,Incomplete higher education,Owned house,Manager,2022-04-13,2023-10-05,1,5.89,Accepted
+454,75122412096,M,1,10685.06,7216.17,Secondary,Rented apartment,Self-employed,2022-04-13,2023-11-04,8,3.79,Accepted
+455,80012535458,M,0,9047.12,12940.17,Secondary,Owned house,Laborer,2022-04-13,2023-07-07,0,4.25,Accepted
+456,05310373619,F,2,13007.19,26704.38,Incomplete higher education,Living with parents,Laborer,2022-04-13,2023-06-07,0,5.92,Accepted
+457,92021392955,F,3,3176.09,20323.55,Higher education,Rented apartment,Laborer,2022-04-13,2023-05-08,4,5.94,Accepted
+458,83021144005,M,2,5295.0,5364.1,Higher education,Living with parents,Self-employed,2022-04-13,2023-01-08,0,3.76,Accepted
+459,77012405868,M,3,10384.07,23874.85,Higher education,Rented apartment,Self-employed,2022-04-13,2023-05-08,9,3.31,Accepted
+460,52021841135,M,1,4138.01,3303.38,Secondary,Living with parents,Laborer,2022-04-13,2023-11-04,5,5.19,Accepted
+461,93092174395,F,0,4878.67,16886.27,Secondary,Rented apartment,Laborer,2022-04-20,2023-12-11,0,6.44,Rejected
+462,51102439744,F,0,3534.56,15025.78,Higher education,Owned house,Manager,2022-04-20,2022-10-17,1,4.22,Accepted
+463,80012535458,F,2,13879.21,15159.95,Higher education,Rented apartment,Laborer,2022-04-20,2023-07-14,1,3.53,Accepted
+464,78071765288,F,2,14844.25,7509.05,Secondary,Owned house,Laborer,2022-04-20,2022-12-16,4,4.5,Accepted
+465,62021231186,M,3,8314.89,27247.97,Incomplete higher education,Owned house,Manager,2022-04-20,2023-02-14,6,4.41,Accepted
+466,98082262187,M,2,4182.62,29244.76,Secondary,Owned house,Self-employed,2022-04-20,2023-07-14,0,4.12,Accepted
+467,98012316588,M,1,3344.11,25648.97,Incomplete higher education,Rented apartment,Manager,2022-04-20,2023-06-14,0,4.94,Accepted
+468,81081972696,M,0,10707.24,1221.15,Incomplete higher education,Living with parents,Laborer,2022-04-20,2023-05-15,0,4.17,Accepted
+469,99071284190,F,1,4848.11,15889.88,Secondary,Living with parents,Manager,2022-04-20,2023-05-15,0,5.91,Accepted
+470,06262844540,M,2,3177.15,3038.81,Higher education,Living with parents,Laborer,2022-04-27,2022-12-23,0,4.14,Accepted
+471,61082195541,M,1,14384.39,6316.4,Secondary,Owned house,Self-employed,2022-04-27,2024-03-17,8,3.48,Accepted
+472,50121361133,F,4,12342.57,20095.45,Secondary,Owned house,Manager,2022-04-27,2023-12-18,1,6.78,Rejected
+473,97112988623,M,1,10503.32,23518.92,Secondary,Living with parents,Laborer,2022-04-27,2024-02-16,0,4.71,Accepted
+474,59042330493,M,1,9633.82,9441.64,Higher education,Living with parents,Self-employed,2022-04-27,2023-02-21,3,1.82,Accepted
+475,73010632230,M,3,3973.98,12864.91,Incomplete higher education,Living with parents,Manager,2022-05-04,2023-10-26,9,5.37,Accepted
+476,51102439744,F,3,12601.92,26818.61,Secondary,Living with parents,Laborer,2022-05-04,2023-01-29,1,5.1,Accepted
+477,92050696497,F,3,4465.86,12089.76,Incomplete higher education,Rented apartment,Self-employed,2022-05-04,2023-12-25,5,6.97,Rejected
+478,80091916620,M,2,9650.94,6557.29,Secondary,Living with parents,Manager,2022-05-04,2023-10-26,8,4.33,Accepted
+479,50121361133,M,3,10936.28,24056.91,Incomplete higher education,Living with parents,Manager,2022-05-04,2023-10-26,8,4.14,Accepted
+480,83071334906,F,2,14797.23,13096.52,Secondary,Owned house,Self-employed,2022-05-04,2023-05-29,8,5.05,Accepted
+481,56042027973,F,1,5334.26,7908.85,Higher education,Owned house,Manager,2022-05-04,2023-10-26,9,4.65,Accepted
+482,83021144005,M,3,13958.12,5353.43,Secondary,Owned house,Self-employed,2022-05-04,2023-10-26,0,4.87,Accepted
+483,62021231186,M,0,9593.39,19778.9,Higher education,Living with parents,Self-employed,2022-05-04,2023-02-28,6,1.9,Accepted
+484,67031423866,M,3,14244.0,12560.4,Secondary,Rented apartment,Manager,2022-05-04,2023-10-26,7,4.52,Accepted
+485,77012405868,F,0,10167.45,26883.75,Higher education,Owned house,Laborer,2022-05-04,2023-04-29,8,3.66,Accepted
+486,52021841135,M,3,8342.7,5987.96,Incomplete higher education,Living with parents,Self-employed,2022-05-04,2023-12-25,1,4.73,Accepted
+487,51102439744,M,2,13820.83,24328.28,Incomplete higher education,Owned house,Self-employed,2022-05-11,2023-10-03,3,4.23,Accepted
+488,92050696497,F,4,3652.64,1258.63,Secondary,Rented apartment,Manager,2022-05-11,2023-08-04,1,7.45,Rejected
+489,60080488775,F,1,8658.22,21153.58,Incomplete higher education,Living with parents,Manager,2022-05-11,2023-05-06,1,5.02,Accepted
+490,58061406897,F,2,2757.86,13024.89,Higher education,Living with parents,Self-employed,2022-05-11,2023-08-04,5,4.93,Accepted
+491,55041728385,M,1,3468.65,20420.07,Incomplete higher education,Living with parents,Laborer,2022-05-11,2024-03-31,10,5.31,Accepted
+492,56042027973,F,2,10235.41,25051.99,Incomplete higher education,Rented apartment,Manager,2022-05-11,2023-02-05,8,5.51,Accepted
+493,65121041394,M,0,2164.63,8851.74,Secondary,Living with parents,Laborer,2022-05-11,2023-10-03,2,3.11,Accepted
+494,73111389322,F,4,14837.79,9208.48,Incomplete higher education,Living with parents,Manager,2022-05-18,2023-06-12,8,4.83,Accepted
+495,87052731503,M,4,4727.74,17634.12,Higher education,Rented apartment,Laborer,2022-05-18,2023-03-14,0,3.47,Accepted
+496,71011487039,M,3,3017.21,28391.5,Secondary,Owned house,Laborer,2022-05-25,2023-03-21,10,3.39,Accepted
+497,74101998368,F,0,9100.91,10859.17,Higher education,Owned house,Manager,2022-05-25,2023-04-20,3,3.61,Accepted
+498,06262844540,F,0,10953.75,19243.93,Incomplete higher education,Owned house,Self-employed,2022-05-25,2023-04-20,0,5.2,Accepted
+499,98082262187,F,0,10898.02,28703.62,Higher education,Rented apartment,Laborer,2022-05-25,2023-07-19,0,5.03,Accepted
+500,67072585800,F,3,11359.33,10396.41,Secondary,Owned house,Self-employed,2022-05-25,2023-08-18,4,5.69,Accepted
+501,62100569231,F,0,3227.9,2770.15,Secondary,Rented apartment,Self-employed,2022-05-25,2023-11-16,1,5.25,Accepted
+502,90091640511,F,1,14335.23,29109.97,Incomplete higher education,Owned house,Laborer,2022-05-25,2023-02-19,3,5.25,Accepted
+503,54020265766,M,1,3279.93,29630.6,Incomplete higher education,Living with parents,Manager,2022-06-01,2023-04-27,10,3.6,Accepted
+504,92050696497,M,2,6801.42,14573.94,Secondary,Rented apartment,Manager,2022-06-01,2022-12-28,4,5.49,Accepted
+505,51051428382,M,1,11829.52,14020.57,Secondary,Living with parents,Manager,2022-06-01,2022-12-28,4,4.07,Accepted
+506,67123192424,M,3,11957.0,23756.54,Incomplete higher education,Owned house,Self-employed,2022-06-01,2023-10-24,0,4.14,Accepted
+507,50101832748,M,4,4401.39,4081.7,Secondary,Owned house,Self-employed,2022-06-01,2024-04-21,10,4.47,Accepted
+508,06262844540,F,3,8180.24,4461.28,Higher education,Rented apartment,Manager,2022-06-01,2023-10-24,0,4.85,Accepted
+509,82071716715,F,0,14976.02,15650.81,Higher education,Owned house,Manager,2022-06-01,2023-05-27,10,3.13,Accepted
+510,60011812323,M,0,14513.95,26084.15,Secondary,Living with parents,Laborer,2022-06-01,2023-05-27,2,2.58,Accepted
+511,80012535458,M,2,14967.7,14912.59,Secondary,Owned house,Self-employed,2022-06-01,2023-01-27,0,3.08,Accepted
+512,81100659720,F,4,8641.9,27573.59,Incomplete higher education,Rented apartment,Laborer,2022-06-01,2023-01-27,7,5.41,Accepted
+513,98012316588,F,1,7143.68,24417.93,Higher education,Living with parents,Manager,2022-06-01,2023-04-27,1,5.9,Accepted
+514,50111470136,F,3,6849.69,8552.01,Incomplete higher education,Living with parents,Self-employed,2022-06-01,2024-03-22,1,7.15,Rejected
+515,73111389322,F,4,11059.53,25958.75,Higher education,Living with parents,Laborer,2022-06-08,2024-03-29,10,4.92,Accepted
+516,95051962794,F,4,14901.13,3831.98,Higher education,Owned house,Laborer,2022-06-08,2023-12-30,0,4.76,Accepted
+517,82071716715,M,2,8909.68,23443.23,Incomplete higher education,Rented apartment,Self-employed,2022-06-08,2022-12-05,5,3.8,Accepted
+518,05310373619,F,4,7158.38,15753.38,Higher education,Owned house,Laborer,2022-06-08,2023-04-04,0,5.74,Accepted
+519,94011272336,M,1,6290.07,16401.31,Higher education,Owned house,Manager,2022-06-15,2024-06-04,10,4.2,Accepted
+520,51051428382,F,0,12662.56,11546.71,Secondary,Owned house,Manager,2022-06-15,2023-03-12,10,4.5,Accepted
+521,72031461720,M,4,9862.99,4074.45,Higher education,Living with parents,Self-employed,2022-06-15,2023-11-07,5,2.84,Accepted
+522,91110616850,M,0,4740.9,18488.41,Incomplete higher education,Rented apartment,Manager,2022-06-15,2023-04-11,0,4.44,Accepted
+523,78071765288,M,4,7512.71,15468.29,Secondary,Living with parents,Manager,2022-06-15,2023-02-10,5,4.44,Accepted
+524,93121790183,M,3,3902.51,22157.42,Higher education,Rented apartment,Laborer,2022-06-15,2024-04-05,5,4.85,Accepted
+525,98082262187,M,1,6493.72,6006.45,Higher education,Living with parents,Self-employed,2022-06-15,2024-02-05,0,3.97,Accepted
+526,53122027190,F,3,12307.95,29605.25,Incomplete higher education,Rented apartment,Self-employed,2022-06-15,2023-05-11,5,6.24,Rejected
+527,50101832748,M,2,6369.97,7244.68,Incomplete higher education,Rented apartment,Manager,2022-06-22,2023-03-19,8,4.91,Accepted
+528,61082195541,F,0,2117.28,29623.88,Incomplete higher education,Living with parents,Self-employed,2022-06-22,2023-08-16,8,4.55,Accepted
+529,05310373619,M,0,14864.93,21516.38,Higher education,Rented apartment,Manager,2022-06-22,2023-08-16,6,2.52,Accepted
+530,78071765288,F,2,7368.57,9734.75,Incomplete higher education,Living with parents,Self-employed,2022-06-22,2023-06-17,8,5.94,Accepted
+531,62100569231,M,0,14410.03,20083.62,Higher education,Living with parents,Manager,2022-06-22,2024-03-13,4,2.21,Accepted
+532,78113028039,M,2,5902.03,4426.57,Incomplete higher education,Living with parents,Laborer,2022-06-29,2023-04-25,1,5.29,Accepted
+533,06262844540,F,1,3906.36,24708.46,Incomplete higher education,Living with parents,Manager,2022-06-29,2023-04-25,0,7.78,Rejected
+534,76122217499,F,4,14099.04,8563.91,Secondary,Rented apartment,Manager,2022-06-29,2023-02-24,0,5.02,Accepted
+535,69122995937,F,3,6981.87,26111.35,Incomplete higher education,Rented apartment,Self-employed,2022-06-29,2023-01-25,0,6.7,Rejected
+536,60011812323,F,1,4966.44,1422.0,Incomplete higher education,Rented apartment,Self-employed,2022-06-29,2024-02-19,6,5.65,Accepted
+537,81100659720,M,4,7280.9,18423.65,Incomplete higher education,Owned house,Laborer,2022-06-29,2024-04-19,2,4.36,Accepted
+538,78071765288,F,2,9344.0,18343.88,Higher education,Living with parents,Manager,2022-06-29,2023-02-24,0,5.2,Accepted
+539,04240247825,F,1,7982.22,23064.58,Higher education,Rented apartment,Self-employed,2022-06-29,2023-10-22,3,4.5,Accepted
+540,73052011954,F,4,11192.2,11454.45,Secondary,Rented apartment,Self-employed,2022-06-29,2023-07-24,4,5.68,Accepted
+541,97112988623,M,2,4172.43,4169.36,Secondary,Rented apartment,Self-employed,2022-06-29,2024-05-19,0,5.94,Accepted
+542,75061757793,F,1,11407.88,18580.55,Incomplete higher education,Rented apartment,Laborer,2022-06-29,2023-01-25,0,5.19,Accepted
+543,62100569231,F,0,6231.07,24311.42,Higher education,Owned house,Self-employed,2022-06-29,2024-02-19,6,4.49,Accepted
+544,81030824026,F,4,12406.07,24911.66,Higher education,Living with parents,Manager,2022-07-06,2024-02-26,9,4.17,Accepted
+545,60072870633,F,4,4354.67,3810.76,Secondary,Living with parents,Laborer,2022-07-06,2024-01-27,3,5.73,Accepted
+546,91062758698,F,3,7291.9,23982.16,Higher education,Living with parents,Self-employed,2022-07-06,2023-03-03,9,4.46,Accepted
+547,51112859465,F,4,6842.94,12199.69,Incomplete higher education,Rented apartment,Laborer,2022-07-06,2023-04-02,9,5.78,Accepted
+548,69122995937,M,2,12052.55,28663.11,Incomplete higher education,Owned house,Laborer,2022-07-06,2023-10-29,0,4.38,Accepted
+549,71090953451,M,0,10987.27,22447.69,Higher education,Living with parents,Manager,2022-07-06,2024-01-27,8,1.93,Accepted
+550,01290185598,F,4,14007.21,29188.09,Secondary,Owned house,Self-employed,2022-07-06,2023-07-01,0,5.94,Accepted
+551,78071765288,F,4,6243.3,29611.13,Incomplete higher education,Living with parents,Self-employed,2022-07-06,2023-10-29,0,6.54,Rejected
+552,73052011954,F,3,12862.11,15113.22,Higher education,Living with parents,Self-employed,2022-07-06,2024-04-26,2,3.69,Accepted
+553,61070492443,M,0,9141.2,23681.74,Higher education,Rented apartment,Manager,2022-07-06,2023-04-02,4,2.51,Accepted
+554,80032305962,M,2,4282.81,11434.75,Incomplete higher education,Owned house,Laborer,2022-07-06,2023-08-30,3,5.2,Accepted
+555,59042330493,M,4,11716.7,20316.35,Incomplete higher education,Living with parents,Laborer,2022-07-06,2024-02-26,3,4.44,Accepted
+556,52021841135,M,4,9366.09,24094.18,Higher education,Rented apartment,Laborer,2022-07-06,2023-10-29,1,4.15,Accepted
+557,97122259736,M,3,5725.77,22545.05,Incomplete higher education,Living with parents,Manager,2022-07-06,2023-02-01,0,5.11,Accepted
+558,78090708723,F,2,12460.15,9782.99,Higher education,Owned house,Self-employed,2022-07-13,2023-05-09,0,4.48,Accepted
+559,73010632230,F,3,5115.25,28417.5,Incomplete higher education,Living with parents,Self-employed,2022-07-13,2023-01-09,3,6.1,Rejected
+560,67123192424,M,4,13658.22,26807.75,Higher education,Living with parents,Self-employed,2022-07-13,2024-07-02,10,2.99,Accepted
+561,74101998368,F,3,5852.37,14901.74,Secondary,Owned house,Manager,2022-07-13,2023-01-09,9,5.83,Accepted
+562,72031461720,F,4,14270.26,6027.66,Higher education,Living with parents,Laborer,2022-07-13,2023-01-09,5,5.1,Accepted
+563,90101865790,M,0,2566.95,13336.78,Incomplete higher education,Living with parents,Laborer,2022-07-13,2023-06-08,4,5.11,Accepted
+564,92021392955,F,3,10204.34,13866.15,Secondary,Owned house,Self-employed,2022-07-13,2024-03-04,9,7.03,Rejected
+565,62021231186,F,0,13800.2,12583.47,Incomplete higher education,Rented apartment,Self-employed,2022-07-13,2024-03-04,6,3.85,Accepted
+566,64032500339,M,1,13109.56,2238.04,Secondary,Owned house,Laborer,2022-07-13,2024-01-04,1,4.43,Accepted
+567,59042330493,F,3,13276.4,7129.27,Secondary,Rented apartment,Manager,2022-07-13,2023-02-08,4,4.71,Accepted
+568,52021841135,F,2,10937.95,25947.03,Higher education,Rented apartment,Manager,2022-07-13,2024-07-02,6,3.59,Accepted
+569,81030824026,M,1,6599.53,11169.17,Secondary,Living with parents,Laborer,2022-07-20,2024-01-11,7,3.07,Accepted
+570,60072870633,F,2,3765.64,5316.8,Incomplete higher education,Rented apartment,Laborer,2022-07-20,2023-08-14,2,5.98,Accepted
+571,60080488775,M,2,3566.59,22575.29,Incomplete higher education,Rented apartment,Manager,2022-07-20,2023-12-12,2,4.95,Accepted
+572,82071716715,F,0,5999.99,19539.12,Higher education,Rented apartment,Self-employed,2022-07-20,2023-07-15,2,3.53,Accepted
+573,04240247825,F,3,8971.0,26116.83,Incomplete higher education,Owned house,Self-employed,2022-07-20,2023-01-16,0,7.31,Rejected
+574,67072585800,M,3,12687.44,13586.99,Incomplete higher education,Living with parents,Manager,2022-07-20,2024-07-09,6,4.55,Accepted
+575,80032305962,M,1,11326.29,12463.04,Incomplete higher education,Rented apartment,Manager,2022-07-20,2023-03-17,2,3.91,Accepted
+576,59042330493,M,1,3374.96,10908.38,Higher education,Owned house,Self-employed,2022-07-20,2023-10-13,5,2.04,Accepted
+577,92101022481,F,1,9134.86,27952.78,Incomplete higher education,Owned house,Laborer,2022-07-20,2023-05-16,2,6.04,Rejected
+578,06262844540,M,1,13131.82,15485.72,Higher education,Owned house,Self-employed,2022-07-27,2023-08-21,0,3.83,Accepted
+579,51112859465,M,4,7328.93,26844.22,Higher education,Owned house,Self-employed,2022-07-27,2024-03-18,9,3.02,Accepted
+580,91110616850,M,0,7280.42,13858.24,Secondary,Living with parents,Manager,2022-07-27,2024-05-17,0,3.89,Accepted
+581,55041728385,M,1,13911.5,13341.27,Secondary,Owned house,Manager,2022-07-27,2023-06-22,8,3.25,Accepted
+582,65112364277,F,3,13239.98,2277.05,Higher education,Owned house,Self-employed,2022-07-27,2023-02-22,0,4.48,Accepted
+583,65120194881,F,2,9708.17,20305.48,Incomplete higher education,Rented apartment,Laborer,2022-07-27,2023-03-24,2,5.81,Accepted
+584,88030124922,F,2,11153.14,20829.28,Secondary,Owned house,Manager,2022-07-27,2023-01-23,1,5.54,Accepted
+585,04240247825,M,0,10534.69,7449.97,Secondary,Living with parents,Manager,2022-07-27,2023-03-24,0,4.14,Accepted
+586,77012405868,F,2,3552.14,7997.28,Higher education,Owned house,Manager,2022-07-27,2023-10-20,5,4.62,Accepted
+587,53122027190,F,3,10013.36,21486.84,Incomplete higher education,Owned house,Self-employed,2022-07-27,2023-03-24,9,5.94,Accepted
+588,92101022481,F,3,12886.2,24107.49,Incomplete higher education,Living with parents,Laborer,2022-07-27,2023-04-23,10,7.04,Rejected
+589,94011272336,F,1,7310.51,6381.56,Incomplete higher education,Living with parents,Manager,2022-08-03,2024-07-23,0,5.7,Accepted
+590,67123192424,F,4,4598.71,14862.14,Incomplete higher education,Owned house,Laborer,2022-08-03,2024-02-24,5,6.24,Rejected
+591,74101998368,F,0,7391.15,7564.54,Secondary,Rented apartment,Self-employed,2022-08-03,2023-04-30,5,5.14,Accepted
+592,58061406897,F,4,10074.65,18350.28,Incomplete higher education,Rented apartment,Self-employed,2022-08-03,2023-06-29,5,5.97,Accepted
+593,76122217499,M,1,6339.15,1457.71,Secondary,Rented apartment,Manager,2022-08-03,2024-04-24,8,4.34,Accepted
+594,69122995937,M,0,5524.23,21802.52,Secondary,Owned house,Manager,2022-08-03,2024-06-23,0,4.04,Accepted
+595,97112988623,M,1,10306.38,9059.91,Incomplete higher education,Living with parents,Self-employed,2022-08-03,2023-08-28,9,4.56,Accepted
+596,77012405868,M,1,9643.07,25909.68,Incomplete higher education,Living with parents,Self-employed,2022-08-03,2024-05-24,0,4.22,Accepted
+597,99092126544,M,4,3672.15,7022.2,Higher education,Rented apartment,Manager,2022-08-03,2024-05-24,9,4.65,Accepted
+598,50111470136,F,2,14784.07,12126.4,Incomplete higher education,Living with parents,Manager,2022-08-03,2023-08-28,10,5.29,Accepted
+599,59042330493,F,3,11953.64,11249.36,Higher education,Living with parents,Self-employed,2022-08-03,2023-09-27,4,4.42,Accepted
+600,99071284190,F,2,11638.36,22428.19,Secondary,Owned house,Laborer,2022-08-03,2023-10-27,0,5.87,Accepted
+601,92101022481,M,4,12925.53,2426.97,Incomplete higher education,Living with parents,Self-employed,2022-08-03,2023-12-26,5,4.66,Accepted
+602,51051428382,F,3,12855.87,27705.2,Higher education,Rented apartment,Laborer,2022-08-10,2023-07-06,4,3.67,Accepted
+603,05310373619,M,0,8833.41,28703.06,Higher education,Rented apartment,Laborer,2022-08-10,2024-06-30,0,2.48,Accepted
+604,65121041394,F,1,10865.73,10606.25,Incomplete higher education,Owned house,Self-employed,2022-08-10,2024-04-01,9,5.99,Accepted
+605,92021392955,M,0,10806.84,10214.67,Incomplete higher education,Rented apartment,Manager,2022-08-10,2024-01-02,4,3.63,Accepted
+606,93121790183,F,4,11844.84,16969.82,Incomplete higher education,Owned house,Laborer,2022-08-10,2024-05-01,4,6.66,Rejected
+607,67031423866,F,2,7948.27,23312.76,Incomplete higher education,Living with parents,Laborer,2022-08-10,2023-04-07,0,5.23,Accepted
+608,98082262187,F,1,8788.65,8171.55,Secondary,Living with parents,Manager,2022-08-10,2024-01-02,0,6.32,Rejected
+609,77012405868,M,3,13408.15,11610.96,Higher education,Owned house,Manager,2022-08-10,2023-03-08,7,2.09,Accepted
+610,73030275371,F,0,13465.95,9015.3,Higher education,Living with parents,Manager,2022-08-10,2023-11-03,8,3.93,Accepted
+611,92050696497,F,4,5896.07,5412.77,Higher education,Living with parents,Self-employed,2022-08-17,2023-06-13,0,6.41,Rejected
+612,50101832748,F,1,4691.66,1492.21,Secondary,Living with parents,Manager,2022-08-17,2024-07-07,8,6.71,Rejected
+613,90101865790,F,3,13619.92,4374.36,Incomplete higher education,Living with parents,Self-employed,2022-08-17,2023-06-13,2,5.79,Accepted
+614,80091916620,F,3,11998.4,2359.18,Secondary,Rented apartment,Laborer,2022-08-17,2024-05-08,10,4.91,Accepted
+615,50121361133,F,4,8466.11,4000.7,Incomplete higher education,Rented apartment,Self-employed,2022-08-17,2023-05-14,10,7.2,Rejected
+616,75122412096,F,3,9328.53,25502.88,Higher education,Living with parents,Manager,2022-08-17,2023-03-15,5,4.82,Accepted
+617,83021144005,M,4,14081.88,2062.28,Incomplete higher education,Rented apartment,Laborer,2022-08-17,2024-05-08,7,3.88,Accepted
+618,97112988623,M,0,13334.32,17631.95,Incomplete higher education,Living with parents,Self-employed,2022-08-17,2023-06-13,0,3.6,Accepted
+619,79081992884,F,3,5237.54,16184.9,Secondary,Owned house,Laborer,2022-08-17,2023-09-11,6,5.23,Accepted
+620,59042330493,M,1,14577.92,26518.79,Incomplete higher education,Owned house,Laborer,2022-08-17,2023-08-12,1,3.41,Accepted
+621,62100569231,F,0,2126.72,5698.47,Higher education,Rented apartment,Self-employed,2022-08-17,2024-05-08,1,4.79,Accepted
+622,90091640511,M,3,7840.84,3513.0,Higher education,Rented apartment,Laborer,2022-08-17,2024-01-09,8,3.66,Accepted
+623,81122791906,F,1,7348.3,17124.8,Higher education,Owned house,Self-employed,2022-08-17,2023-11-10,1,5.16,Accepted
+624,94011272336,M,2,3449.76,28216.56,Secondary,Owned house,Laborer,2022-08-24,2023-12-17,4,5.79,Accepted
+625,51102439744,M,3,8065.12,18824.88,Secondary,Owned house,Manager,2022-08-24,2023-03-22,9,3.79,Accepted
+626,53051302064,M,3,2433.08,20289.82,Higher education,Living with parents,Manager,2022-08-24,2023-11-17,5,2.72,Accepted
+627,98092648347,F,1,7761.92,5280.83,Secondary,Rented apartment,Self-employed,2022-08-24,2024-02-15,0,6.81,Rejected
+628,06262844540,F,0,4480.78,9015.08,Higher education,Owned house,Self-employed,2022-08-24,2023-02-20,0,5.66,Accepted
+629,73111389322,F,1,11525.65,28261.06,Incomplete higher education,Living with parents,Self-employed,2022-08-24,2023-12-17,3,6.22,Rejected
+630,70090803442,M,3,7170.16,18477.42,Incomplete higher education,Rented apartment,Laborer,2022-08-24,2024-06-14,0,4.03,Accepted
+631,75122412096,F,4,5603.0,16481.55,Secondary,Owned house,Laborer,2022-08-24,2023-04-21,5,5.22,Accepted
+632,60011812323,F,1,12246.18,11747.06,Higher education,Living with parents,Self-employed,2022-08-24,2024-07-14,4,3.47,Accepted
+633,65121041394,F,2,11114.21,11429.37,Secondary,Rented apartment,Laborer,2022-08-24,2024-02-15,0,5.1,Accepted
+634,81081972696,M,0,2008.48,5426.17,Higher education,Living with parents,Manager,2022-08-24,2023-09-18,0,1.76,Accepted
+635,61070492443,F,2,2385.54,21248.85,Higher education,Rented apartment,Self-employed,2022-08-24,2024-08-13,4,5.04,Accepted
+636,75061757793,F,3,11996.68,26501.92,Incomplete higher education,Living with parents,Manager,2022-08-24,2024-07-14,2,5.72,Accepted
+637,60082414274,F,3,6933.5,3280.7,Higher education,Living with parents,Manager,2022-08-24,2023-09-18,9,3.98,Accepted
+638,73030275371,M,1,8842.79,12985.41,Higher education,Living with parents,Manager,2022-08-24,2023-05-21,0,1.69,Accepted
+639,92122968923,M,2,8612.97,3911.1,Incomplete higher education,Owned house,Self-employed,2022-08-31,2023-03-29,9,4.78,Accepted
+640,00231928642,M,4,6759.87,10841.81,Higher education,Living with parents,Manager,2022-08-31,2024-08-20,0,3.68,Accepted
+641,91062758698,M,1,10491.5,1993.83,Higher education,Owned house,Self-employed,2022-08-31,2024-07-21,2,2.74,Accepted
+642,98060912965,F,1,2796.05,17156.8,Secondary,Owned house,Manager,2022-08-31,2023-12-24,0,6.38,Rejected
+643,78071765288,F,4,5915.16,5511.12,Higher education,Owned house,Manager,2022-08-31,2023-12-24,8,4.6,Accepted
+644,79110545634,M,1,5998.47,16548.09,Secondary,Rented apartment,Self-employed,2022-08-31,2024-08-20,2,4.21,Accepted
+645,62021231186,M,4,13874.59,27915.5,Secondary,Owned house,Laborer,2022-08-31,2023-10-25,10,4.74,Accepted
+646,01231891871,M,1,7788.71,2571.65,Higher education,Rented apartment,Self-employed,2022-08-31,2024-05-22,0,4.73,Accepted
+647,97122259736,F,3,7487.77,5159.9,Higher education,Rented apartment,Laborer,2022-08-31,2023-11-24,0,6.21,Rejected
+648,92101022481,M,3,2261.99,14259.3,Higher education,Rented apartment,Self-employed,2022-08-31,2024-04-22,3,3.61,Accepted
+649,73010632230,F,1,6937.79,11951.25,Incomplete higher education,Rented apartment,Laborer,2022-09-07,2024-05-29,2,5.61,Accepted
+650,92122968923,F,1,10816.62,7991.33,Incomplete higher education,Rented apartment,Manager,2022-09-07,2023-08-03,9,5.57,Accepted
+651,74101998368,F,2,6348.26,20734.58,Incomplete higher education,Rented apartment,Manager,2022-09-07,2024-04-29,5,5.08,Accepted
+652,98092648347,F,1,13752.24,17996.54,Higher education,Living with parents,Laborer,2022-09-07,2023-04-05,0,5.32,Accepted
+653,56042027973,M,2,2121.92,19527.95,Higher education,Owned house,Manager,2022-09-07,2024-04-29,6,2.98,Accepted
+654,79081992884,M,3,13844.19,19126.49,Secondary,Living with parents,Manager,2022-09-07,2024-02-29,7,3.75,Accepted
+655,67072585800,M,0,7694.75,6672.7,Incomplete higher education,Living with parents,Self-employed,2022-09-07,2023-11-01,0,3.73,Accepted
+656,54020265766,F,3,4010.3,5945.38,Higher education,Rented apartment,Laborer,2022-09-14,2023-07-11,2,4.01,Accepted
+657,73010632230,F,0,3815.63,11041.64,Higher education,Living with parents,Self-employed,2022-09-14,2023-03-13,4,2.93,Accepted
+658,53051302064,M,4,6099.32,10084.89,Secondary,Living with parents,Self-employed,2022-09-14,2023-06-11,1,4.54,Accepted
+659,67123192424,F,1,7970.62,1709.4,Secondary,Owned house,Laborer,2022-09-14,2023-11-08,1,5.24,Accepted
+660,74101998368,F,3,11109.91,1971.35,Higher education,Rented apartment,Laborer,2022-09-14,2023-06-11,10,3.96,Accepted
+661,72031461720,M,3,14892.74,11015.08,Higher education,Rented apartment,Manager,2022-09-14,2024-06-05,4,3.31,Accepted
+662,58061406897,F,1,10750.12,23038.5,Secondary,Rented apartment,Self-employed,2022-09-14,2023-04-12,1,5.48,Accepted
+663,61082195541,M,3,6692.04,15157.78,Higher education,Rented apartment,Laborer,2022-09-14,2023-03-13,3,2.65,Accepted
+664,76122217499,M,1,8961.73,3407.07,Incomplete higher education,Living with parents,Self-employed,2022-09-14,2023-08-10,4,3.83,Accepted
+665,51112859465,M,2,13293.35,14642.07,Secondary,Living with parents,Manager,2022-09-14,2024-04-06,8,5.0,Accepted
+666,71101162351,M,0,6079.33,23386.06,Incomplete higher education,Owned house,Self-employed,2022-09-14,2024-09-03,8,3.03,Accepted
+667,78071765288,F,2,11591.49,1980.1,Secondary,Living with parents,Laborer,2022-09-14,2023-03-13,0,5.41,Accepted
+668,04240247825,M,2,8629.12,28895.02,Secondary,Owned house,Manager,2022-09-14,2024-07-05,0,4.48,Accepted
+669,82102831012,M,1,8384.76,12253.96,Higher education,Living with parents,Laborer,2022-09-14,2023-09-09,7,3.77,Accepted
+670,61070492443,M,1,11517.49,23603.65,Incomplete higher education,Living with parents,Self-employed,2022-09-14,2024-09-03,5,3.06,Accepted
+671,78113028039,M,0,5563.7,9744.82,Incomplete higher education,Rented apartment,Laborer,2022-09-21,2023-11-15,6,4.48,Accepted
+672,92122968923,M,3,7240.03,6085.74,Secondary,Owned house,Self-employed,2022-09-21,2023-10-16,3,5.87,Accepted
+673,60080488775,M,4,8534.07,20389.64,Higher education,Owned house,Manager,2022-09-21,2023-11-15,3,2.58,Accepted
+674,06262844540,M,4,11075.69,21179.58,Incomplete higher education,Rented apartment,Self-employed,2022-09-21,2024-06-12,0,5.31,Accepted
+675,80042329922,F,3,13292.91,23010.54,Secondary,Rented apartment,Laborer,2022-09-21,2023-09-16,0,5.99,Accepted
+676,61092776394,M,2,7733.41,24852.12,Incomplete higher education,Owned house,Self-employed,2022-09-21,2024-08-11,1,3.13,Accepted
+677,55041728385,M,1,8729.46,12984.21,Incomplete higher education,Rented apartment,Manager,2022-09-21,2024-05-13,7,4.77,Accepted
+678,65120194881,M,4,4104.65,11640.45,Secondary,Living with parents,Self-employed,2022-09-21,2023-05-19,2,3.68,Accepted
+679,66011392612,F,3,5219.35,16739.09,Secondary,Owned house,Self-employed,2022-09-21,2023-11-15,9,5.56,Accepted
+680,52021841135,M,2,14767.16,7852.63,Incomplete higher education,Rented apartment,Self-employed,2022-09-21,2024-09-10,9,4.36,Accepted
+681,90091640511,M,4,12179.12,28736.58,Higher education,Owned house,Laborer,2022-09-21,2024-02-13,10,4.53,Accepted
+682,78090708723,M,2,4655.99,26509.07,Secondary,Living with parents,Self-employed,2022-09-28,2024-03-21,1,5.0,Accepted
+683,73010632230,M,1,14323.84,7893.48,Higher education,Rented apartment,Laborer,2022-09-28,2024-09-17,5,2.6,Accepted
+684,06262844540,M,4,5426.82,7264.86,Secondary,Owned house,Self-employed,2022-09-28,2023-06-25,0,5.58,Accepted
+685,72031461720,F,0,5811.69,27649.79,Secondary,Rented apartment,Self-employed,2022-09-28,2024-03-21,2,3.82,Accepted
+686,51112859465,M,4,9846.29,21419.86,Secondary,Living with parents,Manager,2022-09-28,2023-04-26,7,4.89,Accepted
+687,87052731503,F,0,12168.6,21337.59,Higher education,Rented apartment,Laborer,2022-09-28,2024-01-21,1,3.4,Accepted
+688,81100659720,F,4,9150.64,21567.99,Secondary,Rented apartment,Manager,2022-09-28,2023-05-26,5,6.63,Rejected
+689,83071334906,M,4,2953.57,3697.55,Higher education,Living with parents,Self-employed,2022-09-28,2024-04-20,3,3.34,Accepted
+690,78071765288,F,1,13743.31,1517.27,Incomplete higher education,Owned house,Manager,2022-09-28,2023-09-23,3,5.8,Accepted
+691,62021231186,M,1,8303.1,3914.56,Incomplete higher education,Living with parents,Laborer,2022-09-28,2023-05-26,3,4.58,Accepted
+692,88083168562,M,0,14485.42,15259.15,Higher education,Rented apartment,Self-employed,2022-09-28,2024-01-21,0,1.72,Accepted
+693,62100569231,F,4,13771.34,21031.55,Incomplete higher education,Living with parents,Self-employed,2022-09-28,2024-06-19,5,6.49,Rejected
+694,90091640511,M,1,2182.48,27823.78,Incomplete higher education,Owned house,Manager,2022-09-28,2024-05-20,0,5.85,Accepted
+695,78113028039,F,1,9109.78,12936.23,Secondary,Rented apartment,Self-employed,2022-10-05,2023-06-02,6,6.35,Rejected
+696,72031461720,M,3,13624.46,4593.96,Higher education,Rented apartment,Self-employed,2022-10-05,2023-11-29,1,3.16,Accepted
+697,76122217499,M,0,3232.93,7550.0,Higher education,Rented apartment,Laborer,2022-10-05,2023-10-30,0,3.44,Accepted
+698,91110616850,F,4,11658.21,16412.49,Higher education,Owned house,Manager,2022-10-05,2023-10-30,5,4.74,Accepted
+699,80012535458,M,4,12818.11,28795.33,Secondary,Living with parents,Laborer,2022-10-05,2024-03-28,0,4.21,Accepted
+700,65120194881,F,0,12744.13,8840.4,Higher education,Owned house,Laborer,2022-10-05,2024-03-28,6,2.7,Accepted
+701,93121790183,M,1,12881.79,22336.71,Higher education,Living with parents,Laborer,2022-10-05,2024-01-28,2,3.88,Accepted
+702,88083168562,F,2,9751.92,2168.64,Higher education,Owned house,Manager,2022-10-05,2024-07-26,3,4.07,Accepted
+703,75061757793,F,2,7466.66,2371.34,Incomplete higher education,Living with parents,Laborer,2022-10-05,2024-01-28,9,6.11,Rejected
+704,97122259736,F,3,5614.63,28983.15,Higher education,Owned house,Self-employed,2022-10-05,2023-04-03,0,6.35,Rejected
+705,06262844540,M,1,12607.94,16964.12,Secondary,Owned house,Self-employed,2022-10-12,2024-10-01,0,5.04,Accepted
+706,58061406897,F,3,6155.33,9997.02,Incomplete higher education,Living with parents,Laborer,2022-10-12,2024-05-04,8,6.3,Rejected
+707,65120194881,M,0,7599.02,13773.89,Incomplete higher education,Rented apartment,Laborer,2022-10-12,2024-08-02,4,3.48,Accepted
+708,62021231186,M,4,14605.41,13214.92,Higher education,Living with parents,Laborer,2022-10-12,2023-11-06,10,3.28,Accepted
+709,98012316588,M,4,4299.53,25986.22,Incomplete higher education,Rented apartment,Laborer,2022-10-12,2024-09-01,0,5.44,Accepted
+710,81081972696,M,4,3448.33,28758.2,Higher education,Living with parents,Self-employed,2022-10-12,2023-11-06,9,3.45,Accepted
+711,80032305962,F,4,10215.84,20672.8,Secondary,Owned house,Laborer,2022-10-12,2024-01-05,1,5.99,Accepted
+712,71040767438,F,2,7116.47,9361.52,Incomplete higher education,Rented apartment,Manager,2022-10-12,2023-08-08,8,4.93,Accepted
+713,81122791906,F,3,4961.44,16908.58,Higher education,Rented apartment,Laborer,2022-10-12,2024-09-01,8,4.96,Accepted
+714,95051962794,M,0,11967.03,14375.18,Secondary,Living with parents,Self-employed,2022-10-19,2024-01-12,0,4.83,Accepted
+715,71101162351,M,1,11146.28,8259.1,Secondary,Living with parents,Laborer,2022-10-19,2023-04-17,7,3.49,Accepted
+716,83071334906,F,1,13462.67,4087.64,Incomplete higher education,Owned house,Self-employed,2022-10-19,2024-03-12,0,4.72,Accepted
+717,73052011954,F,4,8681.2,15396.01,Incomplete higher education,Rented apartment,Laborer,2022-10-19,2023-04-17,0,6.8,Rejected
+718,67031423866,M,3,2771.53,6172.12,Secondary,Owned house,Self-employed,2022-10-19,2024-08-09,4,4.07,Accepted
+719,59042330493,M,4,14952.92,29313.13,Incomplete higher education,Living with parents,Laborer,2022-10-19,2024-01-12,9,4.34,Accepted
+720,52021841135,F,3,11272.61,4014.32,Higher education,Rented apartment,Laborer,2022-10-19,2024-05-11,4,4.86,Accepted
+721,71040767438,M,2,14628.65,13170.69,Incomplete higher education,Living with parents,Laborer,2022-10-19,2024-06-10,7,4.28,Accepted
+722,60072870633,F,2,5431.84,17852.82,Secondary,Rented apartment,Self-employed,2022-10-26,2024-01-19,2,5.05,Accepted
+723,61092776394,F,4,9688.14,20542.12,Incomplete higher education,Rented apartment,Manager,2022-10-26,2024-08-16,8,5.86,Accepted
+724,55041728385,M,0,12579.19,15247.64,Secondary,Owned house,Self-employed,2022-10-26,2024-05-18,8,3.25,Accepted
+725,67031423866,M,1,5686.27,27610.39,Secondary,Living with parents,Self-employed,2022-10-26,2023-04-24,10,3.17,Accepted
+726,88083168562,F,2,2079.33,20811.55,Higher education,Living with parents,Laborer,2022-10-26,2023-11-20,9,4.25,Accepted
+727,51053048215,F,4,13081.59,6298.05,Higher education,Rented apartment,Laborer,2022-10-26,2024-05-18,1,5.67,Accepted
+728,50111470136,M,0,5617.95,25656.13,Incomplete higher education,Living with parents,Manager,2022-10-26,2023-08-22,9,3.69,Accepted
+729,92122968923,F,0,8210.09,7464.95,Incomplete higher education,Owned house,Self-employed,2022-11-02,2023-09-28,4,6.61,Rejected
+730,90101865790,M,1,9870.42,15466.62,Incomplete higher education,Rented apartment,Self-employed,2022-11-02,2023-11-27,0,5.13,Accepted
+731,50121361133,M,1,2765.0,29222.35,Incomplete higher education,Owned house,Laborer,2022-11-02,2023-05-31,5,3.9,Accepted
+732,60011812323,M,4,9605.33,27869.65,Secondary,Owned house,Laborer,2022-11-02,2023-11-27,7,3.34,Accepted
+733,55040348380,M,2,6010.21,16999.63,Higher education,Living with parents,Self-employed,2022-11-02,2023-05-31,3,2.96,Accepted
+734,01231891871,F,2,8121.0,6180.94,Higher education,Rented apartment,Self-employed,2022-11-02,2023-12-27,0,4.78,Accepted
+735,99092126544,F,0,12413.25,9589.44,Higher education,Living with parents,Manager,2022-11-02,2023-08-29,0,5.32,Accepted
+736,51051428382,F,1,11419.48,19948.77,Secondary,Living with parents,Manager,2022-11-09,2024-01-03,10,6.33,Rejected
+737,80012535458,F,0,6755.07,18423.74,Higher education,Owned house,Self-employed,2022-11-09,2024-07-01,7,4.08,Accepted
+738,79081992884,F,0,11364.27,27538.55,Incomplete higher education,Owned house,Manager,2022-11-09,2024-10-29,5,4.54,Accepted
+739,01231891871,M,0,12829.9,23433.3,Incomplete higher education,Rented apartment,Self-employed,2022-11-09,2024-02-02,0,5.05,Accepted
+740,77012405868,F,1,11783.36,28474.75,Secondary,Rented apartment,Self-employed,2022-11-09,2023-12-04,10,5.92,Accepted
+741,53122027190,F,0,2550.59,25848.73,Higher education,Owned house,Laborer,2022-11-09,2023-11-04,3,4.14,Accepted
+742,95051962794,F,1,3166.98,22397.62,Secondary,Rented apartment,Self-employed,2022-11-16,2024-08-07,0,6.43,Rejected
+743,87052731503,F,1,9704.63,24447.79,Secondary,Owned house,Self-employed,2022-11-16,2023-06-14,0,5.76,Accepted
+744,60011812323,M,0,9649.47,4313.98,Secondary,Owned house,Self-employed,2022-11-16,2024-01-10,10,3.01,Accepted
+745,01290185598,M,0,4165.72,23335.55,Secondary,Rented apartment,Manager,2022-11-16,2024-01-10,0,3.81,Accepted
+746,56042027973,F,0,4769.3,10435.49,Incomplete higher education,Living with parents,Laborer,2022-11-16,2024-04-09,1,4.91,Accepted
+747,98091525464,M,0,14480.99,28218.57,Secondary,Rented apartment,Laborer,2022-11-16,2024-08-07,0,3.14,Accepted
+748,79110545634,F,2,5892.27,11862.51,Incomplete higher education,Living with parents,Laborer,2022-11-16,2023-12-11,10,5.31,Accepted
+749,52021841135,M,2,11794.0,26454.8,Incomplete higher education,Living with parents,Laborer,2022-11-16,2023-07-14,8,3.88,Accepted
+750,81122791906,M,1,11487.8,11696.04,Higher education,Living with parents,Manager,2022-11-16,2023-11-11,3,3.58,Accepted
+751,73030275371,M,4,7627.3,27608.67,Higher education,Living with parents,Self-employed,2022-11-16,2023-07-14,5,2.6,Accepted
+752,94011272336,F,0,12895.44,11373.44,Higher education,Owned house,Self-employed,2022-11-23,2024-07-15,7,5.03,Accepted
+753,60072870633,F,2,4282.33,16379.0,Secondary,Owned house,Manager,2022-11-23,2024-01-17,2,6.07,Rejected
+754,51112859465,F,1,7477.88,10570.85,Incomplete higher education,Living with parents,Laborer,2022-11-23,2024-11-12,4,6.47,Rejected
+755,69122995937,M,1,12605.69,10225.11,Higher education,Living with parents,Laborer,2022-11-23,2024-05-16,9,3.13,Accepted
+756,82092108233,F,3,10638.44,12588.17,Secondary,Owned house,Laborer,2022-11-23,2024-07-15,2,5.64,Accepted
+757,67031423866,F,3,13304.69,22699.57,Incomplete higher education,Rented apartment,Laborer,2022-11-23,2024-09-13,1,6.09,Rejected
+758,67072585800,M,1,12829.2,20004.87,Secondary,Owned house,Self-employed,2022-11-23,2024-06-15,0,4.2,Accepted
+759,60082414274,F,3,8136.23,5038.73,Incomplete higher education,Living with parents,Manager,2022-11-23,2024-03-17,4,5.82,Accepted
+760,90091640511,F,0,9902.31,3646.93,Incomplete higher education,Rented apartment,Self-employed,2022-11-23,2024-01-17,3,6.15,Rejected
+761,54020265766,F,1,7408.56,20967.67,Incomplete higher education,Owned house,Manager,2022-11-30,2024-11-19,9,4.89,Accepted
+762,94011272336,M,3,6952.11,20614.19,Higher education,Rented apartment,Manager,2022-11-30,2024-04-23,5,3.85,Accepted
+763,53051302064,M,0,5786.34,3092.29,Incomplete higher education,Living with parents,Laborer,2022-11-30,2024-07-22,3,4.12,Accepted
+764,92122968923,F,1,13843.24,15395.16,Secondary,Owned house,Self-employed,2022-11-30,2024-01-24,2,4.85,Accepted
+765,82071716715,M,1,7544.44,19582.8,Incomplete higher education,Living with parents,Manager,2022-11-30,2024-09-20,9,4.81,Accepted
+766,80032305962,F,4,5787.38,21813.55,Incomplete higher education,Rented apartment,Self-employed,2022-11-30,2023-11-25,8,7.14,Rejected
+767,71040767438,F,2,2075.35,13961.87,Higher education,Rented apartment,Manager,2022-11-30,2024-02-23,0,5.27,Accepted
+768,81122791906,F,0,11697.26,2015.5,Incomplete higher education,Owned house,Self-employed,2022-11-30,2023-08-27,6,5.73,Accepted
+769,78113028039,M,2,6448.01,16429.65,Secondary,Rented apartment,Manager,2022-12-07,2024-03-31,0,5.11,Accepted
+770,94011272336,F,3,2743.87,25863.71,Incomplete higher education,Rented apartment,Laborer,2022-12-07,2024-04-30,0,7.49,Rejected
+771,60072870633,F,2,3517.5,27881.42,Higher education,Living with parents,Manager,2022-12-07,2024-05-30,9,3.69,Accepted
+772,56042027973,F,3,8071.12,22159.09,Incomplete higher education,Living with parents,Self-employed,2022-12-07,2024-01-31,9,6.85,Rejected
+773,93121790183,F,0,12047.24,27604.94,Secondary,Living with parents,Manager,2022-12-07,2024-04-30,5,6.13,Rejected
+774,98012316588,F,2,5305.54,7818.74,Secondary,Owned house,Laborer,2022-12-07,2023-06-05,0,5.7,Accepted
+775,88083168562,F,0,5299.59,1605.88,Secondary,Owned house,Manager,2022-12-07,2024-04-30,10,6.02,Rejected
+776,60082414274,F,2,7075.65,19297.79,Incomplete higher education,Rented apartment,Self-employed,2022-12-07,2024-03-31,8,5.83,Accepted
+777,78090708723,M,2,9132.74,2117.17,Higher education,Rented apartment,Manager,2022-12-14,2023-12-09,3,2.61,Accepted
+778,81030824026,F,2,2995.19,10218.54,Incomplete higher education,Rented apartment,Laborer,2022-12-14,2024-12-03,10,6.0,Rejected
+779,72031461720,M,1,8115.96,17846.08,Incomplete higher education,Rented apartment,Manager,2022-12-14,2023-12-09,1,3.89,Accepted
+780,76122217499,M,0,14990.69,4271.12,Higher education,Rented apartment,Manager,2022-12-14,2024-08-05,6,1.44,Accepted
+781,50121361133,F,3,5872.8,18561.63,Secondary,Rented apartment,Self-employed,2022-12-14,2024-09-04,5,6.43,Rejected
+782,80012535458,F,2,8914.3,21840.9,Secondary,Rented apartment,Manager,2022-12-14,2024-07-06,0,5.93,Accepted
+783,98060912965,M,1,5858.37,12126.23,Higher education,Living with parents,Self-employed,2022-12-14,2024-02-07,0,3.9,Accepted
+784,93121790183,F,1,6567.84,12056.98,Secondary,Rented apartment,Self-employed,2022-12-14,2024-10-04,0,6.07,Rejected
+785,89073111382,M,2,14030.7,16760.86,Secondary,Owned house,Laborer,2022-12-14,2023-08-11,3,3.61,Accepted
+786,61070492443,F,4,10889.45,4931.33,Higher education,Rented apartment,Self-employed,2022-12-14,2023-09-10,6,5.13,Accepted
+787,73111389322,M,1,13121.06,9098.52,Secondary,Rented apartment,Manager,2022-12-21,2024-01-15,5,4.38,Accepted
+788,71101162351,F,2,9593.32,9093.08,Higher education,Owned house,Self-employed,2022-12-21,2024-08-12,0,4.26,Accepted
+789,60011812323,M,3,13323.43,21811.8,Incomplete higher education,Living with parents,Laborer,2022-12-21,2023-12-16,3,4.66,Accepted
+790,81100659720,F,1,11276.83,18491.36,Secondary,Living with parents,Self-employed,2022-12-21,2024-12-10,0,5.0,Accepted
+791,55041728385,F,1,10804.41,14090.14,Incomplete higher education,Owned house,Laborer,2022-12-21,2024-06-13,8,4.8,Accepted
+792,88030124922,M,4,8133.26,21170.04,Incomplete higher education,Living with parents,Manager,2022-12-21,2024-09-11,1,4.98,Accepted
+793,79110545634,M,0,9425.8,4933.84,Secondary,Living with parents,Laborer,2022-12-21,2024-04-14,1,4.05,Accepted
+794,83021144005,M,1,3229.72,16187.67,Secondary,Rented apartment,Self-employed,2022-12-21,2024-08-12,0,4.58,Accepted
+795,51053048215,M,3,10046.65,23450.1,Higher education,Owned house,Laborer,2022-12-21,2023-09-17,9,3.54,Accepted
+796,78113028039,F,2,9677.27,4149.7,Incomplete higher education,Owned house,Laborer,2022-12-28,2023-12-23,8,6.61,Rejected
+797,50101832748,F,0,7161.75,19274.79,Secondary,Owned house,Laborer,2022-12-28,2023-08-25,6,5.68,Accepted
+798,00231928642,M,0,4996.61,22249.46,Incomplete higher education,Owned house,Manager,2022-12-28,2023-06-26,0,4.22,Accepted
+799,80091916620,F,1,14842.52,25289.14,Incomplete higher education,Rented apartment,Self-employed,2022-12-28,2023-10-24,0,5.63,Accepted
+800,50121361133,F,3,5994.84,14964.3,Incomplete higher education,Rented apartment,Laborer,2022-12-28,2023-12-23,2,7.23,Rejected
+801,97100859123,M,3,4093.78,20262.52,Higher education,Living with parents,Self-employed,2022-12-28,2023-11-23,8,4.44,Accepted
+802,04240247825,F,1,14289.29,3057.02,Higher education,Rented apartment,Self-employed,2022-12-28,2024-10-18,0,5.94,Accepted
+803,82102831012,F,0,6823.18,29150.94,Higher education,Owned house,Laborer,2022-12-28,2024-07-20,6,3.58,Accepted
+804,98082262187,M,2,5938.66,27941.6,Higher education,Rented apartment,Laborer,2022-12-28,2024-09-18,0,4.64,Accepted
+805,77012405868,F,1,14477.17,25666.85,Secondary,Owned house,Laborer,2022-12-28,2024-12-17,0,5.36,Accepted
+806,54020265766,F,3,8003.54,17926.09,Higher education,Rented apartment,Laborer,2023-01-04,2024-10-25,7,4.01,Accepted
+807,93092174395,M,4,3322.21,8956.27,Higher education,Rented apartment,Laborer,2023-01-04,2024-12-24,5,4.63,Accepted
+808,81030824026,M,1,13954.39,7496.03,Incomplete higher education,Living with parents,Self-employed,2023-01-04,2024-11-24,0,3.88,Accepted
+809,72031461720,F,3,13904.01,3852.23,Incomplete higher education,Rented apartment,Self-employed,2023-01-04,2024-03-29,9,4.57,Accepted
+810,90101865790,F,3,8629.34,26470.64,Higher education,Owned house,Laborer,2023-01-04,2024-01-29,0,5.88,Accepted
+811,91062758698,M,0,4529.37,29214.29,Higher education,Living with parents,Manager,2023-01-04,2024-03-29,0,3.06,Accepted
+812,05310373619,M,3,6277.54,21928.12,Higher education,Living with parents,Manager,2023-01-04,2024-10-25,0,5.36,Accepted
+813,80042329922,F,3,6034.25,7164.28,Incomplete higher education,Living with parents,Manager,2023-01-04,2024-04-28,9,6.2,Rejected
+814,61092776394,F,2,13396.97,9704.34,Secondary,Living with parents,Laborer,2023-01-04,2023-11-30,6,6.13,Rejected
+815,55041728385,M,3,10279.16,23122.36,Higher education,Rented apartment,Self-employed,2023-01-04,2024-05-28,4,3.28,Accepted
+816,65112364277,F,4,10739.75,3677.29,Secondary,Rented apartment,Laborer,2023-01-04,2024-08-26,6,5.89,Accepted
+817,55040348380,F,4,5918.28,21875.87,Secondary,Living with parents,Laborer,2023-01-04,2024-09-25,7,6.19,Rejected
+818,99071284190,M,2,4261.44,29306.59,Incomplete higher education,Rented apartment,Manager,2023-01-04,2023-09-01,0,6.12,Rejected
+819,72031461720,F,1,14243.37,5675.46,Higher education,Rented apartment,Laborer,2023-01-11,2023-12-07,9,4.0,Accepted
+820,00231928642,M,4,2207.79,6139.66,Secondary,Owned house,Manager,2023-01-11,2024-08-03,0,5.79,Accepted
+821,58061406897,F,2,4213.97,21933.48,Secondary,Living with parents,Self-employed,2023-01-11,2024-01-06,8,6.48,Rejected
+822,71090953451,F,4,14780.28,2303.4,Higher education,Rented apartment,Self-employed,2023-01-11,2024-05-05,9,5.13,Accepted
+823,78071765288,F,4,13128.4,29476.51,Higher education,Owned house,Manager,2023-01-11,2024-08-03,8,4.92,Accepted
+824,97112988623,M,3,10266.93,27206.03,Secondary,Owned house,Self-employed,2023-01-11,2024-09-02,7,4.43,Accepted
+825,75061757793,M,0,2815.13,11786.99,Higher education,Living with parents,Laborer,2023-01-11,2023-10-08,6,1.99,Accepted
+826,62100569231,M,1,8229.86,11789.74,Higher education,Rented apartment,Self-employed,2023-01-11,2024-09-02,1,1.77,Accepted
+827,67123192424,M,4,4940.35,9102.08,Secondary,Owned house,Manager,2023-01-18,2023-11-14,0,5.17,Accepted
+828,73111389322,F,3,14660.12,14624.92,Secondary,Rented apartment,Laborer,2023-01-18,2024-10-09,5,5.66,Accepted
+829,50121361133,M,1,9673.54,8157.56,Incomplete higher education,Living with parents,Manager,2023-01-18,2024-04-12,4,3.88,Accepted
+830,98091525464,F,3,11425.83,7357.22,Incomplete higher education,Rented apartment,Laborer,2023-01-18,2024-12-08,0,5.74,Accepted
+831,83021144005,M,0,12610.8,26828.81,Secondary,Owned house,Laborer,2023-01-18,2024-02-12,9,3.13,Accepted
+832,98082262187,M,4,9690.29,17850.51,Higher education,Owned house,Laborer,2023-01-18,2024-05-12,0,4.3,Accepted
+833,64032500339,M,2,3359.54,5219.02,Secondary,Owned house,Manager,2023-01-18,2025-01-07,0,3.24,Accepted
+834,61070492443,F,3,13472.43,7772.83,Incomplete higher education,Owned house,Self-employed,2023-01-18,2023-09-15,8,5.97,Accepted
+835,52021841135,F,4,2608.59,12006.53,Secondary,Owned house,Manager,2023-01-18,2024-03-13,10,7.12,Rejected
+836,53051302064,M,0,8625.3,19697.32,Higher education,Owned house,Laborer,2023-01-25,2024-09-16,5,2.58,Accepted
+837,92050696497,F,4,5363.16,23170.55,Incomplete higher education,Living with parents,Self-employed,2023-01-25,2024-05-19,0,7.98,Rejected
+838,90101865790,M,1,11239.22,6576.44,Incomplete higher education,Living with parents,Laborer,2023-01-25,2023-10-22,7,4.35,Accepted
+839,87052731503,F,4,8819.38,1850.93,Incomplete higher education,Rented apartment,Laborer,2023-01-25,2024-06-18,0,5.98,Accepted
+840,83071334906,F,1,3203.16,21876.09,Higher education,Rented apartment,Laborer,2023-01-25,2024-01-20,3,4.92,Accepted
+841,66011392612,F,0,3256.93,25817.79,Incomplete higher education,Living with parents,Manager,2023-01-25,2024-07-18,5,5.96,Accepted
+842,82102831012,M,4,3985.21,25713.74,Secondary,Rented apartment,Laborer,2023-01-25,2024-06-18,0,4.59,Accepted
+843,79081992884,M,3,12091.87,19138.52,Incomplete higher education,Owned house,Self-employed,2023-01-25,2024-05-19,6,4.32,Accepted
+844,92101022481,M,3,14508.52,21501.46,Secondary,Owned house,Self-employed,2023-01-25,2024-03-20,0,5.53,Accepted
+845,50101832748,M,0,5258.53,22837.28,Higher education,Rented apartment,Manager,2023-02-01,2024-08-24,2,1.73,Accepted
+846,60080488775,M,0,8092.02,17980.07,Incomplete higher education,Rented apartment,Manager,2023-02-01,2023-09-29,7,3.78,Accepted
+847,51112859465,M,4,13976.84,27562.0,Secondary,Rented apartment,Laborer,2023-02-01,2023-11-28,0,4.68,Accepted
+848,97100859123,M,1,6105.0,27327.84,Higher education,Rented apartment,Manager,2023-02-01,2024-01-27,0,4.41,Accepted
+849,87052731503,M,3,11435.86,7650.06,Higher education,Living with parents,Self-employed,2023-02-01,2024-10-23,6,2.94,Accepted
+850,91110616850,M,3,7186.48,26097.67,Higher education,Owned house,Laborer,2023-02-01,2024-07-25,7,4.39,Accepted
+851,05310373619,F,0,6141.24,5792.63,Secondary,Owned house,Laborer,2023-02-01,2024-06-25,0,5.5,Accepted
+852,83071334906,F,3,6278.04,16109.39,Secondary,Living with parents,Manager,2023-02-01,2024-09-23,6,6.47,Rejected
+853,67031423866,M,4,8114.68,26462.28,Higher education,Owned house,Self-employed,2023-02-01,2025-01-21,10,3.34,Accepted
+854,67072585800,F,3,4956.83,20342.79,Higher education,Rented apartment,Laborer,2023-02-01,2025-01-21,0,4.88,Accepted
+855,51053048215,M,3,14710.33,20333.78,Secondary,Living with parents,Self-employed,2023-02-01,2023-09-29,9,3.81,Accepted
+856,78090708723,F,0,7332.92,20283.93,Higher education,Living with parents,Self-employed,2023-02-08,2024-04-03,10,3.67,Accepted
+857,94011272336,F,3,7214.74,22400.86,Higher education,Rented apartment,Laborer,2023-02-08,2023-09-06,10,5.56,Accepted
+858,81030824026,F,4,3608.4,15199.49,Secondary,Rented apartment,Laborer,2023-02-08,2023-09-06,2,6.05,Rejected
+859,67123192424,F,3,11064.75,29170.32,Secondary,Living with parents,Self-employed,2023-02-08,2024-08-01,1,5.28,Accepted
+860,50101832748,F,0,4760.02,20510.07,Higher education,Rented apartment,Manager,2023-02-08,2024-05-03,0,3.19,Accepted
+861,91110616850,M,3,12880.6,14210.11,Incomplete higher education,Living with parents,Self-employed,2023-02-08,2024-04-03,6,5.41,Accepted
+862,65112364277,F,1,6309.35,14177.55,Higher education,Owned house,Manager,2023-02-08,2024-02-03,0,4.08,Accepted
+863,98060912965,M,4,8829.76,19803.9,Incomplete higher education,Living with parents,Manager,2023-02-08,2024-07-02,0,4.5,Accepted
+864,55040348380,M,4,2078.94,20256.65,Secondary,Living with parents,Self-employed,2023-02-08,2023-11-05,6,4.55,Accepted
+865,93121790183,F,4,10363.32,8658.76,Secondary,Rented apartment,Self-employed,2023-02-08,2023-12-05,0,5.65,Accepted
+866,04240247825,F,3,5649.63,2501.92,Incomplete higher education,Owned house,Laborer,2023-02-08,2023-10-06,0,7.62,Rejected
+867,83021144005,M,1,12038.74,10716.5,Incomplete higher education,Owned house,Laborer,2023-02-08,2024-06-02,1,4.44,Accepted
+868,51053048215,M,2,14027.07,4988.84,Incomplete higher education,Living with parents,Manager,2023-02-08,2023-11-05,3,3.42,Accepted
+869,80032305962,F,1,10503.53,16498.94,Incomplete higher education,Rented apartment,Laborer,2023-02-08,2024-12-29,10,5.82,Accepted
+870,71040767438,M,4,6216.05,23011.73,Secondary,Owned house,Self-employed,2023-02-08,2024-05-03,1,3.79,Accepted
+871,67123192424,M,1,8391.58,1992.77,Incomplete higher education,Owned house,Manager,2023-02-15,2025-02-04,6,3.53,Accepted
+872,69122995937,M,4,6550.39,3819.25,Incomplete higher education,Living with parents,Manager,2023-02-15,2023-09-13,0,3.62,Accepted
+873,05310373619,F,0,9162.4,10992.19,Incomplete higher education,Living with parents,Manager,2023-02-15,2025-01-05,0,7.04,Rejected
+874,92021392955,F,2,10247.77,5557.82,Secondary,Rented apartment,Laborer,2023-02-15,2024-10-07,4,5.55,Accepted
+875,98082262187,F,0,14924.61,28946.29,Incomplete higher education,Rented apartment,Self-employed,2023-02-15,2024-05-10,0,5.14,Accepted
+876,88083168562,M,3,14315.63,11304.39,Secondary,Living with parents,Self-employed,2023-02-15,2023-09-13,9,4.67,Accepted
+877,64032500339,M,0,6020.52,21619.96,Higher education,Living with parents,Self-employed,2023-02-15,2024-05-10,6,2.07,Accepted
+878,81081972696,M,1,8977.82,14176.65,Incomplete higher education,Living with parents,Manager,2023-02-15,2024-01-11,1,4.73,Accepted
+879,92101022481,M,1,6843.29,2693.96,Incomplete higher education,Living with parents,Laborer,2023-02-15,2024-10-07,5,4.06,Accepted
+880,73111389322,F,2,4980.53,20297.88,Incomplete higher education,Owned house,Self-employed,2023-02-22,2024-04-17,7,6.27,Rejected
+881,90101865790,M,0,9196.31,13561.9,Higher education,Owned house,Self-employed,2023-02-22,2024-10-14,6,1.89,Accepted
+882,51112859465,F,1,7236.65,9317.93,Higher education,Rented apartment,Self-employed,2023-02-22,2023-11-19,2,4.05,Accepted
+883,97100859123,M,0,13990.56,27017.92,Higher education,Owned house,Laborer,2023-02-22,2023-11-19,0,2.98,Accepted
+884,87052731503,M,4,4815.71,18566.73,Higher education,Owned house,Laborer,2023-02-22,2024-08-15,0,4.34,Accepted
+885,05310373619,M,3,6916.55,21096.6,Incomplete higher education,Owned house,Laborer,2023-02-22,2025-01-12,0,5.87,Accepted
+886,65121041394,F,2,10069.58,27703.85,Secondary,Owned house,Manager,2023-02-22,2023-10-20,2,5.42,Accepted
+887,78071765288,F,4,14908.47,18054.41,Secondary,Rented apartment,Self-employed,2023-02-22,2023-09-20,4,5.97,Accepted
+888,89073111382,F,2,13542.77,25402.86,Higher education,Living with parents,Manager,2023-02-22,2023-10-20,0,4.01,Accepted
+889,01231891871,M,1,14525.21,29956.69,Incomplete higher education,Rented apartment,Manager,2023-02-22,2024-04-17,7,5.26,Accepted
+890,59110337123,F,4,11568.82,16403.81,Secondary,Owned house,Manager,2023-02-22,2024-11-13,10,5.78,Accepted
+891,99071284190,F,3,10154.31,16914.69,Higher education,Owned house,Self-employed,2023-02-22,2023-08-21,0,5.54,Accepted
+892,81122791906,F,1,4266.82,19166.89,Higher education,Rented apartment,Manager,2023-02-22,2024-12-13,0,3.65,Accepted
+893,54020265766,F,1,6753.68,24791.76,Incomplete higher education,Rented apartment,Self-employed,2023-03-01,2025-01-19,7,5.19,Accepted
+894,73010632230,M,4,11931.81,17096.17,Secondary,Rented apartment,Laborer,2023-03-01,2024-05-24,0,4.66,Accepted
+895,94011272336,M,3,2878.72,28055.95,Secondary,Rented apartment,Laborer,2023-03-01,2024-11-20,8,4.3,Accepted
+896,90101865790,F,3,7364.72,26073.17,Secondary,Living with parents,Manager,2023-03-01,2024-12-20,4,7.05,Rejected
+897,71101162351,M,1,14161.1,14269.82,Secondary,Living with parents,Laborer,2023-03-01,2024-07-23,8,4.37,Accepted
+898,50121361133,M,1,2913.92,25961.08,Higher education,Rented apartment,Laborer,2023-03-01,2024-09-21,7,2.74,Accepted
+899,05310373619,M,2,3828.06,16590.12,Secondary,Rented apartment,Laborer,2023-03-01,2023-10-27,0,5.25,Accepted
+900,80042329922,M,1,6267.56,21491.13,Incomplete higher education,Owned house,Self-employed,2023-03-01,2024-04-24,1,4.39,Accepted
+901,04240247825,F,0,6425.34,14778.55,Higher education,Rented apartment,Self-employed,2023-03-01,2023-11-26,0,5.58,Accepted
+902,67072585800,F,0,11922.38,27299.53,Incomplete higher education,Rented apartment,Manager,2023-03-01,2024-11-20,6,5.17,Accepted
+903,97122259736,F,0,10273.11,10744.01,Secondary,Owned house,Self-employed,2023-03-01,2023-10-27,7,5.67,Accepted
+904,51102439744,M,2,2018.67,11619.2,Higher education,Owned house,Self-employed,2023-03-08,2024-05-01,6,3.07,Accepted
+905,92050696497,M,0,11567.21,9911.34,Higher education,Living with parents,Manager,2023-03-08,2024-06-30,7,2.69,Accepted
+906,51051428382,M,0,9575.79,5988.61,Secondary,Owned house,Self-employed,2023-03-08,2024-09-28,3,3.35,Accepted
+907,67123192424,F,2,12608.61,25397.92,Secondary,Owned house,Laborer,2023-03-08,2024-05-01,0,5.31,Accepted
+908,60072870633,F,1,7825.68,15986.99,Higher education,Rented apartment,Laborer,2023-03-08,2024-05-01,3,3.48,Accepted
+909,91110616850,M,2,2319.84,21918.36,Incomplete higher education,Owned house,Self-employed,2023-03-08,2024-08-29,0,5.9,Accepted
+910,60011812323,F,0,6132.08,17717.28,Secondary,Living with parents,Self-employed,2023-03-08,2023-10-04,4,5.19,Accepted
+911,65120194881,F,1,12147.4,12448.97,Incomplete higher education,Living with parents,Manager,2023-03-08,2024-05-31,9,5.32,Accepted
+912,67031423866,M,1,14184.29,21915.58,Incomplete higher education,Living with parents,Self-employed,2023-03-08,2023-12-03,5,2.75,Accepted
+913,64032500339,F,0,4326.29,28501.73,Higher education,Living with parents,Self-employed,2023-03-08,2024-03-02,0,2.83,Accepted
+914,06262844540,M,2,6093.1,10931.78,Secondary,Living with parents,Laborer,2023-03-15,2024-10-05,0,5.71,Accepted
+915,75122412096,F,3,2591.87,16013.53,Incomplete higher education,Living with parents,Self-employed,2023-03-15,2024-07-07,3,7.28,Rejected
+916,91110616850,M,0,6978.63,19240.0,Higher education,Living with parents,Self-employed,2023-03-15,2023-12-10,0,3.08,Accepted
+917,98091525464,F,0,8604.4,15648.34,Higher education,Rented apartment,Self-employed,2023-03-15,2023-11-10,4,3.78,Accepted
+918,79110545634,M,2,14319.46,6084.99,Higher education,Rented apartment,Laborer,2023-03-15,2024-05-08,7,2.29,Accepted
+919,67031423866,M,3,7540.95,1931.13,Higher education,Living with parents,Self-employed,2023-03-15,2023-11-10,0,3.9,Accepted
+920,52021841135,F,0,7680.97,3797.43,Secondary,Rented apartment,Self-employed,2023-03-15,2024-04-08,10,4.7,Accepted
+921,93092174395,M,4,13808.09,22559.53,Higher education,Living with parents,Manager,2023-03-22,2025-02-09,7,4.58,Accepted
+922,73010632230,M,3,8562.39,22954.52,Incomplete higher education,Owned house,Manager,2023-03-22,2024-03-16,5,4.7,Accepted
+923,92122968923,M,4,10238.61,11588.63,Higher education,Owned house,Laborer,2023-03-22,2024-06-14,5,3.79,Accepted
+924,00231928642,F,2,12251.29,28904.95,Incomplete higher education,Rented apartment,Laborer,2023-03-22,2023-09-18,0,7.12,Rejected
+925,50121361133,M,3,4411.9,11600.5,Incomplete higher education,Owned house,Manager,2023-03-22,2024-10-12,10,5.67,Accepted
+926,61092776394,M,0,4611.25,6802.05,Secondary,Owned house,Manager,2023-03-22,2025-01-10,1,3.67,Accepted
+927,67031423866,F,1,7633.68,5983.6,Secondary,Rented apartment,Manager,2023-03-22,2024-11-11,6,6.06,Rejected
+928,97112988623,F,0,5262.15,15249.52,Secondary,Owned house,Self-employed,2023-03-22,2024-12-11,0,5.69,Accepted
+929,61070492443,F,3,11168.73,9111.07,Incomplete higher education,Living with parents,Self-employed,2023-03-22,2024-10-12,5,5.47,Accepted
+930,67123192424,M,0,14422.55,26507.81,Incomplete higher education,Living with parents,Manager,2023-03-29,2024-07-21,0,2.73,Accepted
+931,50101832748,M,3,11475.83,27790.96,Incomplete higher education,Owned house,Laborer,2023-03-29,2023-10-25,3,3.55,Accepted
+932,60072870633,M,0,10408.91,5250.95,Secondary,Owned house,Manager,2023-03-29,2024-06-21,1,4.04,Accepted
+933,82071716715,M,0,5669.51,16340.85,Incomplete higher education,Living with parents,Self-employed,2023-03-29,2023-11-24,5,4.58,Accepted
+934,69122995937,M,3,10081.34,1856.69,Higher education,Living with parents,Manager,2023-03-29,2025-01-17,5,3.57,Accepted
+935,91110616850,M,2,7059.49,11273.48,Higher education,Rented apartment,Manager,2023-03-29,2024-04-22,4,4.27,Accepted
+936,05310373619,F,2,9224.58,29281.5,Incomplete higher education,Owned house,Self-employed,2023-03-29,2023-10-25,0,7.07,Rejected
+937,61092776394,F,1,5089.33,5867.95,Secondary,Rented apartment,Manager,2023-03-29,2023-10-25,10,5.89,Accepted
+938,04240247825,M,1,11616.7,28853.55,Higher education,Owned house,Self-employed,2023-03-29,2023-10-25,8,3.66,Accepted
+939,80032305962,M,1,2975.17,25022.88,Higher education,Rented apartment,Manager,2023-03-29,2024-07-21,10,3.55,Accepted
+940,60082414274,M,4,8805.34,1023.47,Incomplete higher education,Rented apartment,Manager,2023-03-29,2024-09-19,3,4.91,Accepted
+941,73030275371,M,0,6959.83,23536.02,Secondary,Living with parents,Manager,2023-03-29,2023-09-25,6,2.31,Accepted
+942,71011487039,F,4,12718.28,6582.48,Higher education,Rented apartment,Laborer,2023-04-05,2023-11-01,9,5.31,Accepted
+943,74101998368,F,4,4103.21,20634.91,Secondary,Rented apartment,Self-employed,2023-04-05,2025-03-25,0,6.62,Rejected
+944,51112859465,F,4,9315.83,13483.45,Higher education,Living with parents,Self-employed,2023-04-05,2024-11-25,6,4.72,Accepted
+945,71090953451,F,0,13380.73,28446.91,Secondary,Rented apartment,Manager,2023-04-05,2023-11-01,3,4.87,Accepted
+946,78071765288,M,1,8128.77,3789.74,Incomplete higher education,Owned house,Manager,2023-04-05,2024-01-30,8,4.2,Accepted
+947,79110545634,F,4,7938.29,17824.46,Higher education,Living with parents,Manager,2023-04-05,2023-11-01,10,4.49,Accepted
+948,88083168562,F,2,3641.98,23662.28,Secondary,Rented apartment,Manager,2023-04-05,2024-10-26,9,5.29,Accepted
+949,54020265766,M,2,9563.08,12165.72,Incomplete higher education,Rented apartment,Laborer,2023-04-12,2024-06-05,10,5.31,Accepted
+950,51051428382,F,1,5895.55,16948.2,Secondary,Living with parents,Self-employed,2023-04-12,2024-01-07,5,6.27,Rejected
+951,67123192424,M,1,14645.29,23440.94,Secondary,Owned house,Manager,2023-04-12,2025-04-01,0,3.44,Accepted
+952,74101998368,F,3,8763.89,20814.72,Higher education,Rented apartment,Self-employed,2023-04-12,2024-12-02,10,5.61,Accepted
+953,90101865790,M,3,6793.05,20219.19,Higher education,Rented apartment,Laborer,2023-04-12,2023-12-08,10,4.69,Accepted
+954,91110616850,M,3,10705.92,16808.03,Secondary,Living with parents,Manager,2023-04-12,2023-12-08,9,4.16,Accepted
+955,81100659720,M,4,6796.93,29835.26,Incomplete higher education,Living with parents,Self-employed,2023-04-12,2025-01-31,4,4.2,Accepted
+956,65121041394,M,2,12464.32,8219.16,Incomplete higher education,Owned house,Self-employed,2023-04-12,2024-03-07,9,4.66,Accepted
+957,55040348380,F,0,11653.19,27288.66,Higher education,Living with parents,Self-employed,2023-04-12,2024-04-06,6,3.81,Accepted
+958,93121790183,M,1,2704.96,26852.56,Incomplete higher education,Rented apartment,Manager,2023-04-12,2023-12-08,0,5.06,Accepted
+959,98091525464,M,0,5626.0,16002.53,Secondary,Rented apartment,Laborer,2023-04-12,2025-04-01,0,3.24,Accepted
+960,89073111382,F,2,6879.19,14763.11,Secondary,Owned house,Manager,2023-04-12,2024-04-06,10,5.83,Accepted
+961,98012316588,M,2,11651.37,9970.34,Incomplete higher education,Rented apartment,Manager,2023-04-12,2025-03-02,0,4.27,Accepted
+962,97122259736,F,1,9239.59,11653.06,Incomplete higher education,Living with parents,Self-employed,2023-04-12,2024-04-06,0,6.69,Rejected
+963,93092174395,M,1,9284.62,13063.59,Higher education,Owned house,Manager,2023-04-19,2025-02-07,0,2.41,Accepted
+964,51102439744,F,2,2551.25,24387.71,Higher education,Living with parents,Self-employed,2023-04-19,2023-11-15,4,5.29,Accepted
+965,92050696497,F,0,6570.12,6005.76,Higher education,Rented apartment,Laborer,2023-04-19,2025-03-09,8,4.65,Accepted
+966,81030824026,F,1,9613.8,8564.23,Secondary,Owned house,Manager,2023-04-19,2024-11-09,0,4.93,Accepted
+967,71011487039,M,2,10765.2,11365.38,Higher education,Living with parents,Manager,2023-04-19,2023-11-15,3,2.97,Accepted
+968,50101832748,M,4,13639.04,6106.0,Incomplete higher education,Living with parents,Self-employed,2023-04-19,2024-06-12,5,5.31,Accepted
+969,98092648347,M,4,8450.24,3919.86,Higher education,Living with parents,Self-employed,2023-04-19,2024-10-10,0,4.24,Accepted
+970,72031461720,F,4,8482.27,28605.82,Secondary,Living with parents,Manager,2023-04-19,2023-11-15,10,6.05,Rejected
+971,73111389322,F,0,9634.82,20762.85,Secondary,Owned house,Laborer,2023-04-19,2024-02-13,10,4.77,Accepted
+972,75122412096,F,2,4080.87,29280.95,Higher education,Owned house,Laborer,2023-04-19,2024-12-09,1,4.02,Accepted
+973,82092108233,M,0,3172.42,20349.34,Higher education,Owned house,Laborer,2023-04-19,2024-05-13,8,1.59,Accepted
+974,83071334906,F,3,12564.7,4535.51,Secondary,Living with parents,Manager,2023-04-19,2024-03-14,3,6.06,Rejected
+975,65120194881,M,2,5643.22,12101.43,Incomplete higher education,Rented apartment,Laborer,2023-04-19,2024-09-10,0,4.63,Accepted
+976,82102831012,F,3,13290.06,3338.49,Incomplete higher education,Rented apartment,Manager,2023-04-19,2024-01-14,0,5.91,Accepted
+977,51053048215,M,0,2759.73,25723.38,Secondary,Rented apartment,Laborer,2023-04-19,2024-09-10,5,2.94,Accepted
+978,59110337123,M,1,7322.34,10968.31,Higher education,Owned house,Laborer,2023-04-19,2025-01-08,8,3.53,Accepted
+979,77012405868,M,0,13127.06,25226.35,Higher education,Owned house,Manager,2023-04-19,2023-10-16,2,2.14,Accepted
+980,78113028039,F,4,3351.92,18221.52,Secondary,Rented apartment,Manager,2023-04-26,2025-02-14,8,7.01,Rejected
+981,78090708723,M,3,4572.73,3348.04,Higher education,Living with parents,Self-employed,2023-04-26,2025-03-16,1,2.4,Accepted
+982,93092174395,M,4,8191.98,1006.48,Incomplete higher education,Owned house,Manager,2023-04-26,2025-01-15,5,5.14,Accepted
+983,81030824026,F,4,2434.09,5810.66,Secondary,Rented apartment,Laborer,2023-04-26,2024-03-21,3,6.69,Rejected
+984,67123192424,F,4,12262.39,20978.03,Incomplete higher education,Living with parents,Laborer,2023-04-26,2024-04-20,9,5.11,Accepted
+985,60080488775,M,2,13596.63,4659.67,Higher education,Living with parents,Manager,2023-04-26,2024-12-16,2,2.83,Accepted
+986,95051962794,F,0,5837.28,12878.16,Secondary,Owned house,Self-employed,2023-04-26,2023-10-23,0,4.71,Accepted
+987,75122412096,F,1,5146.62,14299.22,Incomplete higher education,Rented apartment,Laborer,2023-04-26,2024-01-21,1,5.11,Accepted
+988,80012535458,M,4,2964.9,17867.27,Secondary,Rented apartment,Manager,2023-04-26,2024-06-19,4,4.14,Accepted
+989,71090953451,F,4,3516.67,15331.84,Higher education,Rented apartment,Laborer,2023-04-26,2024-01-21,4,5.1,Accepted
+990,83071334906,F,3,8785.17,24807.41,Secondary,Rented apartment,Manager,2023-04-26,2025-04-15,7,6.38,Rejected
+991,55040348380,M,3,5585.54,23919.73,Higher education,Owned house,Self-employed,2023-04-26,2024-08-18,3,2.52,Accepted
+992,93121790183,M,3,4239.78,6086.22,Higher education,Living with parents,Self-employed,2023-04-26,2024-07-19,4,3.39,Accepted
+993,83021144005,F,2,4226.74,24900.18,Secondary,Rented apartment,Manager,2023-04-26,2023-11-22,3,5.98,Accepted
+994,77012405868,F,0,7402.57,14470.65,Higher education,Owned house,Manager,2023-04-26,2024-01-21,8,3.66,Accepted
+995,75061757793,M,0,2720.43,26882.53,Incomplete higher education,Owned house,Laborer,2023-04-26,2024-12-16,9,3.82,Accepted
+996,81122791906,F,4,2248.98,27695.75,Incomplete higher education,Owned house,Laborer,2023-04-26,2024-04-20,0,6.28,Rejected
+997,73010632230,M,2,7748.67,5292.06,Higher education,Living with parents,Manager,2023-05-03,2024-05-27,0,3.7,Accepted
+998,94011272336,M,1,2433.79,24119.02,Secondary,Rented apartment,Laborer,2023-05-03,2025-01-22,9,5.87,Accepted
+999,81030824026,F,4,14323.46,4508.41,Secondary,Living with parents,Self-employed,2023-05-03,2023-11-29,2,5.95,Accepted
+1000,71011487039,F,4,7047.55,18122.03,Secondary,Living with parents,Manager,2023-05-03,2024-06-26,9,5.1,Accepted
+1001,98092648347,F,2,13377.74,10062.21,Secondary,Living with parents,Self-employed,2023-05-03,2025-02-21,0,6.22,Rejected
+1002,82071716715,F,3,12221.97,23601.58,Secondary,Living with parents,Laborer,2023-05-03,2023-10-30,0,4.8,Accepted
+1003,65120194881,M,2,2449.02,18317.01,Higher education,Rented apartment,Manager,2023-05-03,2023-10-30,1,3.3,Accepted
+1004,93121790183,F,1,11357.03,24639.22,Incomplete higher education,Owned house,Manager,2023-05-03,2023-10-30,1,6.02,Rejected
+1005,82102831012,F,2,7343.67,6063.69,Higher education,Rented apartment,Self-employed,2023-05-03,2024-07-26,0,5.05,Accepted
+1006,79081992884,M,0,12446.99,12590.32,Incomplete higher education,Owned house,Manager,2023-05-03,2024-05-27,6,2.55,Accepted
+1007,59110337123,M,3,10394.81,24586.28,Secondary,Living with parents,Manager,2023-05-03,2025-04-22,6,4.51,Accepted
+1008,77012405868,M,1,10016.51,8707.01,Higher education,Owned house,Self-employed,2023-05-03,2024-01-28,0,2.37,Accepted
+1009,92101022481,M,2,2347.44,29433.86,Incomplete higher education,Living with parents,Laborer,2023-05-03,2024-10-24,0,4.78,Accepted
+1010,93092174395,M,1,8632.06,3953.44,Incomplete higher education,Rented apartment,Self-employed,2023-05-10,2024-05-04,2,4.25,Accepted
+1011,51051428382,F,0,7092.65,6872.48,Higher education,Rented apartment,Manager,2023-05-10,2024-03-05,10,3.55,Accepted
+1012,98092648347,F,1,9147.7,22042.28,Incomplete higher education,Rented apartment,Self-employed,2023-05-10,2024-05-04,0,6.92,Rejected
+1013,95051962794,F,0,8868.85,19020.81,Incomplete higher education,Rented apartment,Manager,2023-05-10,2023-12-06,0,5.44,Accepted
+1014,71101162351,F,4,12649.67,11872.76,Incomplete higher education,Living with parents,Laborer,2023-05-10,2024-10-01,3,5.11,Accepted
+1015,60011812323,M,3,3670.94,10168.73,Higher education,Owned house,Manager,2023-05-10,2025-04-29,4,2.35,Accepted
+1016,81100659720,F,0,13692.73,26189.35,Higher education,Rented apartment,Laborer,2023-05-10,2023-12-06,0,3.98,Accepted
+1017,61092776394,M,1,2148.87,1406.05,Incomplete higher education,Owned house,Laborer,2023-05-10,2024-10-01,8,4.08,Accepted
+1018,82102831012,M,0,12754.18,12910.23,Incomplete higher education,Rented apartment,Laborer,2023-05-10,2024-05-04,0,2.48,Accepted
+1019,77012405868,F,3,5556.52,24240.81,Incomplete higher education,Rented apartment,Laborer,2023-05-10,2024-10-31,10,5.88,Accepted
+1020,90091640511,F,2,11791.53,9542.65,Incomplete higher education,Living with parents,Manager,2023-05-10,2025-03-30,10,7.05,Rejected
+1021,71040767438,M,1,2616.35,4586.42,Incomplete higher education,Living with parents,Self-employed,2023-05-10,2024-07-03,3,4.33,Accepted
+1022,51102439744,F,4,14469.5,29766.79,Incomplete higher education,Living with parents,Manager,2023-05-17,2025-02-05,3,6.38,Rejected
+1023,53051302064,M,2,9764.53,18952.99,Incomplete higher education,Owned house,Laborer,2023-05-17,2025-03-07,2,4.96,Accepted
+1024,55040348380,M,1,2870.57,25328.35,Secondary,Rented apartment,Laborer,2023-05-17,2024-03-12,3,4.65,Accepted
+1025,78071765288,F,3,5391.17,23782.81,Higher education,Owned house,Self-employed,2023-05-17,2024-09-08,0,4.95,Accepted
+1026,73052011954,F,3,14016.84,5569.78,Incomplete higher education,Living with parents,Manager,2023-05-17,2023-11-13,6,4.9,Accepted
+1027,98082262187,F,0,8996.94,27777.0,Incomplete higher education,Living with parents,Self-employed,2023-05-17,2024-08-09,0,6.64,Rejected
+1028,89073111382,M,3,8708.42,9684.73,Incomplete higher education,Rented apartment,Self-employed,2023-05-17,2024-05-11,1,5.86,Accepted
+1029,98012316588,F,1,7598.39,12419.15,Incomplete higher education,Rented apartment,Self-employed,2023-05-17,2024-12-07,0,7.18,Rejected
+1030,62100569231,F,0,12609.97,29053.11,Higher education,Rented apartment,Self-employed,2023-05-17,2025-05-06,7,3.82,Accepted
+1031,60082414274,M,4,2853.34,7067.99,Higher education,Owned house,Manager,2023-05-17,2024-04-11,4,3.71,Accepted
+1032,54020265766,M,2,5635.72,27875.72,Secondary,Rented apartment,Self-employed,2023-05-24,2024-09-15,6,3.86,Accepted
+1033,71011487039,F,4,5797.78,13312.06,Higher education,Rented apartment,Self-employed,2023-05-24,2025-03-14,0,4.51,Accepted
+1034,74101998368,F,3,5707.64,10068.19,Secondary,Rented apartment,Manager,2023-05-24,2024-05-18,0,5.94,Accepted
+1035,00231928642,M,2,11775.29,8969.79,Secondary,Owned house,Self-employed,2023-05-24,2024-03-19,0,5.82,Accepted
+1036,61082195541,F,3,9584.3,18836.2,Higher education,Rented apartment,Laborer,2023-05-24,2024-01-19,1,3.57,Accepted
+1037,95051962794,M,0,7447.51,7921.86,Higher education,Living with parents,Self-employed,2023-05-24,2024-12-14,3,3.86,Accepted
+1038,75122412096,F,3,10543.65,21350.09,Incomplete higher education,Rented apartment,Laborer,2023-05-24,2024-04-18,1,6.61,Rejected
+1039,05310373619,F,4,10822.36,7011.07,Incomplete higher education,Owned house,Manager,2023-05-24,2024-06-17,0,7.21,Rejected
+1040,83021144005,M,0,8825.16,27378.84,Secondary,Rented apartment,Manager,2023-05-24,2023-11-20,4,2.73,Accepted
+1041,66011392612,F,3,3265.48,9723.12,Higher education,Living with parents,Manager,2023-05-24,2024-03-19,2,4.5,Accepted
+1042,89073111382,M,2,12032.12,16558.99,Incomplete higher education,Rented apartment,Laborer,2023-05-24,2024-05-18,0,4.63,Accepted
+1043,54020265766,F,4,8585.33,19119.68,Secondary,Living with parents,Laborer,2023-05-31,2024-06-24,4,6.5,Rejected
+1044,51102439744,M,4,12854.53,28816.81,Secondary,Owned house,Manager,2023-05-31,2025-01-20,2,4.94,Accepted
+1045,92050696497,F,1,14994.48,24292.38,Higher education,Rented apartment,Laborer,2023-05-31,2024-06-24,7,5.18,Accepted
+1046,50121361133,F,0,14849.68,26095.33,Incomplete higher education,Rented apartment,Manager,2023-05-31,2024-09-22,3,5.24,Accepted
+1047,80012535458,F,1,12397.11,16406.5,Incomplete higher education,Rented apartment,Laborer,2023-05-31,2024-06-24,1,5.24,Accepted
+1048,82102831012,F,3,11086.83,17971.12,Higher education,Rented apartment,Laborer,2023-05-31,2025-05-20,0,3.95,Accepted
+1049,98082262187,F,0,14069.05,14346.14,Higher education,Owned house,Manager,2023-05-31,2024-02-25,0,3.88,Accepted
+1050,98012316588,M,4,8207.59,13996.35,Secondary,Rented apartment,Laborer,2023-05-31,2025-01-20,0,5.07,Accepted
+1051,53122027190,F,2,2956.34,28676.83,Secondary,Rented apartment,Laborer,2023-05-31,2024-05-25,7,6.49,Rejected
+1052,81122791906,F,2,14208.93,28354.37,Secondary,Owned house,Laborer,2023-05-31,2024-01-26,7,4.92,Accepted
+1053,78090708723,F,4,8553.29,19774.0,Higher education,Living with parents,Laborer,2023-06-07,2024-07-31,3,5.02,Accepted
+1054,93092174395,F,4,10035.47,11346.79,Incomplete higher education,Owned house,Manager,2023-06-07,2024-03-03,6,7.16,Rejected
+1055,60072870633,F,3,13558.97,24667.11,Secondary,Rented apartment,Self-employed,2023-06-07,2025-05-27,8,5.8,Accepted
+1056,69122995937,M,4,14610.09,8379.72,Secondary,Rented apartment,Self-employed,2023-06-07,2025-01-27,10,4.26,Accepted
+1057,67072585800,F,0,9519.68,5319.98,Higher education,Owned house,Self-employed,2023-06-07,2024-12-28,10,4.1,Accepted
+1058,61070492443,M,3,13723.99,24380.46,Incomplete higher education,Living with parents,Manager,2023-06-07,2024-03-03,1,4.07,Accepted
+1059,75061757793,M,2,2464.43,2086.14,Incomplete higher education,Owned house,Self-employed,2023-06-07,2024-07-01,4,5.29,Accepted
+1060,60082414274,M,4,7569.23,11420.55,Higher education,Living with parents,Laborer,2023-06-07,2024-05-02,6,2.99,Accepted
+1061,06262844540,F,0,7045.3,20023.72,Higher education,Owned house,Self-employed,2023-06-14,2024-03-10,0,4.07,Accepted
+1062,61092776394,M,3,11360.68,17953.76,Secondary,Owned house,Self-employed,2023-06-14,2024-05-09,9,3.52,Accepted
+1063,93121790183,F,3,13308.07,4043.22,Secondary,Owned house,Laborer,2023-06-14,2024-01-10,0,6.03,Rejected
+1064,04240247825,F,1,5644.67,4269.72,Incomplete higher education,Owned house,Manager,2023-06-14,2024-02-09,0,6.43,Rejected
+1065,59110337123,F,4,8046.61,22605.99,Secondary,Owned house,Laborer,2023-06-14,2024-04-09,9,6.14,Rejected
+1066,50111470136,M,3,8954.42,6303.26,Incomplete higher education,Rented apartment,Laborer,2023-06-14,2025-01-04,2,3.72,Accepted
+1067,71040767438,F,0,3723.61,1059.97,Incomplete higher education,Living with parents,Manager,2023-06-14,2024-03-10,9,4.13,Accepted
+1068,78090708723,F,2,13862.25,6811.09,Incomplete higher education,Owned house,Self-employed,2023-06-21,2025-04-11,5,6.59,Rejected
+1069,53051302064,M,3,2537.95,20406.2,Higher education,Living with parents,Self-employed,2023-06-21,2024-04-16,8,3.21,Accepted
+1070,73111389322,M,2,13644.66,16421.98,Incomplete higher education,Living with parents,Laborer,2023-06-21,2024-02-16,9,3.85,Accepted
+1071,90101865790,F,0,2226.34,16564.32,Secondary,Owned house,Laborer,2023-06-21,2024-05-16,0,5.78,Accepted
+1072,80012535458,M,1,11708.84,11265.52,Higher education,Rented apartment,Self-employed,2023-06-21,2025-01-11,1,2.02,Accepted
+1073,71090953451,M,1,13597.6,7855.05,Higher education,Living with parents,Manager,2023-06-21,2024-10-13,2,1.74,Accepted
+1074,82102831012,M,0,9690.87,1941.69,Higher education,Rented apartment,Manager,2023-06-21,2023-12-18,5,3.19,Accepted
+1075,67072585800,M,3,12126.26,21555.44,Higher education,Living with parents,Manager,2023-06-21,2024-09-13,2,2.9,Accepted
+1076,64032500339,F,3,9784.56,2335.38,Higher education,Living with parents,Laborer,2023-06-21,2025-05-11,8,4.37,Accepted
+1077,81081972696,M,2,5438.03,26601.09,Secondary,Rented apartment,Self-employed,2023-06-21,2024-07-15,10,5.02,Accepted
+1078,50111470136,M,1,6014.43,8983.27,Secondary,Living with parents,Self-employed,2023-06-21,2024-06-15,9,3.53,Accepted
+1079,01290185598,M,3,4003.0,19865.35,Secondary,Owned house,Self-employed,2023-06-28,2024-05-23,0,6.65,Rejected
+1080,80042329922,M,2,5916.17,20858.02,Higher education,Rented apartment,Manager,2023-06-28,2024-06-22,0,3.24,Accepted
+1081,65112364277,F,2,9837.55,20000.93,Incomplete higher education,Living with parents,Laborer,2023-06-28,2024-03-24,6,6.39,Rejected
+1082,55040348380,F,1,8929.73,1691.69,Higher education,Owned house,Laborer,2023-06-28,2024-08-21,10,3.79,Accepted
+1083,92021392955,M,1,10397.14,24102.61,Higher education,Rented apartment,Manager,2023-06-28,2025-01-18,0,2.62,Accepted
+1084,78071765288,F,4,8765.66,9663.05,Incomplete higher education,Rented apartment,Laborer,2023-06-28,2025-03-19,2,7.02,Rejected
+1085,79081992884,M,0,14705.66,17671.44,Incomplete higher education,Rented apartment,Manager,2023-06-28,2024-12-19,9,2.49,Accepted
+1086,51053048215,M,0,3496.79,4264.15,Higher education,Owned house,Self-employed,2023-06-28,2024-02-23,3,2.54,Accepted
+1087,52021841135,F,1,3698.91,14621.21,Incomplete higher education,Owned house,Self-employed,2023-06-28,2025-06-17,0,6.86,Rejected
+1088,74101998368,F,3,3264.11,13570.77,Secondary,Living with parents,Laborer,2023-07-05,2025-01-25,8,5.22,Accepted
+1089,70090803442,F,3,8520.19,15829.76,Incomplete higher education,Rented apartment,Laborer,2023-07-05,2025-05-25,3,5.49,Accepted
+1090,75122412096,M,2,5952.9,1314.08,Incomplete higher education,Owned house,Laborer,2023-07-05,2024-01-01,5,5.34,Accepted
+1091,98060912965,M,4,2041.93,26955.53,Higher education,Owned house,Self-employed,2023-07-05,2025-02-24,0,3.84,Accepted
+1092,55040348380,F,2,8630.99,17160.75,Higher education,Living with parents,Laborer,2023-07-05,2024-05-30,2,4.58,Accepted
+1093,79110545634,M,1,5485.45,4558.44,Incomplete higher education,Owned house,Manager,2023-07-05,2025-04-25,4,3.33,Accepted
+1094,83021144005,M,0,11903.33,4004.28,Secondary,Rented apartment,Self-employed,2023-07-05,2024-01-31,1,3.1,Accepted
+1095,80032305962,M,0,8640.44,28455.08,Incomplete higher education,Owned house,Self-employed,2023-07-05,2024-01-01,1,2.73,Accepted
+1096,78113028039,F,1,4971.73,22055.71,Secondary,Rented apartment,Manager,2023-07-12,2025-03-03,4,5.56,Accepted
+1097,53051302064,F,3,2251.82,19936.82,Secondary,Living with parents,Self-employed,2023-07-12,2024-05-07,5,6.79,Rejected
+1098,92050696497,F,3,5840.92,11758.27,Higher education,Rented apartment,Laborer,2023-07-12,2024-03-08,10,5.92,Accepted
+1099,91062758698,M,0,14699.43,10196.69,Secondary,Owned house,Laborer,2023-07-12,2025-04-02,7,3.3,Accepted
+1100,82092108233,M,3,14638.05,6442.32,Higher education,Owned house,Manager,2023-07-12,2024-07-06,8,2.56,Accepted
+1101,62021231186,M,4,5129.13,29666.32,Higher education,Rented apartment,Self-employed,2023-07-12,2024-05-07,6,2.76,Accepted
+1102,92101022481,F,1,8579.81,1148.05,Secondary,Living with parents,Manager,2023-07-12,2025-02-01,6,6.99,Rejected
+1103,94011272336,M,0,7362.95,22779.02,Secondary,Rented apartment,Self-employed,2023-07-19,2024-10-11,0,4.44,Accepted
+1104,67123192424,F,1,13569.98,7627.22,Secondary,Owned house,Self-employed,2023-07-19,2024-03-15,0,5.81,Accepted
+1105,80091916620,F,0,11596.51,16241.6,Secondary,Rented apartment,Self-employed,2023-07-19,2024-06-13,10,5.23,Accepted
+1106,76122217499,F,2,9046.46,27780.78,Secondary,Owned house,Laborer,2023-07-19,2024-04-14,4,6.0,Rejected
+1107,80012535458,F,0,2241.26,14774.27,Secondary,Living with parents,Self-employed,2023-07-19,2025-07-08,9,5.47,Accepted
+1108,65112364277,F,3,3682.67,16980.01,Incomplete higher education,Owned house,Laborer,2023-07-19,2024-11-10,4,5.82,Accepted
+1109,98091525464,M,4,14561.6,13325.87,Higher education,Owned house,Manager,2023-07-19,2025-05-09,0,4.18,Accepted
+1110,73052011954,F,1,14356.47,16578.42,Incomplete higher education,Owned house,Laborer,2023-07-19,2025-06-08,0,5.19,Accepted
+1111,98082262187,F,4,2095.71,28713.2,Higher education,Rented apartment,Self-employed,2023-07-19,2024-09-11,0,5.3,Accepted
+1112,79081992884,M,2,11235.45,10026.12,Higher education,Owned house,Laborer,2023-07-19,2024-10-11,2,2.81,Accepted
+1113,94011272336,F,0,14303.01,7837.06,Secondary,Rented apartment,Manager,2023-07-26,2024-05-21,5,5.38,Accepted
+1114,74101998368,F,2,5784.26,1437.5,Higher education,Rented apartment,Laborer,2023-07-26,2025-06-15,0,3.74,Accepted
+1115,06262844540,M,1,12205.15,19141.77,Higher education,Rented apartment,Self-employed,2023-07-26,2024-09-18,0,3.13,Accepted
+1116,61092776394,F,4,12091.98,11741.94,Higher education,Rented apartment,Manager,2023-07-26,2024-07-20,5,5.31,Accepted
+1117,65112364277,F,4,6033.95,12764.28,Incomplete higher education,Living with parents,Laborer,2023-07-26,2024-03-22,0,6.93,Rejected
+1118,83071334906,M,2,7308.11,4306.47,Incomplete higher education,Rented apartment,Self-employed,2023-07-26,2025-07-15,0,4.91,Accepted
+1119,88030124922,M,0,4308.98,16120.98,Secondary,Living with parents,Self-employed,2023-07-26,2025-03-17,2,4.25,Accepted
+1120,81081972696,M,1,9662.09,26077.2,Incomplete higher education,Living with parents,Manager,2023-07-26,2025-02-15,3,3.15,Accepted
+1121,99092126544,F,4,7738.7,4785.6,Higher education,Rented apartment,Self-employed,2023-07-26,2025-05-16,0,6.74,Rejected
+1122,61070492443,F,2,12712.2,26714.86,Secondary,Living with parents,Laborer,2023-07-26,2025-06-15,5,5.11,Accepted
+1123,75061757793,F,2,9366.79,23174.7,Higher education,Owned house,Self-employed,2023-07-26,2024-04-21,0,3.6,Accepted
+1124,99071284190,F,1,11303.03,9030.1,Higher education,Owned house,Manager,2023-07-26,2024-03-22,2,5.44,Accepted
+1125,53051302064,F,1,3600.34,24338.92,Higher education,Rented apartment,Laborer,2023-08-02,2025-05-23,7,5.18,Accepted
+1126,92050696497,M,4,7130.7,19223.52,Higher education,Rented apartment,Laborer,2023-08-02,2025-06-22,7,4.75,Accepted
+1127,92122968923,M,2,11296.92,11555.42,Secondary,Living with parents,Manager,2023-08-02,2024-05-28,4,4.96,Accepted
+1128,71011487039,F,0,3573.33,28760.52,Secondary,Rented apartment,Laborer,2023-08-02,2025-06-22,6,5.14,Accepted
+1129,67123192424,F,2,13882.96,26297.13,Secondary,Rented apartment,Laborer,2023-08-02,2024-09-25,8,5.77,Accepted
+1130,73111389322,M,4,8546.33,23723.32,Incomplete higher education,Rented apartment,Manager,2023-08-02,2025-01-23,0,4.17,Accepted
+1131,00231928642,F,0,7679.81,6811.63,Incomplete higher education,Rented apartment,Laborer,2023-08-02,2025-04-23,0,7.08,Rejected
+1132,80091916620,M,3,11376.54,20846.39,Higher education,Rented apartment,Laborer,2023-08-02,2025-07-22,8,3.97,Accepted
+1133,91110616850,F,0,8070.75,6640.09,Higher education,Owned house,Laborer,2023-08-02,2024-02-28,7,5.29,Accepted
+1134,60011812323,F,2,14635.92,19695.02,Incomplete higher education,Owned house,Manager,2023-08-02,2025-06-22,5,5.82,Accepted
+1135,80042329922,F,0,2791.51,14422.86,Incomplete higher education,Rented apartment,Laborer,2023-08-02,2024-02-28,0,4.79,Accepted
+1136,83071334906,F,0,10576.93,15292.62,Higher education,Owned house,Manager,2023-08-02,2024-10-25,10,3.25,Accepted
+1137,65121041394,M,2,7414.11,1358.08,Incomplete higher education,Owned house,Manager,2023-08-02,2024-07-27,1,3.81,Accepted
+1138,55040348380,F,3,3221.8,29588.04,Incomplete higher education,Owned house,Laborer,2023-08-02,2024-05-28,9,6.52,Rejected
+1139,93121790183,F,1,2761.18,19593.56,Secondary,Owned house,Manager,2023-08-02,2024-05-28,1,6.7,Rejected
+1140,83021144005,M,3,6825.19,5143.59,Secondary,Living with parents,Self-employed,2023-08-02,2024-07-27,0,3.95,Accepted
+1141,66011392612,F,2,9844.08,6420.8,Secondary,Owned house,Self-employed,2023-08-02,2025-03-24,8,5.17,Accepted
+1142,81081972696,M,3,9187.71,19152.09,Higher education,Owned house,Manager,2023-08-02,2024-01-29,1,3.4,Accepted
+1143,50111470136,F,1,2232.37,5512.95,Incomplete higher education,Living with parents,Manager,2023-08-02,2024-07-27,6,5.97,Accepted
+1144,97122259736,F,1,6628.85,15231.48,Higher education,Owned house,Manager,2023-08-02,2025-01-23,0,4.57,Accepted
+1145,92122968923,F,1,12859.19,28208.79,Secondary,Living with parents,Self-employed,2023-08-09,2025-03-01,5,5.76,Accepted
+1146,70090803442,F,3,2930.42,10499.32,Incomplete higher education,Rented apartment,Self-employed,2023-08-09,2025-04-30,5,5.12,Accepted
+1147,90101865790,M,0,12454.1,7592.97,Secondary,Living with parents,Laborer,2023-08-09,2025-07-29,7,4.65,Accepted
+1148,75122412096,F,2,2281.57,4279.93,Secondary,Living with parents,Laborer,2023-08-09,2025-07-29,0,5.69,Accepted
+1149,82092108233,F,1,13585.17,5429.73,Higher education,Owned house,Laborer,2023-08-09,2024-04-05,9,4.73,Accepted
+1150,65120194881,F,4,7005.15,6148.19,Incomplete higher education,Owned house,Manager,2023-08-09,2024-05-05,3,6.0,Rejected
+1151,83021144005,F,1,10621.34,5818.7,Incomplete higher education,Owned house,Laborer,2023-08-09,2025-05-30,0,4.69,Accepted
+1152,75061757793,F,0,2941.14,10695.2,Incomplete higher education,Owned house,Self-employed,2023-08-09,2024-11-01,1,5.2,Accepted
+1153,62100569231,F,3,5470.88,6295.97,Incomplete higher education,Owned house,Laborer,2023-08-09,2024-09-02,8,5.24,Accepted
+1154,53122027190,F,4,10072.29,12350.28,Incomplete higher education,Rented apartment,Manager,2023-08-09,2025-03-01,7,5.89,Accepted
+1155,93092174395,F,4,4146.65,25648.49,Incomplete higher education,Living with parents,Self-employed,2023-08-16,2024-11-08,3,7.36,Rejected
+1156,51102439744,M,2,10781.22,22773.66,Higher education,Owned house,Self-employed,2023-08-16,2024-10-09,4,3.19,Accepted
+1157,81030824026,F,2,7709.83,1554.92,Higher education,Owned house,Manager,2023-08-16,2025-01-07,4,4.3,Accepted
+1158,50101832748,M,2,2770.97,13960.97,Incomplete higher education,Rented apartment,Manager,2023-08-16,2024-03-13,7,5.32,Accepted
+1159,98092648347,M,1,4565.41,10107.71,Incomplete higher education,Rented apartment,Self-employed,2023-08-16,2024-07-11,2,5.16,Accepted
+1160,65112364277,M,2,10325.45,3099.27,Higher education,Living with parents,Manager,2023-08-16,2024-05-12,6,3.08,Accepted
+1161,65120194881,F,4,13892.02,24718.51,Secondary,Owned house,Laborer,2023-08-16,2024-03-13,1,5.55,Accepted
+1162,62021231186,F,2,5468.69,19651.61,Secondary,Living with parents,Manager,2023-08-16,2024-12-08,6,6.09,Rejected
+1163,67072585800,F,3,14945.89,17349.97,Secondary,Owned house,Laborer,2023-08-16,2025-02-06,4,4.58,Accepted
+1164,75061757793,M,1,14401.81,6543.43,Higher education,Owned house,Self-employed,2023-08-16,2024-03-13,1,1.78,Accepted
+1165,99071284190,M,4,9083.24,8474.32,Higher education,Rented apartment,Laborer,2023-08-16,2024-10-09,0,3.93,Accepted
+1166,80091916620,F,3,14572.71,14497.86,Incomplete higher education,Owned house,Laborer,2023-08-23,2024-08-17,10,5.67,Accepted
+1167,05310373619,F,4,10021.19,1782.3,Secondary,Living with parents,Laborer,2023-08-23,2024-02-19,0,7.77,Rejected
+1168,73052011954,F,1,2498.09,9954.0,Higher education,Living with parents,Laborer,2023-08-23,2024-05-19,0,3.78,Accepted
+1169,83021144005,F,3,8687.17,22416.47,Higher education,Living with parents,Laborer,2023-08-23,2025-08-12,1,5.19,Accepted
+1170,54020265766,F,4,7025.65,5551.86,Incomplete higher education,Rented apartment,Laborer,2023-08-30,2024-02-26,10,6.16,Rejected
+1171,93092174395,F,0,8239.48,3956.06,Incomplete higher education,Owned house,Self-employed,2023-08-30,2025-06-20,2,5.57,Accepted
+1172,94011272336,F,1,7884.76,3049.88,Higher education,Living with parents,Self-employed,2023-08-30,2024-12-22,0,4.2,Accepted
+1173,81030824026,F,3,4078.64,8701.5,Secondary,Owned house,Manager,2023-08-30,2024-08-24,2,6.51,Rejected
+1174,92122968923,M,4,7992.79,19433.03,Higher education,Living with parents,Laborer,2023-08-30,2024-08-24,0,4.21,Accepted
+1175,06262844540,F,2,10156.63,4583.68,Secondary,Owned house,Laborer,2023-08-30,2025-07-20,0,7.02,Rejected
+1176,76122217499,F,2,4469.42,2063.37,Incomplete higher education,Owned house,Manager,2023-08-30,2025-03-22,0,5.76,Accepted
+1177,50121361133,M,1,2982.82,21026.21,Secondary,Rented apartment,Self-employed,2023-08-30,2024-08-24,2,3.87,Accepted
+1178,60011812323,M,4,11044.06,25954.43,Higher education,Rented apartment,Self-employed,2023-08-30,2024-06-25,9,3.04,Accepted
+1179,01290185598,F,1,10603.65,13059.64,Higher education,Living with parents,Laborer,2023-08-30,2024-04-26,0,4.38,Accepted
+1180,98060912965,F,1,10787.9,7591.43,Secondary,Living with parents,Laborer,2023-08-30,2024-02-26,0,5.28,Accepted
+1181,82092108233,M,0,8178.24,6060.6,Higher education,Living with parents,Self-employed,2023-08-30,2025-04-21,0,3.05,Accepted
+1182,73052011954,M,2,8703.79,23585.88,Higher education,Owned house,Manager,2023-08-30,2024-04-26,9,3.06,Accepted
+1183,62021231186,F,3,14543.35,19199.56,Incomplete higher education,Owned house,Self-employed,2023-08-30,2025-05-21,4,4.48,Accepted
+1184,98082262187,M,0,2594.22,2115.38,Higher education,Rented apartment,Laborer,2023-08-30,2025-08-19,0,4.08,Accepted
+1185,89073111382,M,0,4527.4,16633.2,Incomplete higher education,Rented apartment,Manager,2023-08-30,2024-07-25,10,3.91,Accepted
+1186,59042330493,F,0,8957.71,7979.77,Higher education,Living with parents,Manager,2023-08-30,2025-08-19,3,3.29,Accepted
+1187,60082414274,F,4,4322.88,29708.56,Higher education,Rented apartment,Self-employed,2023-08-30,2024-06-25,1,5.19,Accepted
+1188,53051302064,F,0,6766.51,4740.24,Secondary,Rented apartment,Manager,2023-09-06,2024-09-30,8,5.93,Accepted
+1189,60080488775,M,3,5986.05,5877.37,Secondary,Living with parents,Laborer,2023-09-06,2025-02-27,2,3.64,Accepted
+1190,98092648347,M,4,9103.05,13569.71,Higher education,Rented apartment,Laborer,2023-09-06,2024-09-30,0,4.8,Accepted
+1191,90101865790,F,3,3316.86,6726.66,Secondary,Owned house,Laborer,2023-09-06,2024-04-03,7,5.74,Accepted
+1192,91110616850,F,1,9734.54,18417.44,Higher education,Rented apartment,Manager,2023-09-06,2024-04-03,10,5.38,Accepted
+1193,80012535458,F,0,13725.01,4131.9,Secondary,Owned house,Laborer,2023-09-06,2025-08-26,5,4.46,Accepted
+1194,05310373619,F,1,4707.25,8520.0,Incomplete higher education,Rented apartment,Self-employed,2023-09-06,2025-02-27,0,7.43,Rejected
+1195,98060912965,F,1,8062.93,12368.9,Incomplete higher education,Rented apartment,Manager,2023-09-06,2024-04-03,0,5.94,Accepted
+1196,73052011954,M,2,10715.92,12393.94,Secondary,Owned house,Self-employed,2023-09-06,2024-07-02,9,4.15,Accepted
+1197,92101022481,F,1,2617.15,1955.23,Secondary,Living with parents,Manager,2023-09-06,2024-04-03,9,6.98,Rejected
+1198,78090708723,M,4,11086.13,15301.02,Higher education,Owned house,Laborer,2023-09-13,2025-02-04,0,2.41,Accepted
+1199,93092174395,F,2,11098.82,10770.51,Higher education,Living with parents,Self-employed,2023-09-13,2024-05-10,4,5.43,Accepted
+1200,74101998368,F,1,4714.62,1734.17,Secondary,Owned house,Self-employed,2023-09-13,2024-09-07,0,6.6,Rejected
+1201,61082195541,M,1,4919.4,26517.62,Secondary,Rented apartment,Laborer,2023-09-13,2024-08-08,1,3.98,Accepted
+1202,71101162351,M,1,7215.37,23265.54,Incomplete higher education,Owned house,Manager,2023-09-13,2024-07-09,2,3.28,Accepted
+1203,60011812323,F,2,6691.7,6518.4,Higher education,Rented apartment,Self-employed,2023-09-13,2025-04-05,5,5.25,Accepted
+1204,71090953451,M,1,5544.39,3169.31,Higher education,Owned house,Manager,2023-09-13,2025-03-06,0,1.83,Accepted
+1205,73052011954,F,4,12886.37,6343.21,Secondary,Owned house,Self-employed,2023-09-13,2024-05-10,8,6.04,Rejected
+1206,89073111382,F,0,8707.74,14727.43,Secondary,Living with parents,Laborer,2023-09-13,2024-10-07,0,5.61,Accepted
+1207,01231891871,F,1,11398.46,6176.27,Incomplete higher education,Living with parents,Manager,2023-09-13,2024-06-09,0,5.75,Accepted
+1208,81081972696,M,2,9053.56,7425.13,Incomplete higher education,Living with parents,Self-employed,2023-09-13,2025-07-04,0,5.08,Accepted
+1209,61070492443,F,0,3576.34,4325.0,Higher education,Living with parents,Self-employed,2023-09-13,2024-06-09,10,3.62,Accepted
+1210,59042330493,M,4,14898.1,6277.37,Higher education,Rented apartment,Self-employed,2023-09-13,2025-06-04,1,1.88,Accepted
+1211,72031461720,M,3,10521.43,6175.18,Incomplete higher education,Rented apartment,Laborer,2023-09-20,2024-03-18,7,4.01,Accepted
+1212,55040348380,F,1,7273.96,9779.71,Incomplete higher education,Living with parents,Laborer,2023-09-20,2024-11-13,3,5.33,Accepted
+1213,97112988623,F,2,8642.6,20430.96,Incomplete higher education,Living with parents,Manager,2023-09-20,2024-03-18,0,7.33,Rejected
+1214,59110337123,F,0,6632.54,11502.78,Higher education,Rented apartment,Manager,2023-09-20,2024-08-15,9,2.99,Accepted
+1215,67123192424,F,4,7260.66,25582.06,Incomplete higher education,Owned house,Laborer,2023-09-27,2024-04-24,0,5.19,Accepted
+1216,73111389322,M,2,5989.41,13118.4,Secondary,Living with parents,Self-employed,2023-09-27,2025-03-20,9,4.75,Accepted
+1217,71101162351,M,3,6558.63,17014.71,Higher education,Living with parents,Laborer,2023-09-27,2024-07-23,6,3.54,Accepted
+1218,50121361133,M,3,14294.96,15526.49,Higher education,Owned house,Laborer,2023-09-27,2024-09-21,1,3.86,Accepted
+1219,60011812323,M,1,14502.89,11650.38,Incomplete higher education,Owned house,Self-employed,2023-09-27,2024-12-20,8,3.75,Accepted
+1220,80012535458,M,0,5203.51,16744.7,Secondary,Rented apartment,Self-employed,2023-09-27,2024-12-20,6,2.81,Accepted
+1221,93121790183,F,2,10323.73,21346.12,Secondary,Rented apartment,Laborer,2023-09-27,2024-05-24,8,6.26,Rejected
+1222,97112988623,M,4,12416.59,29962.82,Incomplete higher education,Rented apartment,Self-employed,2023-09-27,2025-02-18,1,5.55,Accepted
+1223,51053048215,F,1,6002.22,8086.87,Secondary,Owned house,Laborer,2023-09-27,2024-06-23,3,4.74,Accepted
+1224,50111470136,M,2,3862.18,22166.18,Incomplete higher education,Living with parents,Manager,2023-09-27,2025-08-17,9,4.22,Accepted
+1225,75061757793,F,1,6128.0,7832.65,Secondary,Rented apartment,Manager,2023-09-27,2024-05-24,9,5.98,Accepted
+1226,97122259736,F,2,7128.79,22802.46,Secondary,Living with parents,Self-employed,2023-09-27,2024-12-20,0,6.71,Rejected
+1227,74101998368,M,4,7835.99,13263.27,Higher education,Living with parents,Self-employed,2023-10-04,2024-08-29,0,3.86,Accepted
+1228,98092648347,F,3,4639.91,28365.16,Secondary,Rented apartment,Self-employed,2023-10-04,2024-05-31,0,5.87,Accepted
+1229,76122217499,M,3,3964.66,22214.86,Incomplete higher education,Living with parents,Manager,2023-10-04,2025-04-26,0,5.06,Accepted
+1230,75122412096,M,2,6485.52,14007.37,Higher education,Rented apartment,Manager,2023-10-04,2025-06-25,8,3.24,Accepted
+1231,93121790183,F,0,11343.58,7037.43,Secondary,Owned house,Self-employed,2023-10-04,2025-07-25,8,4.81,Accepted
+1232,89073111382,F,0,9859.77,24477.56,Incomplete higher education,Owned house,Manager,2023-10-04,2024-09-28,6,5.89,Accepted
+1233,61070492443,M,2,5269.32,20755.46,Higher education,Owned house,Laborer,2023-10-04,2025-05-26,9,3.17,Accepted
+1234,59042330493,M,4,3271.84,25855.29,Higher education,Living with parents,Laborer,2023-10-04,2025-03-27,4,3.49,Accepted
+1235,52021841135,F,0,5411.93,23706.46,Incomplete higher education,Living with parents,Self-employed,2023-10-04,2025-09-23,4,4.7,Accepted
+1236,78090708723,F,1,4938.69,5360.12,Higher education,Rented apartment,Self-employed,2023-10-11,2024-04-08,7,3.99,Accepted
+1237,94011272336,F,2,4501.21,5334.38,Higher education,Rented apartment,Manager,2023-10-11,2024-09-05,9,5.99,Accepted
+1238,51102439744,F,0,8380.56,2766.56,Higher education,Rented apartment,Self-employed,2023-10-11,2025-08-31,5,4.43,Accepted
+1239,98092648347,M,2,5177.65,14207.85,Secondary,Owned house,Laborer,2023-10-11,2024-04-08,0,4.06,Accepted
+1240,00231928642,F,2,12954.93,24614.04,Higher education,Living with parents,Self-employed,2023-10-11,2024-10-05,0,5.17,Accepted
+1241,90101865790,F,4,11492.44,1451.21,Higher education,Rented apartment,Manager,2023-10-11,2025-07-02,6,4.74,Accepted
+1242,51112859465,M,4,9417.22,8019.41,Higher education,Owned house,Manager,2023-10-11,2025-03-04,9,4.02,Accepted
+1243,01290185598,M,4,4245.48,13597.69,Higher education,Rented apartment,Laborer,2023-10-11,2025-01-03,0,4.7,Accepted
+1244,67031423866,M,3,8968.82,2527.15,Higher education,Living with parents,Self-employed,2023-10-11,2025-06-02,9,3.44,Accepted
+1245,98082262187,F,3,6183.37,16686.51,Higher education,Living with parents,Laborer,2023-10-11,2024-07-07,0,5.79,Accepted
+1246,59110337123,F,1,10009.73,21418.38,Incomplete higher education,Owned house,Self-employed,2023-10-11,2024-06-07,3,4.36,Accepted
+1247,97122259736,M,4,11372.65,20114.3,Incomplete higher education,Rented apartment,Self-employed,2023-10-11,2024-06-07,0,5.51,Accepted
+1248,54020265766,M,3,3818.75,20341.96,Higher education,Living with parents,Self-employed,2023-10-18,2025-06-09,6,2.85,Accepted
+1249,93092174395,M,4,11173.98,6600.18,Incomplete higher education,Rented apartment,Self-employed,2023-10-18,2025-02-09,8,5.02,Accepted
+1250,50101832748,F,1,11733.57,9656.64,Secondary,Owned house,Manager,2023-10-18,2025-02-09,10,5.01,Accepted
+1251,90101865790,F,1,10079.87,29594.38,Secondary,Living with parents,Laborer,2023-10-18,2024-04-15,8,6.68,Rejected
+1252,82071716715,M,1,10811.17,21237.14,Incomplete higher education,Living with parents,Manager,2023-10-18,2025-08-08,0,4.59,Accepted
+1253,91110616850,F,4,4325.79,5414.35,Higher education,Owned house,Manager,2023-10-18,2025-09-07,4,5.87,Accepted
+1254,05310373619,F,4,7601.37,18662.69,Secondary,Owned house,Laborer,2023-10-18,2025-10-07,0,8.04,Rejected
+1255,98060912965,F,3,2473.7,3850.17,Secondary,Living with parents,Laborer,2023-10-18,2024-08-13,0,7.03,Rejected
+1256,82092108233,M,2,13938.92,12067.8,Higher education,Owned house,Self-employed,2023-10-18,2024-06-14,9,3.24,Accepted
+1257,54020265766,F,0,14874.27,18679.98,Higher education,Owned house,Self-employed,2023-10-25,2024-10-19,2,3.7,Accepted
+1258,92122968923,F,4,13784.75,9600.54,Higher education,Rented apartment,Manager,2023-10-25,2025-02-16,0,5.33,Accepted
+1259,98092648347,M,4,10548.87,1464.65,Incomplete higher education,Owned house,Self-employed,2023-10-25,2024-07-21,0,4.9,Accepted
+1260,70090803442,F,4,8863.84,18454.04,Incomplete higher education,Rented apartment,Laborer,2023-10-25,2025-10-14,2,5.71,Accepted
+1261,97100859123,F,3,9934.6,25671.73,Incomplete higher education,Living with parents,Laborer,2023-10-25,2025-02-16,0,7.12,Rejected
+1262,01290185598,F,2,10834.32,27063.74,Incomplete higher education,Owned house,Manager,2023-10-25,2024-04-22,0,6.0,Rejected
+1263,88030124922,F,4,14518.75,10210.32,Incomplete higher education,Living with parents,Laborer,2023-10-25,2025-01-17,6,5.08,Accepted
+1264,93121790183,F,0,9439.48,21974.73,Higher education,Rented apartment,Manager,2023-10-25,2024-09-19,2,4.57,Accepted
+1265,04240247825,M,2,6415.98,11362.88,Higher education,Owned house,Self-employed,2023-10-25,2025-02-16,0,3.31,Accepted
+1266,66011392612,F,1,5209.51,20604.53,Incomplete higher education,Living with parents,Laborer,2023-10-25,2024-09-19,0,5.96,Accepted
+1267,99092126544,M,1,2290.41,6105.64,Secondary,Owned house,Manager,2023-10-25,2025-05-17,1,6.28,Rejected
+1268,52021841135,M,4,6068.46,15795.66,Incomplete higher education,Living with parents,Self-employed,2023-10-25,2025-07-16,1,4.11,Accepted
+1269,53122027190,M,2,8132.56,10059.28,Secondary,Rented apartment,Manager,2023-10-25,2025-04-17,6,4.43,Accepted
+1270,92101022481,F,1,12717.72,6805.76,Secondary,Owned house,Self-employed,2023-10-25,2025-08-15,8,5.03,Accepted
+1271,73010632230,M,0,6506.42,9071.46,Secondary,Living with parents,Self-employed,2023-11-01,2024-11-25,0,3.52,Accepted
+1272,61082195541,F,0,8067.19,24482.21,Higher education,Owned house,Laborer,2023-11-01,2025-10-21,9,3.29,Accepted
+1273,01290185598,M,1,3838.98,6345.26,Higher education,Living with parents,Manager,2023-11-01,2025-02-23,0,4.07,Accepted
+1274,79110545634,F,4,4611.53,2667.58,Incomplete higher education,Living with parents,Self-employed,2023-11-01,2025-02-23,7,6.28,Rejected
+1275,82102831012,F,1,4322.85,5681.46,Secondary,Owned house,Self-employed,2023-11-01,2024-06-28,7,5.51,Accepted
+1276,51053048215,F,1,14721.09,3860.48,Secondary,Living with parents,Self-employed,2023-11-01,2025-02-23,5,5.28,Accepted
+1277,64032500339,M,1,13887.31,29042.83,Secondary,Living with parents,Self-employed,2023-11-01,2025-09-21,5,4.25,Accepted
+1278,77012405868,F,4,8217.03,2463.45,Incomplete higher education,Owned house,Self-employed,2023-11-01,2024-12-25,2,6.7,Rejected
+1279,53122027190,M,1,10789.35,4563.68,Secondary,Rented apartment,Self-employed,2023-11-01,2024-06-28,2,4.15,Accepted
+1280,73010632230,F,3,6985.01,18844.75,Secondary,Living with parents,Manager,2023-11-08,2025-05-01,5,5.45,Accepted
+1281,60072870633,M,4,12468.04,17403.66,Higher education,Rented apartment,Self-employed,2023-11-08,2025-06-30,6,3.21,Accepted
+1282,73111389322,M,4,14660.27,28368.05,Higher education,Rented apartment,Laborer,2023-11-08,2025-04-01,7,3.2,Accepted
+1283,90101865790,M,4,4273.22,6777.33,Higher education,Owned house,Manager,2023-11-08,2024-09-03,3,4.27,Accepted
+1284,87052731503,F,2,4726.81,29914.33,Incomplete higher education,Rented apartment,Laborer,2023-11-08,2025-10-28,6,6.25,Rejected
+1285,91110616850,F,3,7258.69,12886.84,Secondary,Owned house,Self-employed,2023-11-08,2024-12-02,0,7.34,Rejected
+1286,80012535458,F,4,12036.53,24281.96,Incomplete higher education,Owned house,Laborer,2023-11-08,2024-07-05,8,5.23,Accepted
+1287,05310373619,M,4,9178.15,22889.02,Secondary,Owned house,Manager,2023-11-08,2025-06-30,0,5.86,Accepted
+1288,55041728385,F,3,5002.74,19240.17,Higher education,Rented apartment,Self-employed,2023-11-08,2024-07-05,10,5.89,Accepted
+1289,65120194881,M,2,8166.46,1005.21,Incomplete higher education,Rented apartment,Self-employed,2023-11-08,2025-07-30,0,3.59,Accepted
+1290,67031423866,F,0,3925.22,22645.12,Incomplete higher education,Living with parents,Manager,2023-11-08,2024-08-04,0,4.87,Accepted
+1291,52021841135,M,0,3178.0,15091.68,Higher education,Owned house,Self-employed,2023-11-08,2024-11-02,7,2.08,Accepted
+1292,54020265766,M,4,5431.72,17842.29,Secondary,Living with parents,Manager,2023-11-15,2024-12-09,1,5.64,Accepted
+1293,93092174395,M,0,7728.61,5629.2,Incomplete higher education,Rented apartment,Laborer,2023-11-15,2025-04-08,7,4.1,Accepted
+1294,51112859465,F,2,5808.51,3314.2,Higher education,Rented apartment,Self-employed,2023-11-15,2024-11-09,3,4.67,Accepted
+1295,65121041394,F,3,13119.65,3103.43,Incomplete higher education,Owned house,Self-employed,2023-11-15,2025-06-07,0,5.56,Accepted
+1296,88030124922,F,4,5653.25,17345.61,Higher education,Owned house,Laborer,2023-11-15,2025-04-08,10,4.26,Accepted
+1297,75061757793,F,0,11078.76,15934.55,Higher education,Rented apartment,Self-employed,2023-11-15,2025-03-09,0,3.97,Accepted
+1298,62100569231,M,2,4998.24,13843.86,Higher education,Rented apartment,Manager,2023-11-15,2024-06-12,4,3.38,Accepted
+1299,81122791906,M,0,4356.4,1940.14,Secondary,Rented apartment,Laborer,2023-11-15,2024-05-13,4,3.2,Accepted
+1300,51102439744,F,2,6188.92,28502.88,Higher education,Owned house,Self-employed,2023-11-22,2025-07-14,7,5.54,Accepted
+1301,58061406897,F,2,7634.15,11347.51,Incomplete higher education,Owned house,Self-employed,2023-11-22,2024-10-17,1,6.69,Rejected
+1302,51112859465,M,2,12464.89,22376.11,Secondary,Owned house,Manager,2023-11-22,2024-09-17,2,3.66,Accepted
+1303,71090953451,M,1,10227.81,20320.91,Higher education,Rented apartment,Manager,2023-11-22,2025-07-14,10,2.18,Accepted
+1304,01290185598,M,0,4364.26,1240.71,Secondary,Living with parents,Laborer,2023-11-22,2024-06-19,0,5.0,Accepted
+1305,78071765288,F,4,5268.06,26783.91,Incomplete higher education,Owned house,Laborer,2023-11-22,2025-01-15,4,6.71,Rejected
+1306,73052011954,M,3,9601.85,18481.61,Secondary,Rented apartment,Laborer,2023-11-22,2025-05-15,3,4.65,Accepted
+1307,88083168562,M,2,7326.06,29106.51,Secondary,Living with parents,Self-employed,2023-11-22,2024-05-20,9,4.58,Accepted
+1308,59110337123,M,0,11554.12,21090.22,Higher education,Living with parents,Manager,2023-11-22,2024-09-17,1,1.26,Accepted
+1309,99092126544,M,0,9414.54,23415.93,Higher education,Owned house,Self-employed,2023-11-22,2025-11-11,0,2.7,Accepted
+1310,99071284190,F,3,10226.56,19459.08,Higher education,Living with parents,Self-employed,2023-11-22,2025-02-14,0,6.55,Rejected
+1311,90091640511,M,0,8425.25,20739.97,Secondary,Living with parents,Laborer,2023-11-22,2024-11-16,9,4.52,Accepted
+1312,92122968923,F,4,7495.22,11274.16,Higher education,Rented apartment,Manager,2023-11-29,2025-09-19,10,5.52,Accepted
+1313,51051428382,F,1,5360.93,15520.05,Incomplete higher education,Owned house,Self-employed,2023-11-29,2025-08-20,1,5.34,Accepted
+1314,67123192424,M,1,8987.06,27649.59,Higher education,Living with parents,Laborer,2023-11-29,2025-02-21,4,2.46,Accepted
+1315,50101832748,M,3,10717.33,17613.38,Higher education,Owned house,Manager,2023-11-29,2025-08-20,10,2.82,Accepted
+1316,98092648347,M,3,10609.52,4883.91,Secondary,Living with parents,Self-employed,2023-11-29,2025-04-22,0,4.25,Accepted
+1317,58061406897,M,0,2724.78,23652.54,Higher education,Living with parents,Self-employed,2023-11-29,2025-04-22,6,2.24,Accepted
+1318,69122995937,M,2,9143.95,21955.96,Higher education,Owned house,Self-employed,2023-11-29,2025-04-22,9,2.6,Accepted
+1319,60011812323,M,4,6631.04,7178.01,Incomplete higher education,Living with parents,Manager,2023-11-29,2024-11-23,10,4.41,Accepted
+1320,65112364277,F,2,6173.83,23810.36,Secondary,Owned house,Manager,2023-11-29,2024-11-23,8,4.51,Accepted
+1321,89073111382,F,3,5543.34,26948.79,Secondary,Rented apartment,Manager,2023-11-29,2024-11-23,3,5.8,Accepted
+1322,88083168562,F,4,6518.69,12575.25,Secondary,Living with parents,Laborer,2023-11-29,2025-05-22,0,7.16,Rejected
+1323,92122968923,F,1,3998.43,20259.72,Higher education,Owned house,Manager,2023-12-06,2025-09-26,0,4.29,Accepted
+1324,00231928642,F,4,3248.6,6166.17,Higher education,Owned house,Manager,2023-12-06,2024-07-03,0,6.09,Rejected
+1325,71101162351,M,3,9998.93,28974.84,Incomplete higher education,Owned house,Manager,2023-12-06,2025-11-25,5,4.14,Accepted
+1326,05310373619,M,0,13500.28,27205.83,Secondary,Living with parents,Laborer,2023-12-06,2025-03-30,0,5.32,Accepted
+1327,98060912965,M,1,10466.04,8069.57,Incomplete higher education,Owned house,Manager,2023-12-06,2025-07-28,0,4.94,Accepted
+1328,62021231186,M,1,14730.44,7896.23,Higher education,Living with parents,Manager,2023-12-06,2025-08-27,4,1.23,Accepted
+1329,51053048215,M,3,5943.81,17549.91,Higher education,Owned house,Self-employed,2023-12-06,2025-06-28,9,2.6,Accepted
+1330,59110337123,M,0,13148.37,19059.66,Higher education,Rented apartment,Manager,2023-12-06,2024-11-30,2,1.38,Accepted
+1331,61070492443,F,0,9420.04,13617.75,Secondary,Rented apartment,Self-employed,2023-12-06,2025-10-26,4,4.86,Accepted
+1332,80012535458,F,2,9117.52,7796.7,Higher education,Living with parents,Self-employed,2023-12-13,2025-12-02,7,4.16,Accepted
+1333,81100659720,M,1,13424.53,9402.49,Higher education,Living with parents,Manager,2023-12-13,2024-08-09,3,2.55,Accepted
+1334,80042329922,F,1,13388.95,7513.27,Higher education,Living with parents,Manager,2023-12-13,2025-04-06,5,3.85,Accepted
+1335,65121041394,M,3,14858.71,16964.09,Secondary,Owned house,Manager,2023-12-13,2025-12-02,7,4.69,Accepted
+1336,97112988623,M,0,3058.99,25798.35,Higher education,Living with parents,Self-employed,2023-12-13,2024-06-10,0,2.8,Accepted
+1337,98082262187,F,3,3912.38,22086.16,Higher education,Owned house,Self-employed,2023-12-13,2024-12-07,0,4.81,Accepted
+1338,50111470136,F,1,11391.49,29900.69,Incomplete higher education,Living with parents,Laborer,2023-12-13,2025-01-06,3,4.71,Accepted
+1339,59042330493,F,3,12985.79,19520.29,Incomplete higher education,Owned house,Self-employed,2023-12-13,2024-11-07,4,6.43,Rejected
+1340,99071284190,M,2,13746.46,2429.17,Secondary,Rented apartment,Laborer,2023-12-13,2025-07-05,0,5.59,Accepted
+1341,71040767438,F,2,12828.86,24189.49,Secondary,Rented apartment,Laborer,2023-12-13,2024-07-10,8,5.67,Accepted
+1342,98092648347,M,3,10831.86,29007.95,Secondary,Owned house,Manager,2023-12-20,2025-04-13,0,4.85,Accepted
+1343,61082195541,M,4,5239.39,15432.22,Secondary,Living with parents,Self-employed,2023-12-20,2024-07-17,1,5.23,Accepted
+1344,51112859465,F,0,7143.74,29871.27,Secondary,Rented apartment,Manager,2023-12-20,2025-11-09,9,5.61,Accepted
+1345,69122995937,F,1,9943.92,4769.28,Higher education,Living with parents,Laborer,2023-12-20,2024-09-15,0,3.69,Accepted
+1346,83071334906,F,0,2965.93,17678.86,Secondary,Living with parents,Laborer,2023-12-20,2025-01-13,8,5.01,Accepted
+1347,67031423866,M,1,4337.76,25446.92,Incomplete higher education,Living with parents,Self-employed,2023-12-20,2024-10-15,3,4.16,Accepted
+1348,88083168562,F,0,11301.48,8066.77,Incomplete higher education,Owned house,Self-employed,2023-12-20,2024-11-14,6,4.04,Accepted
+1349,61070492443,F,1,7314.91,7735.97,Incomplete higher education,Owned house,Manager,2023-12-20,2025-01-13,2,5.66,Accepted
+1350,74101998368,M,3,6631.37,15868.03,Incomplete higher education,Living with parents,Laborer,2023-12-27,2025-08-18,0,4.8,Accepted
+1351,00231928642,F,2,9850.51,24224.12,Incomplete higher education,Owned house,Laborer,2023-12-27,2025-05-20,0,7.36,Rejected
+1352,90101865790,M,1,11905.06,25650.63,Secondary,Rented apartment,Manager,2023-12-27,2025-12-16,3,5.39,Accepted
+1353,61082195541,F,1,7665.5,19788.61,Secondary,Owned house,Laborer,2023-12-27,2025-05-20,4,6.09,Rejected
+1354,51112859465,M,4,8846.07,21666.91,Incomplete higher education,Rented apartment,Laborer,2023-12-27,2025-09-17,2,4.19,Accepted
+1355,87052731503,F,1,11677.23,17049.46,Secondary,Living with parents,Self-employed,2023-12-27,2025-06-19,0,4.72,Accepted
+1356,91110616850,F,3,14792.65,23469.01,Higher education,Rented apartment,Laborer,2023-12-27,2024-06-24,8,4.54,Accepted
+1357,80012535458,M,1,11761.74,15305.58,Secondary,Living with parents,Self-employed,2023-12-27,2024-07-24,1,4.17,Accepted
+1358,98060912965,M,1,4723.48,26604.43,Secondary,Owned house,Laborer,2023-12-27,2025-12-16,0,5.3,Accepted
+1359,56042027973,M,2,10794.75,4388.4,Secondary,Rented apartment,Self-employed,2023-12-27,2025-06-19,2,4.06,Accepted
+1360,88030124922,M,1,11309.69,23586.5,Higher education,Owned house,Self-employed,2023-12-27,2025-02-19,7,2.51,Accepted
+1361,97112988623,M,1,4403.91,14585.01,Incomplete higher education,Owned house,Laborer,2023-12-27,2024-09-22,0,5.03,Accepted
+1362,77012405868,M,3,5079.69,24629.75,Secondary,Living with parents,Manager,2023-12-27,2024-12-21,0,4.35,Accepted
+1363,61070492443,F,3,9148.4,24272.07,Higher education,Living with parents,Self-employed,2023-12-27,2024-06-24,8,5.14,Accepted
+1364,75061757793,M,1,6113.03,26370.92,Incomplete higher education,Rented apartment,Laborer,2023-12-27,2025-09-17,8,4.49,Accepted
