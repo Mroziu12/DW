@@ -112,7 +112,7 @@ def create_loan_and_schedule(customer, form, current_date, employees):
 
     loan = {
         "LoanID": loan_id,
-        "Type": "Standard",
+        "Type": random.choice(["mortgage", "personal", "medical", "student", "bridge"]),
         "Amount": amount,
         "Interest_Rate": round(random.uniform(3.0, 8.0), 2),
         "Approval_Date": current_date.strftime("%Y-%m-%d"),
