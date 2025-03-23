@@ -23,7 +23,7 @@ def generate_accounts(customers):
             "Type": "Personal",
             "Open_Date": open_date,
             "Balance": round(random.uniform(1000, 10000), 2),
-            "Customer_ID": customer["Pesel"]
+            "CustomerID": customer["Pesel"]
         }
         accounts.append(personal_account)
         acc_id +=1
@@ -35,7 +35,7 @@ def generate_accounts(customers):
                 "Type": "Savings",
                 "Open_Date": open_date,
                 "Balance": round(random.uniform(500, 20000), 2),
-                "Customer_ID": customer["Pesel"]
+                "CustomerID": customer["Pesel"]
             }
             accounts.append(savings_account)
             acc_id +=1

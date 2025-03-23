@@ -119,8 +119,8 @@ def create_loan_and_schedule(customer, form, current_date, employees):
         "Final_Repayment_Date": (current_date + timedelta(days=30 * months)).strftime("%Y-%m-%d"),
         "Date_Of_Credit_Closing": None,
         "Status": "Active",
-        "Customer_ID": customer["Pesel"],
-        "Employee_ID": random.choice(employees)["EmployeeID"]
+        "CustomerID": customer["Pesel"],
+        "EmployeeID": random.choice(employees)["EmployeeID"]
     }
 
     payments = []
@@ -214,6 +214,7 @@ def check_if_loan_defaulted(current_date,loan,payments):
     days_overdue = (current_date - due_date).days
     if days_overdue > DEFAULT_GRACE_DAYS:
         loan["Status"] = "defaulted"
+        loan["Date_Of_Credit_Closing"] = current_date.strftime("%Y-%m-%d")
         for payment in payments:
             if payment["LoanID"] == loan["LoanID"]:
                 if payment["Status"] == "to-be-made":
