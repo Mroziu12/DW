@@ -7,4 +7,4 @@ class PolandPhoneNumberProvider(Provider):
     """
 
     def poland_phone_number(self):
-        return f'48{self.msisdn()[3:]}'
+        return f'48{self.msisdn()[4:]}'

@@ -14,7 +14,7 @@ def generate_branches(n=3):
     return branches
 
 def generate_employees(branches, min_employees_per_branch=2, max_employees_per_branch=5):
-    roles = ["Clerk", "Loan Advisor", "Manager", "Customer Service", "Teller"]
+    roles = ["senior salesman", "salesman", "junior", "intern"]
     employees = []
     emp_id = 1
 
